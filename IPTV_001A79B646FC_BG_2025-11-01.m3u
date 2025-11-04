@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/bulgaria2.xml.gz"
+#EXTM3U tvg-url="http://is.gd/tvbgepg"
+#EXTM3U tvg-url="https://dl.dropboxusercontent.com/s/xg6c7av61p1jdoq/epg.xml.gz;https://raw.githubusercontent.com/harrygg/EPG/master/epg.xml.gz"
+#EXTM3U x-tvg-url="https://picon-13398.kxcdn.com/"
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1512916.png" group-title="BULGARIA",BG -  TV ART FHD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:60:70:AF&stream=1512916&extension=ts&play_token=cxx1etZbgx
