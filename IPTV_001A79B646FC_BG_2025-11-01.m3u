@@ -579,3 +579,496 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:60:70:AF&stream=1904727&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:60:70:AF&stream=1904726&extension=ts&play_token=cxx1etZbgx
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG -  XITE 60S & 70S GROOVE
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:60:70:AF&stream=1904725&extension=ts&play_token=cxx1etZbgx
+#EXTINF:-1 tvg-id="ext" tvg-name="###### GREECE ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1917373.png" group-title="WORLD LIVE SPORTS",###### GREECE ######
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917373&extension=ts&play_token=GcyhSR8kHD
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| EUROSPORT 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",GR| EUROSPORT 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917372&extension=ts&play_token=YC4ukrMKTb
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| EUROSPORT 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",GR| EUROSPORT 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917371&extension=ts&play_token=L2eNz6oViM
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS PRIME" tvg-logo="http://51.158.145.100/picons/logos/logos/1917370.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS PRIME
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917370&extension=ts&play_token=hL9EWWGwca
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS START" tvg-logo="http://51.158.145.100/picons/logos/logos/1917369.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS START
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917369&extension=ts&play_token=erd4qiurS3
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS NEWS" tvg-logo="http://51.158.145.100/picons/logos/logos/1917368.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS NEWS
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917368&extension=ts&play_token=Hv7pDv7PGA
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS PREMIER LEAGUE" tvg-logo="http://51.158.145.100/picons/logos/logos/1917367.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS PREMIER LEAGUE
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917367&extension=ts&play_token=ZJMmhhcscb
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| ERT SPORTS 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917366.png" group-title="WORLD LIVE SPORTS",GR| ERT SPORTS 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917366&extension=ts&play_token=3CHTyxD4I5
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| ERT SPORTS 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917365.png" group-title="WORLD LIVE SPORTS",GR| ERT SPORTS 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917365&extension=ts&play_token=K23HOWgCxm
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917364.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917364&extension=ts&play_token=pGnvvQYnho
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917363.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917363&extension=ts&play_token=EWZBgYraLU
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS 3 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917362.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 3 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917362&extension=ts&play_token=78kur3MtXp
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917361.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 4 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917361&extension=ts&play_token=2ajUDtycOd
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917360.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 5 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917360&extension=ts&play_token=EsrQlm6upH
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS 6 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917359.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 6 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917359&extension=ts&play_token=45ZQ3oRHRx
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS PRIME" tvg-logo="http://51.158.145.100/picons/logos/logos/1917358.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS PRIME
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917358&extension=ts&play_token=mrZQXIT9Vx
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS START" tvg-logo="http://51.158.145.100/picons/logos/logos/1917357.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS START
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917357&extension=ts&play_token=Cdw9ukXDrA
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA SPORTS 24 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917356.png" group-title="WORLD LIVE SPORTS",GR| NOVA SPORTS 24 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917356&extension=ts&play_token=Xf0ALLkrmA
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA EXTRA SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917355.png" group-title="WORLD LIVE SPORTS",GR| NOVA EXTRA SPORTS 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917355&extension=ts&play_token=yFr2ZL2pKf
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA EXTRA SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917354.png" group-title="WORLD LIVE SPORTS",GR| NOVA EXTRA SPORTS 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917354&extension=ts&play_token=oIV8hcOOqA
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA EXTRA SPORTS 3 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917353.png" group-title="WORLD LIVE SPORTS",GR| NOVA EXTRA SPORTS 3 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917353&extension=ts&play_token=6AomT3FEgm
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| NOVA EXTRA SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917352.png" group-title="WORLD LIVE SPORTS",GR| NOVA EXTRA SPORTS 4 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917352&extension=ts&play_token=1cuKFXMdl6
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| COSMOTE SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917351.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917351&extension=ts&play_token=w6CX0OncBt
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| COSMOTE SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917350.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917350&extension=ts&play_token=IAdNB7TZeJ
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| COSMOTE SPORTS 3 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917349.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 3 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917349&extension=ts&play_token=Jo946q9CG2
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| COSMOTE SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917348.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 4 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917348&extension=ts&play_token=Dv7Y7c1j7Z
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| COSMOTE SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917347.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 5 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917347&extension=ts&play_token=gnrH4VNnKZ
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| COSMOTE SPORTS 6 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917346.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 6 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917346&extension=ts&play_token=YqtuCBJwOZ
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| COSMOTE SPORTS 7 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917345.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 7 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917345&extension=ts&play_token=pEkUNzOl4G
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| COSMOTE SPORTS 8 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917344.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 8 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917344&extension=ts&play_token=6u2BoYdivc
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| COSMOTE SPORTS 9 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917343.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS 9 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917343&extension=ts&play_token=ayUgO3gIAd
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| COSMOTE SPORTS HIGHLIGHT HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917342.png" group-title="WORLD LIVE SPORTS",GR| COSMOTE SPORTS HIGHLIGHT HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917342&extension=ts&play_token=XWX78yLzW0
+#EXTINF:-1 tvg-id="ext" tvg-name="GR| GINX TV SPORT HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917341.png" group-title="WORLD LIVE SPORTS",GR| GINX TV SPORT HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917341&extension=ts&play_token=zpaxEatoCA
+#EXTINF:-1 tvg-id="ext" tvg-name="###### ALBANIA ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1917337.png" group-title="WORLD LIVE SPORTS",###### ALBANIA ######
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917337&extension=ts&play_token=ZuC17O5SI8
+#EXTINF:-1 tvg-id="ext" tvg-name="AL| SUPER SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917336.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917336&extension=ts&play_token=zT9MW4bPkL
+#EXTINF:-1 tvg-id="ext" tvg-name="AL| SUPER SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917335.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917335&extension=ts&play_token=zX9wNAQjqG
+#EXTINF:-1 tvg-id="ext" tvg-name="AL| SUPER SPORT 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917334.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917334&extension=ts&play_token=ecuwwPZWfi
+#EXTINF:-1 tvg-id="ext" tvg-name="AL| SUPER SPORT 4" tvg-logo="http://51.158.145.100/picons/logos/logos/1917333.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 4
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917333&extension=ts&play_token=ohz1LTNTvB
+#EXTINF:-1 tvg-id="ext" tvg-name="AL| SUPER SPORT 5" tvg-logo="http://51.158.145.100/picons/logos/logos/1917332.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 5
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917332&extension=ts&play_token=nhT7Ld4olr
+#EXTINF:-1 tvg-id="ext" tvg-name="AL| SUPER SPORT 6" tvg-logo="http://51.158.145.100/picons/logos/logos/1917331.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 6
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917331&extension=ts&play_token=v6QCFCLXlX
+#EXTINF:-1 tvg-id="ext" tvg-name="AL| SUPER SPORT 7" tvg-logo="http://51.158.145.100/picons/logos/logos/1917330.png" group-title="WORLD LIVE SPORTS",AL| SUPER SPORT 7
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917330&extension=ts&play_token=TKaPSw878j
+#EXTINF:-1 tvg-id="ext" tvg-name="###### BOSNIA ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1917311.png" group-title="WORLD LIVE SPORTS",###### BOSNIA ######
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917311&extension=ts&play_token=YaAgjOxsGq
+#EXTINF:-1 tvg-id="ext" tvg-name="BH| ARENA PREMIUM 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917310.png" group-title="WORLD LIVE SPORTS",BH| ARENA PREMIUM 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917310&extension=ts&play_token=LGW6hVxSzn
+#EXTINF:-1 tvg-id="ext" tvg-name="BH| ARENA PREMIUM 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917309.png" group-title="WORLD LIVE SPORTS",BH| ARENA PREMIUM 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917309&extension=ts&play_token=cXShv3Ejuc
+#EXTINF:-1 tvg-id="ext" tvg-name="BH| ARENA PREMIUM 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917308.png" group-title="WORLD LIVE SPORTS",BH| ARENA PREMIUM 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917308&extension=ts&play_token=GPTzugSSJ4
+#EXTINF:-1 tvg-id="ext" tvg-name="BH| ARENA SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917307.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917307&extension=ts&play_token=a6NelxtWst
+#EXTINF:-1 tvg-id="ext" tvg-name="BH| ARENA SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917306.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917306&extension=ts&play_token=iOfdSILOZ6
+#EXTINF:-1 tvg-id="ext" tvg-name="BH| ARENA SPORT 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917305.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917305&extension=ts&play_token=23SiO9t96W
+#EXTINF:-1 tvg-id="ext" tvg-name="BH| ARENA SPORT 4" tvg-logo="http://51.158.145.100/picons/logos/logos/1917304.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 4
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917304&extension=ts&play_token=qhQdKHwXNo
+#EXTINF:-1 tvg-id="ext" tvg-name="BH| ARENA SPORT 5" tvg-logo="http://51.158.145.100/picons/logos/logos/1917303.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 5
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917303&extension=ts&play_token=DUjG13td8L
+#EXTINF:-1 tvg-id="ext" tvg-name="BH| ARENA SPORT 6" tvg-logo="http://51.158.145.100/picons/logos/logos/1917302.png" group-title="WORLD LIVE SPORTS",BH| ARENA SPORT 6
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917302&extension=ts&play_token=LLofOdOymI
+#EXTINF:-1 tvg-id="ext" tvg-name="###### BULGARIA ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1917244.png" group-title="WORLD LIVE SPORTS",###### BULGARIA ######
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917244&extension=ts&play_token=AfZj1MuSaB
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| DIEMA SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917243.png" group-title="WORLD LIVE SPORTS",BG| DIEMA SPORT 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917243&extension=ts&play_token=MfYgCtetkD
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| DIEMA SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917242.png" group-title="WORLD LIVE SPORTS",BG| DIEMA SPORT 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917242&extension=ts&play_token=OCBYnqireK
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| DIEMA SPORT 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917241.png" group-title="WORLD LIVE SPORTS",BG| DIEMA SPORT 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917241&extension=ts&play_token=vEK6PHhmuM
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| EUROSPORT2 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",BG| EUROSPORT2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917234&extension=ts&play_token=AwX9fLgChn
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| EUROSPORT HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",BG| EUROSPORT HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917235&extension=ts&play_token=TqSVqPIDaC
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| FIGHT BOX HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917233.png" group-title="WORLD LIVE SPORTS",BG| FIGHT BOX HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917233&extension=ts&play_token=kOK6PUk24X
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| FIGHTKLUB HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917231.png" group-title="WORLD LIVE SPORTS",BG| FIGHTKLUB HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917231&extension=ts&play_token=MuIk9PYGXP
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| FIGHT NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917232.png" group-title="WORLD LIVE SPORTS",BG| FIGHT NETWORK HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917232&extension=ts&play_token=8pgyWJ3FK5
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| GAMETOON HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917230.png" group-title="WORLD LIVE SPORTS",BG| GAMETOON HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917230&extension=ts&play_token=f9n06cB8cQ
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| MAX SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917240.png" group-title="WORLD LIVE SPORTS",BG| MAX SPORT 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917240&extension=ts&play_token=7Uy4sX6G1r
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| MAX SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917239.png" group-title="WORLD LIVE SPORTS",BG| MAX SPORT 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917239&extension=ts&play_token=HZJqChqRlK
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| MAX SPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917238.png" group-title="WORLD LIVE SPORTS",BG| MAX SPORT 3 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917238&extension=ts&play_token=UyNMJeGjgB
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| MAX SPORT 4 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917237.png" group-title="WORLD LIVE SPORTS",BG| MAX SPORT 4 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917237&extension=ts&play_token=LI7MmoaaOU
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| NOVA SPORT HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917236.png" group-title="WORLD LIVE SPORTS",BG| NOVA SPORT HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917236&extension=ts&play_token=KRAojOzEvO
+#EXTINF:-1 tvg-id="ext" tvg-name="BG| RING HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917229.png" group-title="WORLD LIVE SPORTS",BG| RING HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917229&extension=ts&play_token=1mq3rK30WZ
+#EXTINF:-1 tvg-id="ext" tvg-name="###### SERBIA ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1917329.png" group-title="WORLD LIVE SPORTS",###### SERBIA ######
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917329&extension=ts&play_token=6KFoJ3xF7m
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA ESPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/1917315.png" group-title="WORLD LIVE SPORTS",SR| ARENA ESPORT
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917315&extension=ts&play_token=vE7NLUq9dj
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA FIGHT" tvg-logo="http://51.158.145.100/picons/logos/logos/1917314.png" group-title="WORLD LIVE SPORTS",SR| ARENA FIGHT
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917314&extension=ts&play_token=Rqi1eWwOpu
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA PREMIUM 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917328.png" group-title="WORLD LIVE SPORTS",SR| ARENA PREMIUM 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917328&extension=ts&play_token=IC4vts64Ag
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA PREMIUM 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917327.png" group-title="WORLD LIVE SPORTS",SR| ARENA PREMIUM 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917327&extension=ts&play_token=FDwXsqY7yF
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA PREMIUM 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917326.png" group-title="WORLD LIVE SPORTS",SR| ARENA PREMIUM 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917326&extension=ts&play_token=HR0qGYUlYY
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917325.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917325&extension=ts&play_token=izJhv9DLj2
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917324.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917324&extension=ts&play_token=z5d7CnMxdN
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA SPORT 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917323.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917323&extension=ts&play_token=6uHNpS1UWX
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA SPORT 4" tvg-logo="http://51.158.145.100/picons/logos/logos/1917322.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 4
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917322&extension=ts&play_token=PATqao7GiQ
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA SPORT 5" tvg-logo="http://51.158.145.100/picons/logos/logos/1917321.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 5
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917321&extension=ts&play_token=4eO6alxLB3
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA SPORT 6" tvg-logo="http://51.158.145.100/picons/logos/logos/1917320.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 6
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917320&extension=ts&play_token=EkYor9XfmM
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA SPORT 7" tvg-logo="http://51.158.145.100/picons/logos/logos/1917319.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 7
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917319&extension=ts&play_token=G1R9wnVKqU
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA SPORT 8" tvg-logo="http://51.158.145.100/picons/logos/logos/1917318.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 8
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917318&extension=ts&play_token=Jqnshhvtcb
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA SPORT 9" tvg-logo="http://51.158.145.100/picons/logos/logos/1917317.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 9
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917317&extension=ts&play_token=ZOOwnCs2qo
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| ARENA SPORT 10" tvg-logo="http://51.158.145.100/picons/logos/logos/1917316.png" group-title="WORLD LIVE SPORTS",SR| ARENA SPORT 10
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917316&extension=ts&play_token=c604tdOJX4
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| EUROSPORT 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",SR| EUROSPORT 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917313&extension=ts&play_token=xZy460tLfS
+#EXTINF:-1 tvg-id="ext" tvg-name="SR| EUROSPORT 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="WORLD LIVE SPORTS",SR| EUROSPORT 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917312&extension=ts&play_token=cPmKKGHdqD
+#EXTINF:-1 tvg-id="ext" tvg-name="###### ROMANIA ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1917261.png" group-title="WORLD LIVE SPORTS",###### ROMANIA ######
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917261&extension=ts&play_token=xBY7qSLP80
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| DIGI SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917260.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917260&extension=ts&play_token=ddHLFdIaIl
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| DIGI SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917259.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917259&extension=ts&play_token=XEHJTLkp3R
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| DIGI SPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917258.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 3 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917258&extension=ts&play_token=Sl5aGVmM1V
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| DIGI SPORT 4 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917257.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 4 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917257&extension=ts&play_token=nAX1xhasnY
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| EUROSPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917256.png" group-title="WORLD LIVE SPORTS",RO| EUROSPORT 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917256&extension=ts&play_token=dOFGeJZjlK
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| EUROSPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917255.png" group-title="WORLD LIVE SPORTS",RO| EUROSPORT 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917255&extension=ts&play_token=nAwCxgHOps
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| PRIMA SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917254.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917254&extension=ts&play_token=9hjb5uJ5Ke
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| PRIMA SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917253.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917253&extension=ts&play_token=DnFVNWCIwF
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| PRIMA SPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917252.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 3 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917252&extension=ts&play_token=LusYCX7M9N
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| PRIMA SPORT 4 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917251.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 4 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917251&extension=ts&play_token=E2tWPzZVlg
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| PRIMA SPORT 5 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917250.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 5 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917250&extension=ts&play_token=RJ9kam8LIA
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| PRIMA SPORT PPV1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917249.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT PPV1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917249&extension=ts&play_token=Lbdpd45mkD
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| PRIMA SPORT PPV2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917248.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT PPV2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917248&extension=ts&play_token=qtEScYqqYB
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| PRIMA SPORT PPV3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917247.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT PPV3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917247&extension=ts&play_token=emdHB7607P
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| SPORT EXTRA HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917246.png" group-title="WORLD LIVE SPORTS",RO| SPORT EXTRA HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917246&extension=ts&play_token=skuqq9KC27
+#EXTINF:-1 tvg-id="ext" tvg-name="RO| TVR SPORT HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917245.png" group-title="WORLD LIVE SPORTS",RO| TVR SPORT HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917245&extension=ts&play_token=eLIiQxlxV6
+#EXTINF:-1 tvg-id="ext" tvg-name="###### CROATIA ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1917301.png" group-title="WORLD LIVE SPORTS",###### CROATIA ######
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917301&extension=ts&play_token=kB3nQxgcKl
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA ESPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/1917290.png" group-title="WORLD LIVE SPORTS",HR| ARENA ESPORT
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917290&extension=ts&play_token=JAGIyxU8uD
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA FIGHT" tvg-logo="http://51.158.145.100/picons/logos/logos/1917289.png" group-title="WORLD LIVE SPORTS",HR| ARENA FIGHT
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917289&extension=ts&play_token=BDUlnb07vl
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917300.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917300&extension=ts&play_token=2TBkEmbSTJ
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917299.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917299&extension=ts&play_token=1Q4IpDKWKm
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA SPORT 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917298.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917298&extension=ts&play_token=1c1ulvUX3A
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA SPORT 4" tvg-logo="http://51.158.145.100/picons/logos/logos/1917297.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 4
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917297&extension=ts&play_token=TayvaVQAzb
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA SPORT 5" tvg-logo="http://51.158.145.100/picons/logos/logos/1917296.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 5
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917296&extension=ts&play_token=9g6LwdKfA7
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA SPORT 6" tvg-logo="http://51.158.145.100/picons/logos/logos/1917295.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 6
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917295&extension=ts&play_token=b0STUABghs
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA SPORT 7" tvg-logo="http://51.158.145.100/picons/logos/logos/1917294.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 7
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917294&extension=ts&play_token=TDXzUYsce8
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA SPORT 8" tvg-logo="http://51.158.145.100/picons/logos/logos/1917293.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 8
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917293&extension=ts&play_token=rmPloYHK25
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA SPORT 9" tvg-logo="http://51.158.145.100/picons/logos/logos/1917292.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 9
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917292&extension=ts&play_token=dJf3gw4Nk7
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| ARENA SPORT 10" tvg-logo="http://51.158.145.100/picons/logos/logos/1917291.png" group-title="WORLD LIVE SPORTS",HR| ARENA SPORT 10
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917291&extension=ts&play_token=n0fK8kivnm
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| MAX SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917281.png" group-title="WORLD LIVE SPORTS",HR| MAX SPORT 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917281&extension=ts&play_token=FNpKIT86sw
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| MAX SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917280.png" group-title="WORLD LIVE SPORTS",HR| MAX SPORT 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917280&extension=ts&play_token=Ziq1bQj0mT
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| NOVA SPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/1917278.png" group-title="WORLD LIVE SPORTS",HR| NOVA SPORT
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917278&extension=ts&play_token=zpL2RUrkSr
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| SOPRT 1 T" tvg-logo="http://51.158.145.100/picons/logos/logos/1917279.png" group-title="WORLD LIVE SPORTS",HR| SOPRT 1 T
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917279&extension=ts&play_token=ExKRFfW7dW
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| SPORT KLUB 1 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917287.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917287&extension=ts&play_token=2tjNzILzRc
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| SPORT KLUB 2 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917286.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917286&extension=ts&play_token=AAREBUvEhr
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| SPORT KLUB 3 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917285.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 3 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917285&extension=ts&play_token=4U3QZac1la
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| SPORT KLUB 4 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917284.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 4 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917284&extension=ts&play_token=EfnAcIRyJO
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| SPORT KLUB 5 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917283.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 5 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917283&extension=ts&play_token=Ocr6ZncgeS
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| SPORT KLUB 6 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1917282.png" group-title="WORLD LIVE SPORTS",HR| SPORT KLUB 6 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917282&extension=ts&play_token=T7ZxLf0Tkk
+#EXTINF:-1 tvg-id="ext" tvg-name="HR| SPORTSKA TV" tvg-logo="http://51.158.145.100/picons/logos/logos/1917288.png" group-title="WORLD LIVE SPORTS",HR| SPORTSKA TV
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917288&extension=ts&play_token=96zLAlblYe
+#EXTINF:-1 tvg-id="ext" tvg-name="###### SLOVENIA ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1917277.png" group-title="WORLD LIVE SPORTS",###### SLOVENIA ######
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917277&extension=ts&play_token=DEtMaBNfog
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| ARENA PREMIUM 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917273.png" group-title="WORLD LIVE SPORTS",SI| ARENA PREMIUM 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917273&extension=ts&play_token=8lLlBaMDi3
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| ARENA SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917272.png" group-title="WORLD LIVE SPORTS",SI| ARENA SPORT 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917272&extension=ts&play_token=rL22YWZYdp
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| ARENA SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917271.png" group-title="WORLD LIVE SPORTS",SI| ARENA SPORT 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917271&extension=ts&play_token=WQNyajfYxa
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| ARENA SPORT 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917270.png" group-title="WORLD LIVE SPORTS",SI| ARENA SPORT 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917270&extension=ts&play_token=7HcJ327cxk
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| ARENA SPORT 4" tvg-logo="http://51.158.145.100/picons/logos/logos/1917269.png" group-title="WORLD LIVE SPORTS",SI| ARENA SPORT 4
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917269&extension=ts&play_token=FbV23qKqIl
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| SPORT KLUB 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917268.png" group-title="WORLD LIVE SPORTS",SI| SPORT KLUB 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917268&extension=ts&play_token=bN5AHubJqf
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| SPORT KLUB 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917267.png" group-title="WORLD LIVE SPORTS",SI| SPORT KLUB 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917267&extension=ts&play_token=FFOSfVSGoT
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| SPORT KLUB 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917266.png" group-title="WORLD LIVE SPORTS",SI| SPORT KLUB 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917266&extension=ts&play_token=1UCVXeX0iT
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| SPORT TV 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917276.png" group-title="WORLD LIVE SPORTS",SI| SPORT TV 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917276&extension=ts&play_token=FcR7e0bXkm
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| SPORT TV 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917275.png" group-title="WORLD LIVE SPORTS",SI| SPORT TV 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917275&extension=ts&play_token=2NlzKElrWI
+#EXTINF:-1 tvg-id="ext" tvg-name="SI| SPORT TV 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917274.png" group-title="WORLD LIVE SPORTS",SI| SPORT TV 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917274&extension=ts&play_token=EMODMyAk0H
+#EXTINF:-1 tvg-id="ext" tvg-name="###### MONTENEGRO ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1917265.png" group-title="WORLD LIVE SPORTS",###### MONTENEGRO ######
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917265&extension=ts&play_token=62fk2VVAEW
+#EXTINF:-1 tvg-id="ext" tvg-name="ME| MNE SOPRT 1" tvg-logo="http://51.158.145.100/picons/logos/logos/1917264.png" group-title="WORLD LIVE SPORTS",ME| MNE SOPRT 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917264&extension=ts&play_token=xXjoAWaK97
+#EXTINF:-1 tvg-id="ext" tvg-name="ME| MNE SOPRT 2" tvg-logo="http://51.158.145.100/picons/logos/logos/1917263.png" group-title="WORLD LIVE SPORTS",ME| MNE SOPRT 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917263&extension=ts&play_token=Vk3EVac6oo
+#EXTINF:-1 tvg-id="ext" tvg-name="ME| MNE SOPRT 3" tvg-logo="http://51.158.145.100/picons/logos/logos/1917262.png" group-title="WORLD LIVE SPORTS",ME| MNE SOPRT 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1917262&extension=ts&play_token=oQzFEkVPvx
+#EXTINF:-1 tvg-id="ext" tvg-name="##### SKY SPORT #####" group-title="DE| SKY GO SPORT",##### SKY SPORT #####
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235962&extension=ts&play_token=gwTGdoOXgW
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT NEWS FHD" tvg-logo="http://103.176.90.92/images/1235955.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT NEWS FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235955&extension=ts&play_token=bsAZchRFeG
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT NEWS HD" tvg-logo="http://103.176.90.92/images/1235948.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT NEWS HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235948&extension=ts&play_token=O0AA5Vwxtv
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT TOP EVENT FHD" tvg-logo="http://103.176.90.92/images/1235941.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT TOP EVENT FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235941&extension=ts&play_token=30H5TeZkgb
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT TOP EVENT HD" tvg-logo="http://103.176.90.92/images/1235934.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT TOP EVENT HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235934&extension=ts&play_token=Pk1KBxOgr2
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT PREMIER LEAGUE FHD" tvg-logo="http://103.176.90.92/images/1235927.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT PREMIER LEAGUE FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235927&extension=ts&play_token=TqbssXZed8
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://103.176.90.92/images/1235920.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT PREMIER LEAGUE HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235920&extension=ts&play_token=8YUeEDvaV4
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT MIX FHD" tvg-logo="http://103.176.90.92/images/1235913.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT MIX FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235913&extension=ts&play_token=4feBba7Vsl
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT MIX HD" tvg-logo="http://103.176.90.92/images/1235906.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT MIX HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235906&extension=ts&play_token=A5VRRORfAI
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT F1 FHD" tvg-logo="http://103.176.90.92/images/1235899.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT F1 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235899&extension=ts&play_token=6VyyqwaOfg
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT F1 HD" tvg-logo="http://103.176.90.92/images/1235892.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT F1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235892&extension=ts&play_token=8XOrFBRBYf
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT GOLF FHD" tvg-logo="http://103.176.90.92/images/1235885.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT GOLF FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235885&extension=ts&play_token=MRRDh1LeuZ
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT GOLF HD" tvg-logo="http://103.176.90.92/images/1235878.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT GOLF HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235878&extension=ts&play_token=eCeqzIiZfS
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT TENNIS FHD" tvg-logo="http://103.176.90.92/images/1235871.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT TENNIS FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235871&extension=ts&play_token=0Me0tDKBl8
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT TENNIS HD" tvg-logo="http://103.176.90.92/images/1235864.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT TENNIS HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235864&extension=ts&play_token=lqNqQ7Rpzx
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SPORT 1 FHD" tvg-logo="http://103.176.90.92/images/1235857.png" group-title="DE| SKY GO SPORT",DE| SPORT 1 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235857&extension=ts&play_token=V3vuw49A7Q
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SPORT 1 PLUS HD" tvg-logo="http://103.176.90.92/images/1235850.png" group-title="DE| SKY GO SPORT",DE| SPORT 1 PLUS HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235850&extension=ts&play_token=R8Jw5quFry
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 1 FHD" tvg-logo="http://103.176.90.92/images/1235843.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 1 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235843&extension=ts&play_token=OC0UVn2O5G
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 1 HD" tvg-logo="http://103.176.90.92/images/1235836.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235836&extension=ts&play_token=Ab7aqG3wgV
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 2 FHD" tvg-logo="http://103.176.90.92/images/1235829.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 2 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235829&extension=ts&play_token=w064cjxY3X
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 2 HD" tvg-logo="http://103.176.90.92/images/1235822.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235822&extension=ts&play_token=eNjX90J09N
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 3 FHD" tvg-logo="http://103.176.90.92/images/1235815.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 3 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235815&extension=ts&play_token=Xw3HFhBD17
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 3 HD" tvg-logo="http://103.176.90.92/images/1235808.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 3 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235808&extension=ts&play_token=cdrjlTpubk
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 4 FHD" tvg-logo="http://103.176.90.92/images/1235801.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 4 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235801&extension=ts&play_token=HEuY02yzeC
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 4 HD" tvg-logo="http://103.176.90.92/images/1235794.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 4 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235794&extension=ts&play_token=rg69qZobwo
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 5 FHD" tvg-logo="http://103.176.90.92/images/1235787.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 5 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235787&extension=ts&play_token=GSf3Eoyfuj
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 5 HD" tvg-logo="http://103.176.90.92/images/1235780.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 5 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235780&extension=ts&play_token=ad1XyTvIxO
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 6 FHD" tvg-logo="http://103.176.90.92/images/1235773.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 6 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235773&extension=ts&play_token=rtYIUZcovh
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 6 HD" tvg-logo="http://103.176.90.92/images/1235766.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 6 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235766&extension=ts&play_token=LxdXyoSwZw
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 7 FHD" tvg-logo="http://103.176.90.92/images/1235759.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 7 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235759&extension=ts&play_token=ECxAVo1NRM
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 7 HD" tvg-logo="http://103.176.90.92/images/1235752.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 7 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235752&extension=ts&play_token=IyPl5T5iHa
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 8 FHD" tvg-logo="http://103.176.90.92/images/1235745.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 8 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235745&extension=ts&play_token=mfvIfqdbm9
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 8 HD" tvg-logo="http://103.176.90.92/images/1235738.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 8 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235738&extension=ts&play_token=AY4wzmamCF
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 9 FHD" tvg-logo="http://103.176.90.92/images/1235731.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 9 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235731&extension=ts&play_token=0UtNF89gYv
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 9 HD" tvg-logo="http://103.176.90.92/images/1235724.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 9 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235724&extension=ts&play_token=rVP1k0cXUj
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 10 FHD" tvg-logo="http://103.176.90.92/images/1235717.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 10 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235717&extension=ts&play_token=PIByGxkJeZ
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT 10 HD" tvg-logo="http://103.176.90.92/images/1235710.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT 10 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235710&extension=ts&play_token=ENv8YtzCXh
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT AUSTRIA 1" tvg-logo="http://103.176.90.92/images/1323973.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT AUSTRIA 1
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1323973&extension=ts&play_token=MaAe3VZq10
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT AUSTRIA 2" tvg-logo="http://103.176.90.92/images/1323972.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT AUSTRIA 2
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1323972&extension=ts&play_token=EFkyW79VHo
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT AUSTRIA 3" tvg-logo="http://103.176.90.92/images/1323971.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT AUSTRIA 3
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1323971&extension=ts&play_token=PRCsP2oC2l
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT AUSTRIA 4" tvg-logo="http://103.176.90.92/images/1323970.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT AUSTRIA 4
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1323970&extension=ts&play_token=nc2JqMBDsP
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT AUSTRIA 5" tvg-logo="http://103.176.90.92/images/1323969.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT AUSTRIA 5
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1323969&extension=ts&play_token=A15cY20fHM
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT AUSTRIA 6" tvg-logo="http://103.176.90.92/images/1323968.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT AUSTRIA 6
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1323968&extension=ts&play_token=qT1e707pUj
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT AUSTRIA 7" tvg-logo="http://103.176.90.92/images/1323967.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT AUSTRIA 7
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1323967&extension=ts&play_token=eYC7mZFj8F
+#EXTINF:-1 tvg-id="ext" tvg-name="##### SKY SPORT BUNDESLIGA #####" group-title="DE| SKY GO SPORT",##### SKY SPORT BUNDESLIGA #####
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235703&extension=ts&play_token=sULmqtwJeq
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA FHD" tvg-logo="http://103.176.90.92/images/1235696.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235696&extension=ts&play_token=Izsh1kmemp
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA HD" tvg-logo="http://103.176.90.92/images/1235689.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235689&extension=ts&play_token=QeDJJTvovR
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="http://103.176.90.92/images/1235682.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 1 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235682&extension=ts&play_token=VPQvWMLy05
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://103.176.90.92/images/1235675.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235675&extension=ts&play_token=jxOrB7wFc5
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="http://103.176.90.92/images/1235668.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 2 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235668&extension=ts&play_token=1hVAi5457d
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 2 HD" tvg-logo="http://103.176.90.92/images/1235661.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235661&extension=ts&play_token=eEUQZbaoXW
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 3 FHD" tvg-logo="http://103.176.90.92/images/1235654.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 3 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235654&extension=ts&play_token=yR1ATHSrbI
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 3 HD" tvg-logo="http://103.176.90.92/images/1235647.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 3 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235647&extension=ts&play_token=M71Ray3ai8
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="http://103.176.90.92/images/1235640.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 4 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235640&extension=ts&play_token=zLWE8qOcag
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 4 HD" tvg-logo="http://103.176.90.92/images/1235633.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 4 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235633&extension=ts&play_token=VfHVnwy5Cf
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 5 FHD" tvg-logo="http://103.176.90.92/images/1235626.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 5 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235626&extension=ts&play_token=18LzhgRl5w
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 5 HD" tvg-logo="http://103.176.90.92/images/1235619.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 5 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235619&extension=ts&play_token=DnBMPrFki4
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 6 FHD" tvg-logo="http://103.176.90.92/images/1235612.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 6 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235612&extension=ts&play_token=iF4CSKBmB2
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 6 HD" tvg-logo="http://103.176.90.92/images/1235605.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 6 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235605&extension=ts&play_token=TH0rMNlyN8
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 7 FHD" tvg-logo="http://103.176.90.92/images/1235598.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 7 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235598&extension=ts&play_token=TdK6j4gLNU
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 7 HD" tvg-logo="http://103.176.90.92/images/1235591.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 7 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235591&extension=ts&play_token=bY9DVcMFog
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 8 FHD" tvg-logo="http://103.176.90.92/images/1235584.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 8 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235584&extension=ts&play_token=5u8RnHOvvN
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 8 HD" tvg-logo="http://103.176.90.92/images/1235577.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 8 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235577&extension=ts&play_token=sewzThFkFS
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 9 FHD" tvg-logo="http://103.176.90.92/images/1235570.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 9 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235570&extension=ts&play_token=nI2C7bs4Wl
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 9 HD" tvg-logo="http://103.176.90.92/images/1235563.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 9 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235563&extension=ts&play_token=GTpXRvYQ9T
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 10 FHD" tvg-logo="http://103.176.90.92/images/1235556.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 10 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235556&extension=ts&play_token=yOJ7HTcY5N
+#EXTINF:-1 tvg-id="ext" tvg-name="DE| SKY SPORT BUNDESLIGA 10 HD" tvg-logo="http://103.176.90.92/images/1235549.png" group-title="DE| SKY GO SPORT",DE| SKY SPORT BUNDESLIGA 10 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1235549&extension=ts&play_token=pEGOVhP003
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY SPORTS MAIN EVENTS UHD" tvg-logo="http://103.176.90.95/images/1608071.png" group-title="4K UHD 3840P",4K| SKY SPORTS MAIN EVENTS UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1608071&extension=ts&play_token=9GjFFvtUa9
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY SPORTS 1 UHD" tvg-logo="http://103.176.90.95/images/1608068.png" group-title="4K UHD 3840P",4K| SKY SPORTS 1 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1608068&extension=ts&play_token=TMaIrX4qSd
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY SPORTS 2 UHD" tvg-logo="http://103.176.90.95/images/1608069.png" group-title="4K UHD 3840P",4K| SKY SPORTS 2 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1608069&extension=ts&play_token=jCjcmbnZQB
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| TNT ULTIMATE 4K+ [LIVE-EVENT]" tvg-logo="http://103.176.90.95/images/1595637.png" group-title="4K UHD 3840P",4K| TNT ULTIMATE 4K+ [LIVE-EVENT]
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1595637&extension=ts&play_token=2oyEwTJNGU
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY SPORTS UHD [EVENT]" tvg-logo="http://103.176.90.95/images/1471387.png" group-title="4K UHD 3840P",4K| SKY SPORTS UHD [EVENT]
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1471387&extension=ts&play_token=Jc7A1zsXsR
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| COCINA UHD" tvg-logo="http://103.176.90.95/images/1471385.png" group-title="4K UHD 3840P",4K| COCINA UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1471385&extension=ts&play_token=p4tiGOdsve
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| DAZN LA LIGA TV UHD" tvg-logo="http://103.176.90.95/images/1471376.png" group-title="4K UHD 3840P",4K| DAZN LA LIGA TV UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1471376&extension=ts&play_token=n0MdXbrWdP
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| LIGA CAMPEONES UHD" tvg-logo="http://103.176.90.95/images/1471377.png" group-title="4K UHD 3840P",4K| LIGA CAMPEONES UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1471377&extension=ts&play_token=N3IfTr3CTj
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| LA 1 UHD" tvg-logo="http://103.176.90.95/images/1620282.png" group-title="4K UHD 3840P",4K| LA 1 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1620282&extension=ts&play_token=kP36lalsl0
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| DECASA UHD" tvg-logo="http://103.176.90.95/images/1471384.png" group-title="4K UHD 3840P",4K| DECASA UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1471384&extension=ts&play_token=NSWhLk4VJ4
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| ODISEA UHD" tvg-logo="http://103.176.90.95/images/1471383.png" group-title="4K UHD 3840P",4K| ODISEA UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1471383&extension=ts&play_token=3KrI4TCY1E
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| TRAVEL UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| TRAVEL UHD/4K
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1470622&extension=ts&play_token=67hylaviiV
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| KINO UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| KINO UHD/4K
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1470620&extension=ts&play_token=XTNcHc39BT
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| ELEVEN SPORTS 1 UHD" tvg-logo="http://103.176.90.95/images/1470618.png" group-title="4K UHD 3840P",4K| ELEVEN SPORTS 1 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1470618&extension=ts&play_token=QlKgnSksJQ
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| OUR SIBERIA UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| OUR SIBERIA UHD/4K
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1471378&extension=ts&play_token=DmJR5NcoSw
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY SPORTS DARTS UHD" tvg-logo="http://103.176.90.95/images/1471382.png" group-title="4K UHD 3840P",4K| SKY SPORTS DARTS UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1471382&extension=ts&play_token=AMhUPlKjnu
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| BLOOMBERG+ UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| BLOOMBERG+ UHD/4K
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491209&extension=ts&play_token=i4g6kLm0VG
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| FASHION TV UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| FASHION TV UHD/4K
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491208&extension=ts&play_token=EOICC3wYMX
+#EXTINF:-1 tvg-id="ext" tvg-name="4k| V SPORT UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4k| V SPORT UHD/4K
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1749221&extension=ts&play_token=cLje1DVEHJ
+#EXTINF:-1 tvg-id="ext" tvg-name="4k| YES SPORT 5 UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4k| YES SPORT 5 UHD/4K
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1749220&extension=ts&play_token=fItzz7ZgrZ
+#EXTINF:-1 tvg-id="ext" tvg-name="4k| QUADRO UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4k| QUADRO UHD/4K
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1749219&extension=ts&play_token=7dyoW4Qycg
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| QVC UHD" tvg-logo="http://103.176.90.95/images/1491207.png" group-title="4K UHD 3840P",4K| QVC UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491207&extension=ts&play_token=3CEkLh0ZLG
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| HOME UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" group-title="4K UHD 3840P",4K| HOME UHD/4K
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1471380&extension=ts&play_token=6ULF2PGv7K
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| CNN UHD 4K" tvg-logo="http://103.176.90.95/images/1470653.png" group-title="4K UHD 3840P",4K| CNN UHD 4K
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1470653&extension=ts&play_token=4AZiJbfgw2
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| LOVE NATURE UHD" tvg-logo="http://103.176.90.95/images/1471386.png" group-title="4K UHD 3840P",4K| LOVE NATURE UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1471386&extension=ts&play_token=EGZopRRUSD
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| MUSEUM UHD" tvg-logo="http://103.176.90.95/images/1632124.png" group-title="4K UHD 3840P",4K| MUSEUM UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1632124&extension=ts&play_token=fkITUZl710
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| V SPORT+ UHD" tvg-logo="http://103.176.90.95/images/1632123.png" group-title="4K UHD 3840P",4K| V SPORT+ UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1632123&extension=ts&play_token=5jHDZdQ9JB
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY PRIMAFILA 1 UHD" tvg-logo="http://103.176.90.95/images/1491180.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 1 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491180&extension=ts&play_token=xA5VKPxYTX
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY PRIMAFILA 2 UHD" tvg-logo="http://103.176.90.95/images/1491181.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 2 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491181&extension=ts&play_token=8Cyg1mcmnz
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY PRIMAFILA 3 UHD" tvg-logo="http://103.176.90.95/images/1491183.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 3 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491183&extension=ts&play_token=dJ3mvCF3TC
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY PRIMAFILA 4 UHD" tvg-logo="http://103.176.90.95/images/1491184.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 4 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491184&extension=ts&play_token=z4tLXSGQNl
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY PRIMAFILA 5 UHD" tvg-logo="http://103.176.90.95/images/1491185.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 5 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491185&extension=ts&play_token=3VqqN9G8eX
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY PRIMAFILA 6 UHD" tvg-logo="http://103.176.90.95/images/1491186.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 6 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491186&extension=ts&play_token=tChlJYCxh0
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY PRIMAFILA 7 UHD" tvg-logo="http://103.176.90.95/images/1491187.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 7 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491187&extension=ts&play_token=itJszbM603
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY PRIMAFILA 8 UHD" tvg-logo="http://103.176.90.95/images/1491188.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 8 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491188&extension=ts&play_token=Cq575w68aj
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| SKY PRIMAFILA 9 UHD" tvg-logo="http://103.176.90.95/images/1491189.png" group-title="4K UHD 3840P",4K| SKY PRIMAFILA 9 UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1491189&extension=ts&play_token=LV8vVe4TVt
+#EXTINF:-1 tvg-id="ext" tvg-name="4K| DIGI UHD" tvg-logo="http://103.176.90.95/images/1632122.png" group-title="4K UHD 3840P",4K| DIGI UHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:B6:DD:6E&stream=1632122&extension=ts&play_token=iWfbbSr3dg
+
