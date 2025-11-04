@@ -1,4 +1,4 @@
-#EXTM3U tvg-url=" http://185.53.90.98:8080/xmltv.php?username=Cembicakci2023&password=eEvrg5RqgTTe"
+#EXTM3U tvg-url="#EXTM3U tvg-url="https://epg.pw/xmltv/epg.xml"
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1512916.png" group-title="BULGARIA",BG -  TV ART FHD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:60:70:AF&stream=1512916&extension=ts&play_token=cxx1etZbgx
