@@ -1,3 +1,4 @@
+#EXTM3U tvg-url="http://is.gd/tvbgepg"
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1512916.png" group-title="BULGARIA",BG -  TV ART FHD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:79:C4:9F&stream=1512916&extension=ts&play_token=DDquCHFgqi
