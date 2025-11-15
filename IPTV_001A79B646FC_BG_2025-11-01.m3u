@@ -469,7 +469,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=154901&extens
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=154902&extension=ts&play_token=CxoFsCFWLO
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154910.png" group-title="BULGARIA",BG -  RING HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=154910&extension=ts&play_token=CxoFsCFWLO
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1508639.png" group-title="BULGARIA",BG -  RETRO MUSIC TV
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1508639&extension=ts&play_token=CxoFsCFWLO
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1508637.png" group-title="BULGARIA",BG -  RIMEX TV
@@ -754,210 +753,7 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1904727&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1904726&extension=ts&play_token=CxoFsCFWLO
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG -  XITE 60S & 70S GROOVE
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1904725&extension=ts&play_token=CxoFsCFWLO
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432043.png" group-title="GREECE",GR -   ERT NEWS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432043&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432035.png" group-title="GREECE",GR -   ERT WORLD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432035&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/942249.png" group-title="GREECE",GR -  ERT WORLD (NA)
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=942249&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432034.png" group-title="GREECE",GR -   ERT 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432034&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432033.png" group-title="GREECE",GR -  ERT 1 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432033&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432032.png" group-title="GREECE",GR -   ERT 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432032&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432031.png" group-title="GREECE",GR -   ERT 2 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432031&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432030.png" group-title="GREECE",GR -   ERT 3
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432030&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432029.png" group-title="GREECE",GR -   ERT 3 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432029&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307906.png" group-title="GREECE",GR -  EPT 2 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307906&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307904.png" group-title="GREECE",GR -  EPT 3 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307904&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432028.png" group-title="GREECE",GR -   VOULI
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432028&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432016.png" group-title="GREECE",GR -   ALPHA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432016&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432017.png" group-title="GREECE",GR -   ALPHA HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432017&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432024.png" group-title="GREECE",GR -   ANT1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432024&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432025.png" group-title="GREECE",GR -   ANT1 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432025&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432022.png" group-title="GREECE",GR -   ANT1 EUROPE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432022&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1127284.png" group-title="GREECE",GR -  ANT1+ COMEDY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1127284&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1127283.png" group-title="GREECE",GR -  ANT1+ DRAMA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1127283&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432026.png" group-title="GREECE",GR -   MEGA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432026&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432027.png" group-title="GREECE",GR -   MEGA HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432027&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432018.png" group-title="GREECE",GR -   SKAI
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432018&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432019.png" group-title="GREECE",GR -   SKAI HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432019&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432020.png" group-title="GREECE",GR -   STAR
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432020&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432021.png" group-title="GREECE",GR -  STAR HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432021&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432014.png" group-title="GREECE",GR -   OPEN TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432014&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432015.png" group-title="GREECE",GR -   OPEN TV HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432015&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432013.png" group-title="GREECE",GR -   MAK TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432013&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432012.png" group-title="GREECE",GR -   MAKEDONIA TV HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432012&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432006.png" group-title="GREECE",GR -   ACTION 24
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432006&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432007.png" group-title="GREECE",GR -   KONTRA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432007&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432010.png" group-title="GREECE",GR -   ONE CHANNEL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432010&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432011.png" group-title="GREECE",GR -   NAFTEMPORIKI TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432011&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432009.png" group-title="GREECE",GR -   EXTRA GR
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432009&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432005.png" group-title="GREECE",GR -  ALERT CHANNEL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432005&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432004.png" group-title="GREECE",GR -   EURONEWS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432004&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554506.png" group-title="GREECE",GR -  XPLORE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554506&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/309177.png" group-title="GREECE",GR -  TV GOLD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=309177&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/309166.png" group-title="GREECE",GR -  TV CRETA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=309166&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555694.png" group-title="GREECE",GR -  TV 100
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555694&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978783.png" group-title="GREECE",GR -  TLC
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=978783&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555703.png" group-title="GREECE",GR -  THRAKINET
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555703&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555700.png" group-title="GREECE",GR -  START TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555700&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307892.png" group-title="GREECE",GR -  STAR QHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307892&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307890.png" group-title="GREECE",GR -  STAR KENTRIKIS ELLADAS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307890&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307891.png" group-title="GREECE",GR -  STAR
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307891&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/942251.png" group-title="GREECE",GR -  SPORT PLUS (NA)
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=942251&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307888.png" group-title="GREECE",GR -  SKAI QHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307888&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555720.png" group-title="GREECE",GR -  SAMIAKI TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555720&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/309154.png" group-title="GREECE",GR -  SAMIAKI TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=309154&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307898.png" group-title="GREECE",GR -  ALPHA QHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307898&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/309202.png" group-title="GREECE",GR -  RIK SAT
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=309202&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307889.png" group-title="GREECE",GR -  SKAI HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307889&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554257.png" group-title="GREECE",GR -  RISE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554257&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555676.png" group-title="GREECE",GR -  RIK SAT CY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555676&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555714.png" group-title="GREECE",GR -  PLP
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555714&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554490.png" group-title="GREECE",GR -  PANIK TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554490&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307885.png" group-title="GREECE",GR -  OPEN BEYOND
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307885&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555684.png" group-title="GREECE",GR -  ONE TV HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555684&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/309171.png" group-title="GREECE",GR -  NOTIOI TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=309171&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/309148.png" group-title="GREECE",GR -  NEA TV XANIA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=309148&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555696.png" group-title="GREECE",GR -  NEA TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555696&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555748.png" group-title="GREECE",GR -  MONTREAL GREEK TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555748&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554469.png" group-title="GREECE",GR -  MESOGEIOS TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554469&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1060885.png" group-title="GREECE",GR -  MEGA COSMOS HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1060885&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307883.png" group-title="GREECE",GR -  MEGA CHANNEL QHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307883&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307884.png" group-title="GREECE",GR -  MEGA CHANNEL HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307884&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307882.png" group-title="GREECE",GR -  MEGA CHANNEL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307882&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307875.png" group-title="GREECE",GR -  MAKEDONIA TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307875&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1652481.png" group-title="GREECE",GR -   LYCHNOS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1652481&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307776.png" group-title="GREECE",GR -  LUXE.TV HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307776&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554436.png" group-title="GREECE",GR -  LIVE TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554436&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555695.png" group-title="GREECE",GR -  KPHTH TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555695&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307879.png" group-title="GREECE",GR -  KONTRA TV QHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307879&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555693.png" group-title="GREECE",GR -  IONIAN CHANNEL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555693&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554398.png" group-title="GREECE",GR -  INSIGHT
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554398&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/309173.png" group-title="GREECE",GR -  HPEIROS TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=309173&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307769.png" group-title="GREECE",GR -  HIGH TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307769&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554521.png" group-title="GREECE",GR -  HELLENIC TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554521&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555659.png" group-title="GREECE",GR -  GROOVY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555659&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555755.png" group-title="GREECE",GR -  GREEK TV LONDON
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555755&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555680.png" group-title="GREECE",GR -  FAROS TV CY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555680&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554246.png" group-title="GREECE",GR -  EXTRA CHANNEL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554246&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307903.png" group-title="GREECE",GR -  EPT 3 QHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307903&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307905.png" group-title="GREECE",GR -  EPT 2 QHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307905&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307907.png" group-title="GREECE",GR -  EPT 1 QHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307907&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307908.png" group-title="GREECE",GR -  EPT 1 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307908&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555747.png" group-title="GREECE",GR -  ELLADA TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555747&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555754.png" group-title="GREECE",GR -  EKKLHSIA TV HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555754&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555718.png" group-title="GREECE",GR -  EGNATIA TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555718&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555702.png" group-title="GREECE",GR -  DELTA TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555702&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554459.png" group-title="GREECE",GR -  CRETA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554459&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555734.png" group-title="GREECE",GR -  CHOICE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555734&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554421.png" group-title="GREECE",GR -  CAPITAL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554421&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/309145.png" group-title="GREECE",GR -  BLUE SKY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=309145&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554461.png" group-title="GREECE",GR -  BEST TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554461&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307768.png" group-title="GREECE",GR -  AXELOOS TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307768&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/309146.png" group-title="GREECE",GR -  ATTICA TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=309146&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555711.png" group-title="GREECE",GR -  ART TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555711&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307779.png" group-title="GREECE",GR -  ART TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307779&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555685.png" group-title="GREECE",GR -  ART
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555685&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/942248.png" group-title="GREECE",GR -  ALPHA SAT (NA)
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=942248&extension=ts&play_token=kcrB9ZGQ9d
+
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/307824.png" group-title="GREECE",GR -  COSMOTE SPORT 1 HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307824&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432208.png" group-title="GREECE",GR -  COSMOTE SPORT 1 HD [B]
@@ -1011,51 +807,7 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432184&exten
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432183.png" group-title="GREECE",GR -  COSMOTE SPORT 9 HD [B]
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432183&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/307808.png" group-title="GREECE",GR -  COSMOTE SPORT 9 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307808&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307826.png" group-title="GREECE",GR -  COSMOTE SPORT HIGHLIGHTS QHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307826&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432181.png" group-title="GREECE",GR -  COSMOTE SPORT HL HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432181&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432180.png" group-title="GREECE",GR -  COSMOTE SPORT HL HD (B)
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432180&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432177.png" group-title="GREECE",GR -  AEK SL PASS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432177&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432179.png" group-title="GREECE",GR -  PANATHINAIKOS SL PASS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432179&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432178.png" group-title="GREECE",GR -  OLYMPIAKOS SL PASS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432178&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432182.png" group-title="GREECE",GR -  COSMOTE 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432182&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1133729.png" group-title="GREECE",GR -  ANT1+ F1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1133729&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434124.png" group-title="GREECE",GR - ANT1 + COMBAT
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434124&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434125.png" group-title="GREECE",GR - ANT1 + FIGHT
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434125&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432213.png" group-title="GREECE",GR -  FORMULA 1 ANT1+
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432213&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432212.png" group-title="GREECE",GR -  FORMULA 1 ANT1+ (b)
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432212&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432176.png" group-title="GREECE",GR -  SPORT PLUS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432176&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432143.png" group-title="GREECE",GR -  ERT SPORTS 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432143&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/534481.png" group-title="GREECE",GR -  ERT SPORTS 1 UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534481&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432142.png" group-title="GREECE",GR -  ERT SPORTS 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432142&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/534480.png" group-title="GREECE",GR -  ERT SPORTS 2 UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534480&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432211.png" group-title="GREECE",GR -  EUROSPORT 1 GR
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432211&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432210.png" group-title="GREECE",GR -  EUROSPORT 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432210&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554277.png" group-title="GREECE",GR -  EUROSPORT 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554277&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554397.png" group-title="GREECE",GR -  MOTORVISION
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554397&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555767.png" group-title="GREECE",GR -  HORSE RACES
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555767&extension=ts&play_token=kcrB9ZGQ9d
+
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432175.png" group-title="GREECE",GR -  NOVASPORTS 1 HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432175&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432174.png" group-title="GREECE",GR -  NOVASPORTS 1 (B1)
@@ -1126,146 +878,7 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432145&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1137584&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432144.png" group-title="GREECE",GR -  NOVASPORTS EXTRA 4
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432144&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307791.png" group-title="GREECE",GR -  ANIMAL PLANET QHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307791&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307785.png" group-title="GREECE",GR -  BBC EARTH HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307785&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307792.png" group-title="GREECE",GR -  COSMOTE HISTORY HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307792&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307793.png" group-title="GREECE",GR -  CRIME+ INVESTIGATION HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307793&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307798.png" group-title="GREECE",GR -  DISCOVERY CHANNEL HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307798&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1600672.png" group-title="GREECE",GR -  DISCOVERY ID HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1600672&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307845.png" group-title="GREECE",GR -  E! ENTERTAINMENT HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307845&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554394.png" group-title="GREECE",GR -  FASHION
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554394&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307787.png" group-title="GREECE",GR -  FOOD NETWORK HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307787&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554382.png" group-title="GREECE",GR -  HISTORY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554382&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307800.png" group-title="GREECE",GR -  NATIONAL GEOGRAPHIC HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307800&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307799.png" group-title="GREECE",GR -  NATIONAL GEOGRAPHIC WILD HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307799&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554389.png" group-title="GREECE",GR -  NAUTICAL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554389&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307784.png" group-title="GREECE",GR -  OUTDOOR CHANNEL HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307784&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554390.png" group-title="GREECE",GR -  TRAVEL CHANNEL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554390&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307788.png" group-title="GREECE",GR -  VIASAT EXPLORE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307788&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307789.png" group-title="GREECE",GR -  VIASAT HISTORY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307789&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307790.png" group-title="GREECE",GR -  VIASAT NATURE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307790&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307854.png" group-title="GREECE",GR -  COSMOTE CINEMA 1 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307854&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434189.png" group-title="GREECE",GR -  COSMOTE CINEMA 1 HD A
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434189&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434188.png" group-title="GREECE",GR -  COSMOTE CINEMA 1 HD B
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434188&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307853.png" group-title="GREECE",GR -  COSMOTE CINEMA 2 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307853&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434187.png" group-title="GREECE",GR -  COSMOTE CINEMA 2 HD A
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434187&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434186.png" group-title="GREECE",GR -  COSMOTE CINEMA 2 HD B
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434186&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307852.png" group-title="GREECE",GR -  COSMOTE CINEMA 3 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307852&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434185.png" group-title="GREECE",GR -  COSMOTE CINEMA 3 HD A
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434185&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434184.png" group-title="GREECE",GR -  COSMOTE CINEMA 3 HD B
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434184&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307851.png" group-title="GREECE",GR -  COSMOTE SERIES
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307851&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/817075.png" group-title="GREECE",GR -  COSMOTE SERIES HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=817075&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434183.png" group-title="GREECE",GR -  COSMOTE SERIES HD A
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434183&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434182.png" group-title="GREECE",GR -  COSMOTE SERIES HD B
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434182&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434181.png" group-title="GREECE",GR -  COSMOTE SERIES MARATHON HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434181&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434167.png" group-title="GREECE",GR -  FX HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434167&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307847.png" group-title="GREECE",GR -  FOX CHANNEL HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307847&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434166.png" group-title="GREECE",GR -  FX LIFE HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434166&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307846.png" group-title="GREECE",GR -  FOX LIFE HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307846&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307849.png" group-title="GREECE",GR -  TCM HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307849&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434178.png" group-title="GREECE",GR -  TCM HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434178&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434164.png" group-title="GREECE",GR -  ANT1+ COMEDY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434164&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434163.png" group-title="GREECE",GR -  ANT1+ DRAMA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434163&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434177.png" group-title="GREECE",GR -  NOVA CINEMA 1 FHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434177&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434176.png" group-title="GREECE",GR -  NOVACINEMA 1 HD B
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434176&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434175.png" group-title="GREECE",GR -  NOVA CINEMA 2 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434175&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434174.png" group-title="GREECE",GR -  NOVA CINEMA 2 HD B
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434174&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434173.png" group-title="GREECE",GR -  NOVA CINEMA 3 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434173&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434172.png" group-title="GREECE",GR -  NOVA CINEMA 3 HD B
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434172&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434171.png" group-title="GREECE",GR -  NOVA CINEMA 4 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434171&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434170.png" group-title="GREECE",GR -  NOVA CINEMA 4 HD B
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434170&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434169.png" group-title="GREECE",GR -  NOVA LIFE HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434169&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/534441.png" group-title="GREECE",GR -  NOVALIFE UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534441&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434165.png" group-title="GREECE",GR -  EPIC DRAMA HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1434165&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307856.png" group-title="GREECE",GR -  BABY TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307856&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554295.png" group-title="GREECE",GR -  VILLAGE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554295&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/554274.png" group-title="GREECE",GR -  BOOMERANG
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554274&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307866.png" group-title="GREECE",GR -  DISNEY CHANNEL HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307866&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307864.png" group-title="GREECE",GR -  DISNEY JUNIOR HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307864&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388094.png" group-title="GREECE",GR -  IDJ KIDS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1388094&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307862.png" group-title="GREECE",GR -  NICKELODEON HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307862&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307858.png" group-title="GREECE",GR -  SMILE TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307858&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/940765.png" group-title="GREECE",GR -  KIDS 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=940765&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/940766.png" group-title="GREECE",GR -  KIDS 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=940766&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/940767.png" group-title="GREECE",GR -  KIDS 3
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=940767&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/940768.png" group-title="GREECE",GR -  KIDS 4
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=940768&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/940769.png" group-title="GREECE",GR -  KIDS 5
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=940769&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/940770.png" group-title="GREECE",GR -  KIDS 6
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=940770&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/940771.png" group-title="GREECE",GR -  KIDS 7
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=940771&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/940772.png" group-title="GREECE",GR -  KIDS 8
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=940772&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/940773.png" group-title="GREECE",GR -  KIDS 9
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=940773&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/940774.png" group-title="GREECE",GR -  KIDS 10
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=940774&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555672.png" group-title="GREECE",GR -  KIDS TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555672&extension=ts&play_token=kcrB9ZGQ9d
+
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/875341.png" group-title="GREECE",GR -  MAD GREEKZ
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=875341&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/307841.png" group-title="GREECE",GR -  MAD TV
@@ -1288,42 +901,11 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=978737&extens
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554489&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/554501.png" group-title="GREECE",GR -  PLAY TV
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554501&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/555735.png" group-title="GREECE",GR -  RELOAD RADIO
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555735&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  COSMOTE ACTION 1 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1945093&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  COSMOTE COMEDY 1 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1945092&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  COSMOTE DOCUMENTARY 1 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1945091&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  COSMOTE DOCUMENTARY 2 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1945090&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  COSMOTE FILM 1 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1945089&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  COSMOTE HORROR 1 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1945088&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  COSMOTE KIDS 1 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1945087&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  COSMOTE NETFLIX 1 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1945086&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  COSMOTE NETFLIX 2 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1945085&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  COSMOTE SCI-FI 1 4K
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1945084&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 CHERIFF CALLIE WILD WEST
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529525&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 THE SMURFS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529526&extension=ts&play_token=kcrB9ZGQ9d
+
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 2
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529473&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS ALIEN
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529484&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS AVATAR
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529486&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS BATMAN
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529488&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS BETTER CALL SAUL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529489&extension=ts&play_token=kcrB9ZGQ9d
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS BIOGRAPHIES 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529479&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS BIOGRAPHIES 2
@@ -1336,76 +918,7 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529482&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529483&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529471&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS CONAN
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529490&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS DIE HARD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529491&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 VAMPERINA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529527&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 OMER
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529528&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS EASTER CINEMA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529474&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 KOOKOOLAND
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529476&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS FINOS FILM 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529463&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 Ευτυχισμένοι Μαζί
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529465&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 Μια Στιγμή Δυο Ζωές
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529466&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 Οι Στάβλοι Της Εριέτας Ζαΐμη
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529467&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS History 24
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529477&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 HAHAHA CHANNEL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529469&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 L.A.P.D
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529478&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 Βέρα στο δεξί
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529531&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS IRON MAN
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529493&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS JAMES BOND
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529495&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS JURASSIC PARK
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529494&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 Βότκα πορτοκάλι
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529535&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 3
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529536&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS NETFLIX 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529496&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS NETFLIX 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529497&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS NETFLIX 3
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529498&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS NETFLIX 4
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529499&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS NETFLIX 5
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529500&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 4
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529542&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 5
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529543&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 RECESS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529502&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS POP CORN 3
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529503&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS POP CORN 4
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529504&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS POP CORN 5
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529505&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PSAREMA 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529533&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PSAREMA 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529534&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS RAMBO
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529506&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 Üç Kız Kardeş
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529530&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS THE CHRONICLES OF NARNIA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529512&extension=ts&play_token=kcrB9ZGQ9d
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS VIDEO CLIP 2025 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529537&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS VIDEO CLIP 2025 2
@@ -1420,60 +933,7 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529541&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529508&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ΑΊΓΙΑ ΦΟΎΞΙΑ
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529509&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 SEN CAL KAPIMI
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529516&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 MARVEL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790485&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 DC UNIVERSE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790484&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ACTION 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790483&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ACTION 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790482&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS BACK TO THE FUTURE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790481&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS JURASSIC WORLD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790480&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MISSION IMPOSSIBLE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790479&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS OCEAN'S
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790478&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PREDATOR
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790477&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SPIDER-MAN
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790476&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS STAR TREK
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790475&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS THE EXPENDABLES
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790474&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS THE GODFATHER
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790473&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS THE HANGOVER
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790472&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS THE HOBBIT
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790471&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS THE MATRIX
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790470&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS THE TRANSPORTER
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790469&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 COLDPLAY TOUR
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790468&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 S AGAPO M AGAPAS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790467&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GSΚΑΡΑΓΚΙΟΖΗΣ
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790466&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 PEPPA PIG
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790465&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 MIRACULOUS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790464&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS ΑΘΛΗΤΙΚΟ ΠΡΟΓΡΑΜΜΑ ΗΜΕΡΑΣ
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790463&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 MAYA THE BEE
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790462&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 LOONEY TUNES
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790461&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 JURASSIC WORLD : CHAOS THERY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790460&extension=ts&play_token=kcrB9ZGQ9d
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS EIKONES TASOS DOUSIS	2
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790459&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS EIKONES TASOS DOUSIS GREECE
@@ -1486,34 +946,7 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790455&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790454&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS ELLINIKOS KINIMATOGRAFOS VOUTSAS
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790453&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS HUPPY TRAVELER INTERNATIONAL
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790448&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS KIDS 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790447&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS KIDS 3
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790445&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS KIDS 3D CHANNEL MOVIES
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790444&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS KYNYGI 2024
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790443&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MOVIES 2HD-2024
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790442&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MOVIES 4HD-2024
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790440&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MOVIES 5HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790439&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MOVIES 7HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790437&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MOVIES 80S
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790435&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MOVIES ACTION
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790433&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MOVIES COMEDY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790431&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MOVIES HISTORY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790426&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MOVIES SCI-FI
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790423&extension=ts&play_token=kcrB9ZGQ9d
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 10
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790420&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS NISIOTIKA PANIGIRIA 2024
@@ -1528,38 +961,7 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790416&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790415&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PANIGIRIA 2024 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790414&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PINK PANTHER
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790413&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PONTIAKA  PANIGIRIA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790412&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PSAREMA 3
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790411&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PSAREMA 2024
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790410&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYLVESTER AND TWETTY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790409&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES AKIS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790408&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES GIA GLYKA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790407&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES GIA PSITA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790406&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES MAGEIRIKIS ME KOTOPOULO
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790405&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES ME ARNI -PROVATO
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790404&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES ME GLYKA 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790403&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES ME KIMA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790402&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES ME MOSXARI- VODINO
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790401&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES ME XOIRINO KREAS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790400&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES  NISTISIMA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790399&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS SYNTAGES PAPPOUS TASOS 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790398&extension=ts&play_token=kcrB9ZGQ9d
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS TRAGOUDIA APO TON ELLINIKO KINIMATOGRAFO 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790397&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS TRAGOUDIA APO TON ELLINIKO KINIMATOGRAFO 2
@@ -1568,60 +970,11 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790396&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790395&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS TRAGOUDIA APO TON ELLINIKO KINIMATOGRAFO 4
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790394&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS UPDRONES 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790393&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS UPDRONES 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790392&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS Η ΜΗΧΑΝΉ ΤΟΥ ΧΡΌΝΟΥ - I MIXANI TOU XRONOU
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790391&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS ΚYPRIAKO CINEMA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790390&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS ΝΤΕΝΝΙς Ο ΤΡΟΜΕΡΟς
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790389&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS ΠΟΠΑΥ Ο ΝΑΥΤΗς
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790388&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS ΕΛΛΗΝΙΚΟς ΚΙΝΗΜΑΤΟΓΡΑΦΟς 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790387&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS MNIMES GIPEDON
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790386&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PANIGIRIA 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790385&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PSAREMA NEW 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790384&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PSAREMA NEW 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790383&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS Ο ΧΡΙΣΤΟς ΞΑΝΑΣΤΑΥΡΩΝΕΤΑΙ
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790382&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS ΤΟ ΜΙΝΟΡΕ ΤΗς ΑΥΓΗς
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790381&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 10 ΛΕΠΤΆ ΚΉΡΥΓΜΑ
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790380&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 10 ΛΕΠΤΆ ΚΉΡΥΓΜΑ - 10 LEPTA KIRIGMA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790379&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 10Η ΕΝΤΟΛΉ
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790378&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ADıNı SEN KOY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790377&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 BABA CANDıR
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790376&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 BARBIE: A TOUCH OF MAGIC - BARBIE: ΜΙΑ ΔΌΣΗ ΜΑΓΕΊΑς (2023)
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790375&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 BATMAN - CAPED CRUSADER - 2024
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790374&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 BLACK SAILS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790373&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 BLOOD OF ZEUS - ΤΟ ΑΊΜΑ ΤΟΥ ΔΊΑ (2020)
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790372&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 BREAKING BAD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790371&extension=ts&play_token=kcrB9ZGQ9d
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 8
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790370&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 7
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790369&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 DOC MCSTUFFINS - Η ΜΙΚΡΉ ΓΙΑΤΡΌς
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790368&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 FIREBUDS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790367&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 6
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790366&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 TRAP MUSIC
@@ -1646,16 +999,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944891&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944890&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 VIDEO CLIP 20
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944889&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 XONTROS KAI LIGNOS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944888&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7: MOVIE TIME 1HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944885&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7: MOVIE TIME 2HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944884&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ADVENTURES OF THE GUMMI BEARS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944883&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 BABY LOONEY TUNES
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944882&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ΑΣΤΕΡΊΞ ΚΑΙ ΟΒΕΛΊΞ: Ο ΑΓΏΝΑς ΤΩΝ ΑΡΧΗΓΏΝ
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944881&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 Ο ΜΑΣΤΟΡΆΚΟς
@@ -1682,14 +1025,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944871&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944870&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 TOLIS VOSKOPOULOS
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944869&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 BBQ PSISIMATA 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944868&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 DIMOTIKA KAI NISIOTIKA
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944867&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 MARKOS SEFERLIS THEATRO 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944865&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 VIDEO CLIP 2025 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944864&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 PALIA LAIKA TRAGOUDIA
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944863&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 PALIA LAIKA TRAGOUDIA 2
@@ -1702,30 +1037,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944859&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944858&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 PEDIKA TRAGOUDIA 2
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944857&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 SINTAGES AKIS PETRETZIKIS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944856&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 SINTAGES GIA GLIKA AKIS PETRETZIKIS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944855&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 STIN YGEIA MAS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944854&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 SYNTAGES GIA GLYKA 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944853&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 SYNTAGES MAGEIRIKIS DIAFORES
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944852&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 TRAGOUDIA APO TON ELLINIKO KINIMATOGRAFO
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944851&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 TRAGOUDIA APO TON ELLINIKO KINIMATOGRAFO 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944850&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 TRAGOUDIA TIS TAVERNAS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944849&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ΚΥΝΗΓΙ 2025 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944848&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ΚΥΝΗΓΙ 2025 2
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944847&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ΚΥΝΗΓΙ 2025 4
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944846&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ΚΥΝΗΓΙ 2025 5
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944845&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014502.png" group-title="GREECE",GR -  CABLENET SPORTS 1 HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1014502&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014503.png" group-title="GREECE",GR -  CABLENET SPORTS 2 HD
@@ -1762,32 +1073,7 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=719352&extens
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=719351&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/988193.png" group-title="GREECE",GR -  NOVASPORT PREMIER LEAGUE
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=988193&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432148.png" group-title="GREECE",GR -  NOVASPORTS NEWS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432148&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534446.png" group-title="GREECE",GR -  NOVASPORT NEWS UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534446&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432140.png" group-title="GREECE",GR -  RED BULL TV
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432140&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432137.png" group-title="GREECE",GR -  TENNIS 1
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432137&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432138.png" group-title="GREECE",GR -  SUPERTENNIS
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432138&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/554383.png" group-title="GREECE",GR -  OTE HISTORY
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554383&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534476.png" group-title="GREECE",GR -  NOVACINEMA 1 UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534476&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534444.png" group-title="GREECE",GR -  NOVACINEMA 2 UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534444&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534443.png" group-title="GREECE",GR -  NOVACINEMA 3 UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534443&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534442.png" group-title="GREECE",GR -  NOVACINEMA 4 UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534442&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/555692.png" group-title="GREECE",GR -  4E
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=555692&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ODYSSEY.png" group-title="GREECE",GR -  ODYSSEY (NA)
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=942250&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/307893.png" group-title="GREECE",GR -  STAR HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307893&extension=ts&play_token=kcrB9ZGQ9d
+
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/307822.png" group-title="GREECE",GR -  COSMOTE SPORT 2 HD [A]
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307822&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/307820.png" group-title="GREECE",GR -  COSMOTE SPORT 3 HD
@@ -1804,16 +1090,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307812&extens
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307810&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534479.png" group-title="GREECE",GR -  ERT SPORTS 3 UHD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534479&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/GREEK-TV-AMERICA.png" group-title="GREECE",GR -  GREEK TV AMERICA HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1341278&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534455.png" group-title="GREECE",GR -  OTECINEMA 1 UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534455&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534454.png" group-title="GREECE",GR -  OTECINEMA 2 UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534454&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534453.png" group-title="GREECE",GR -  OTECINEMA 3 UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534453&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534452.png" group-title="GREECE",GR -  OTE SERIES UHD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534452&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534464.png" group-title="GREECE",GR -  OTESPORT 1 UHD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=534464&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534463.png" group-title="GREECE",GR -  OTESPORT 2 UHD
