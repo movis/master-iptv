@@ -172,7 +172,6 @@ http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263509&extens
 http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263513&extension=ts&play_token=X67hBusByu
 #EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/wness.png" group-title="PREMIUM CONTENT",PREMIUM - BG - WNESSTV UHD
 http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263515&extension=ts&play_token=X67hBusByu
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1512916.png" group-title="BULGARIA",BG -  TV ART FHD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1512916&extension=ts&play_token=CxoFsCFWLO
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154791.png" group-title="BULGARIA",BG -  BTV HD
@@ -753,7 +752,180 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1904727&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1904726&extension=ts&play_token=CxoFsCFWLO
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG -  XITE 60S & 70S GROOVE
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1904725&extension=ts&play_token=CxoFsCFWLO
-
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/btv.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BTV UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263337&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/btvaction.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BTV ACTION UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263339&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/btvcinema.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BTV CINEMA
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263341&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/btvstory.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BTV STORY HD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263343&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862376.png" group-title="PREMIUM CONTENT",PREMIUM - BG - 24 KITCHEN UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263345&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/tv999.png" group-title="PREMIUM CONTENT",PREMIUM - BG -  TV 999 FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1194381&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1862375.png" group-title="PREMIUM CONTENT",PREMIUM - BG - ACTION BOX UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263346&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/animalplanet.png" group-title="PREMIUM CONTENT",PREMIUM - BG - ANIMAL PLANET UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263351&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/automotorsport.png" group-title="PREMIUM CONTENT",PREMIUM - BG - AUTO MOTO SPORT UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263352&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263358.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BALKANIKA MUSIC TV UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263358&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/balkanmusic.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BALKAN MUSIC TV HD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1104827&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263360.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BG MUSIC UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263360&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/automoto.png" group-title="PREMIUM CONTENT",PREMIUM - BG - 100 AUTOMOTO TV FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1102493&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1100189.png" group-title="PREMIUM CONTENT",PREMIUM - BG - TV ART FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1100189&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263365.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BLOOMBERG TV BULGARIA UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263365&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/bnt1.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BNT 1 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263368&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/bnt2.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BNT 2 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263370&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/bnt4.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BNT 4 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263373&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263377.png" group-title="PREMIUM CONTENT",PREMIUM - BG - BOX UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263377&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154799.png" group-title="PREMIUM CONTENT",PREMIUM - BG - CARTOONITO HD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1292819&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263386.png" group-title="PREMIUM CONTENT",PREMIUM - BG - CINEMAX
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263386&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263389.png" group-title="PREMIUM CONTENT",PREMIUM - BG - CINEMAX UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263389&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263387.png" group-title="PREMIUM CONTENT",PREMIUM - BG - CINEMAX 2
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263387&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263388.png" group-title="PREMIUM CONTENT",PREMIUM - BG - CINEMAX 2 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263388&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1191385.png" group-title="PREMIUM CONTENT",PREMIUM - BG -  CINEMANIA FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1191385&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263391.png" group-title="PREMIUM CONTENT",PREMIUM - BG - CODEFASHION TV UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263391&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/diema.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DIEMA UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263396&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/diemasport.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DIEMA SPORT UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263400&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/diemasport.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DIEMA SPORT 1 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263397&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/diemasport2.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DIEMA SPORT 2 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263399&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/diemasport3.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DIEMA SPORT 3 FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=658509&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/diemasport3.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DIEMA SPORT 3 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1069671&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/discovery.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DISCOVERY CHANNEL UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263402&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/disney.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DISNEY CHANNEL
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263406&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/disneyjunior.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DISNEY JUNIOR
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263407&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/dizi.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DIZI TV FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1190666&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/docubox.png" group-title="PREMIUM CONTENT",PREMIUM - BG - DOCUBOX UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263409&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/epicdrama.png" group-title="PREMIUM CONTENT",PREMIUM - BG - EPICDRAMA UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263413&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/eurosport1.png" group-title="PREMIUM CONTENT",PREMIUM - BG - EUROSPORT UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263417&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/eurosport2.png" group-title="PREMIUM CONTENT",PREMIUM - BG - EUROSPORT 2 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263416&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263419.png" group-title="PREMIUM CONTENT",PREMIUM - BG - EVROKOM UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263419&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/fentv.png" group-title="PREMIUM CONTENT",PREMIUM - BG - FEN TV UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263421&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/fightklub.png" group-title="PREMIUM CONTENT",PREMIUM - BG -  FIGHTKLUB FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1190668&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/fightbox.png" group-title="PREMIUM CONTENT",PREMIUM - BG - FIGHTBOX UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263423&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/263424.png" group-title="PREMIUM CONTENT",PREMIUM - BG - FILMBOX EXTRA
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263424&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/filmbox.png" group-title="PREMIUM CONTENT",PREMIUM - BG - FILMBOX UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263425&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/folklortv.png" group-title="PREMIUM CONTENT",PREMIUM - BG - FOLKLOR TV UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263429&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/starcrime.png" group-title="PREMIUM CONTENT",PREMIUM - BG - STAR CRIME UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263433&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/starlife.png" group-title="PREMIUM CONTENT",PREMIUM - BG - STAR LIFE UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263435&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/hgtv.png" group-title="PREMIUM CONTENT",PREMIUM - BG -  HGTV HD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1191428&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/hbo.png" group-title="PREMIUM CONTENT",PREMIUM - BG - HBO 1 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263437&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/hbo2.png" group-title="PREMIUM CONTENT",PREMIUM - BG - HBO 2 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263438&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/hbo3.png" group-title="PREMIUM CONTENT",PREMIUM - BG - HBO 3 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263439&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/history.png" group-title="PREMIUM CONTENT",PREMIUM - BG - HISTORY CHANNEL UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263441&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/tvshumen.png" group-title="PREMIUM CONTENT",PREMIUM - BG - SHUMEN TV FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1100615&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/id.png" group-title="PREMIUM CONTENT",PREMIUM - BG - ID XTRA UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263448&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616435.png" group-title="PREMIUM CONTENT",PREMIUM - BG -  MTV FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1294192&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616439.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MTV 90s FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1294188&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1616442.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MTV LIVE FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1294185&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/lovenature.png" group-title="PREMIUM CONTENT",PREMIUM - BG -  LOVE NATURE FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1195694&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/maxsport1.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MAX SPORT 1 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263453&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/maxsport1.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MAX SPORT 1 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263516&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/maxsport2.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MAX SPORT 2 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263517&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/maxsport2.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MAX SPORT 2 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263454&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/maxsport3.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MAX SPORT 3 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263455&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/maxsport3.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MAX SPORT 3 FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263518&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/maxsport4.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MAX SPORT 4 FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263519&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/maxsport4.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MAX SPORT 4 FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263456&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/moviestar.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MOVIE STAR
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263457&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/moviestar.png" group-title="PREMIUM CONTENT",PREMIUM - BG - MOVIE STAR FULL UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263458&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/natgeo.png" group-title="PREMIUM CONTENT",PREMIUM - BG - NAT GEO UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263459&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/natgeowild.png" group-title="PREMIUM CONTENT",PREMIUM - BG - NAT GEO WILD UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263461&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/nostalgia.png" group-title="PREMIUM CONTENT",PREMIUM - BG -  NOSTALGIA HD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1191386&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/novasport.png" group-title="PREMIUM CONTENT",PREMIUM - BG - NOVA SPORT UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263468&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/nova.png" group-title="PREMIUM CONTENT",PREMIUM - BG - NOVA TV UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263469&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1203684.png" group-title="PREMIUM CONTENT",PREMIUM - BG -  SOUL & PEPPER FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1203684&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/planeta.png" group-title="PREMIUM CONTENT",PREMIUM - BG - PLANETA UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263475&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/ring.png" group-title="PREMIUM CONTENT",PREMIUM - BG - RING UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263482&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/tiankovfolk.png" group-title="PREMIUM CONTENT",PREMIUM - BG - TIANKOV FOLK UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263491&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/tracesportstars.png" group-title="PREMIUM CONTENT",PREMIUM - BG - TRACE SPORT STARS UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263495&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/travelchannel.png" group-title="PREMIUM CONTENT",PREMIUM - BG - TRAVEL CHANNEL UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263497&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/traveltv.png" group-title="PREMIUM CONTENT",PREMIUM - BG - TRAVEL TV UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263499&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/tv1.png" group-title="PREMIUM CONTENT",PREMIUM - BG - TV1 UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263501&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/tvt.png" group-title="PREMIUM CONTENT",PREMIUM - BG -  TVT FHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=1190667&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/viasathistory.png" group-title="PREMIUM CONTENT",PREMIUM - BG - VIASAT HISTORY UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263509&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/wildtv.png" group-title="PREMIUM CONTENT",PREMIUM - BG - WILD TV UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263513&extension=ts&play_token=X67hBusByu
+#EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/wness.png" group-title="PREMIUM CONTENT",PREMIUM - BG - WNESSTV UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263515&extension=ts&play_token=X67hBusByu
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/307824.png" group-title="GREECE",GR -  COSMOTE SPORT 1 HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307824&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432208.png" group-title="GREECE",GR -  COSMOTE SPORT 1 HD [B]
@@ -807,7 +979,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432184&exten
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432183.png" group-title="GREECE",GR -  COSMOTE SPORT 9 HD [B]
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432183&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/307808.png" group-title="GREECE",GR -  COSMOTE SPORT 9 HD
-
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432175.png" group-title="GREECE",GR -  NOVASPORTS 1 HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432175&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432174.png" group-title="GREECE",GR -  NOVASPORTS 1 (B1)
@@ -878,7 +1049,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432145&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1137584&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432144.png" group-title="GREECE",GR -  NOVASPORTS EXTRA 4
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432144&extension=ts&play_token=kcrB9ZGQ9d
-
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/875341.png" group-title="GREECE",GR -  MAD GREEKZ
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=875341&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/307841.png" group-title="GREECE",GR -  MAD TV
@@ -901,11 +1071,8 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=978737&extens
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554489&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/554501.png" group-title="GREECE",GR -  PLAY TV
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=554501&extension=ts&play_token=kcrB9ZGQ9d
-
-
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 2
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529473&extension=ts&play_token=kcrB9ZGQ9d
-
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS BIOGRAPHIES 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529479&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS BIOGRAPHIES 2
@@ -918,7 +1085,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529482&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529483&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529471&extension=ts&play_token=kcrB9ZGQ9d
-
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS VIDEO CLIP 2025 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529537&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS VIDEO CLIP 2025 2
@@ -933,7 +1099,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529541&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529508&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 ΑΊΓΙΑ ΦΟΎΞΙΑ
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1529509&extension=ts&play_token=kcrB9ZGQ9d
-
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS EIKONES TASOS DOUSIS	2
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790459&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS EIKONES TASOS DOUSIS GREECE
@@ -946,7 +1111,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790455&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790454&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS ELLINIKOS KINIMATOGRAFOS VOUTSAS
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790453&extension=ts&play_token=kcrB9ZGQ9d
-
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 10
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790420&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS NISIOTIKA PANIGIRIA 2024
@@ -961,7 +1125,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790416&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790415&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS PANIGIRIA 2024 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790414&extension=ts&play_token=kcrB9ZGQ9d
-
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS TRAGOUDIA APO TON ELLINIKO KINIMATOGRAFO 1
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790397&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS TRAGOUDIA APO TON ELLINIKO KINIMATOGRAFO 2
@@ -970,7 +1133,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790396&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790395&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GS TRAGOUDIA APO TON ELLINIKO KINIMATOGRAFO 4
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790394&extension=ts&play_token=kcrB9ZGQ9d
-
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 8
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1790370&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 GREEK MUSIC 7
@@ -1073,7 +1235,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=719352&extens
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=719351&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/988193.png" group-title="GREECE",GR -  NOVASPORT PREMIER LEAGUE
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=988193&extension=ts&play_token=kcrB9ZGQ9d
-
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/307822.png" group-title="GREECE",GR -  COSMOTE SPORT 2 HD [A]
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=307822&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/307820.png" group-title="GREECE",GR -  COSMOTE SPORT 3 HD
