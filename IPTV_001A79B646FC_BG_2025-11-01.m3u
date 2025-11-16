@@ -979,7 +979,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432185&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432184&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432183.png" group-title="GREECE",GR -  COSMOTE SPORT 9 HD [B]
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432183&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/307808.png" group-title="GREECE",GR -  COSMOTE SPORT 9 HD
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432175.png" group-title="GREECE",GR -  NOVASPORTS 1 HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432175&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432174.png" group-title="GREECE",GR -  NOVASPORTS 1 (B1)
@@ -1200,11 +1199,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944859&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944858&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 PEDIKA TRAGOUDIA 2
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944857&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014502.png" group-title="GREECE",GR -  CABLENET SPORTS 1 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1014502&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014503.png" group-title="GREECE",GR -  CABLENET SPORTS 2 HD
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1014503&extension=ts&play_token=kcrB9ZGQ9d
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1798686.png" group-title="GREECE",GR -  CABLENET SPORTS 3 HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1798686&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432209.png" group-title="GREECE",GR -  COSMOTE SPORT 1 HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432209&extension=ts&play_token=kcrB9ZGQ9d
