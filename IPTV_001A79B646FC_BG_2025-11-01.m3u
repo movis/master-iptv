@@ -1199,7 +1199,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944859&exten
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944858&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="GREECE",GR -  24/7 PEDIKA TRAGOUDIA 2
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1944857&extension=ts&play_token=kcrB9ZGQ9d
-http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1798686&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432209.png" group-title="GREECE",GR -  COSMOTE SPORT 1 HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1432209&extension=ts&play_token=kcrB9ZGQ9d
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/534451.png" group-title="GREECE",GR -  NOVASPORT 1 UHD
