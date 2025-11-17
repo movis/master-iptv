@@ -177,7 +177,6 @@ http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263509&extens
 http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263513&extension=ts&play_token=X67hBusByu
 #EXTINF:-1 tvg-logo="http://epg.cloudns.org/tv/logos/wness.png" group-title="PREMIUM CONTENT",PREMIUM - BG - WNESSTV UHD
 http://c7.myottes.me:80/play/live.php?mac=00:1A:79:75:32:4D&stream=263515&extension=ts&play_token=X67hBusByu
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1512916.png" group-title="BULGARIA",BG -  TV ART FHD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1512916&extension=ts&play_token=CxoFsCFWLO
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154791.png" group-title="BULGARIA",BG -  BTV HD
@@ -474,7 +473,6 @@ http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=154901&extens
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=154902&extension=ts&play_token=CxoFsCFWLO
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154910.png" group-title="BULGARIA",BG -  RING HD
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=154910&extension=ts&play_token=CxoFsCFWLO
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1508639.png" group-title="BULGARIA",BG -  RETRO MUSIC TV
 http://185.243.7.141:80/play/live.php?mac=00:1A:79:C4:31:3C&stream=1508639&extension=ts&play_token=CxoFsCFWLO
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1508637.png" group-title="BULGARIA",BG -  RIMEX TV
