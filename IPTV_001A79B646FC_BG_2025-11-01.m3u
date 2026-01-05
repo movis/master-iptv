@@ -1,623 +1,585 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1512916" tvg-logo="http://51.158.145.100/picons/logos/logos/1512916.png" group-title="BULGARIA",BG| TV ART FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1512916&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1512916&extension=ts
 #EXTINF:-1 tvg-id="154791" tvg-logo="http://51.158.145.100/picons/logos/logos/154791.png" group-title="BULGARIA",BG| BTV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154791&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154791&extension=ts
 #EXTINF:-1 tvg-id="154787" tvg-logo="http://51.158.145.100/picons/logos/logos/154787.png" group-title="BULGARIA",BG| BTV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154787&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154787&extension=ts
 #EXTINF:-1 tvg-id="154945" tvg-logo="http://51.158.145.100/picons/logos/logos/154945.png" group-title="BULGARIA",BG| BTV ACTION FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154945&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154945&extension=ts
 #EXTINF:-1 tvg-id="154788" tvg-logo="http://51.158.145.100/picons/logos/logos/154788.png" group-title="BULGARIA",BG| BTV ACTION HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154788&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154788&extension=ts
 #EXTINF:-1 tvg-id="154789" tvg-logo="http://51.158.145.100/picons/logos/logos/154789.png" group-title="BULGARIA",BG| BTV CINEMA [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154789&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154789&extension=ts
 #EXTINF:-1 tvg-id="154790" tvg-logo="http://51.158.145.100/picons/logos/logos/154790.png" group-title="BULGARIA",BG| BTV COMEDY [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154790&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154790&extension=ts
 #EXTINF:-1 tvg-id="154792" tvg-logo="http://51.158.145.100/picons/logos/logos/154792.png" group-title="BULGARIA",BG| BTV STORY [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154792&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154792&extension=ts
 #EXTINF:-1 tvg-id="1374365" tvg-logo="http://51.158.145.100/picons/logos/logos/1374365.png" group-title="BULGARIA",BG| BTV STORY FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1374365&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1374365&extension=ts
 #EXTINF:-1 tvg-id="1532094" tvg-logo="http://51.158.145.100/picons/logos/logos/1532094.png" group-title="BULGARIA",BG| 360 TUNEBOX FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1532094&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1532094&extension=ts
 #EXTINF:-1 tvg-id="154757" tvg-logo="http://51.158.145.100/picons/logos/logos/154757.png" group-title="BULGARIA",BG| 24 KITCHEN [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154757&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154757&extension=ts
 #EXTINF:-1 tvg-id="154758" tvg-logo="http://51.158.145.100/picons/logos/logos/154758.png" group-title="BULGARIA",BG| 24 KITCHEN HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154758&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154758&extension=ts
 #EXTINF:-1 tvg-id="1769933" tvg-logo="http://51.158.145.100/picons/logos/logos/1769933.png" group-title="BULGARIA",BG| TV 999 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1769933&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1769933&extension=ts
 #EXTINF:-1 tvg-id="154759" tvg-logo="http://51.158.145.100/picons/logos/logos/154759.png" group-title="BULGARIA",BG| ARENA ACTION HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154759&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154759&extension=ts
 #EXTINF:-1 tvg-id="154765" tvg-logo="http://51.158.145.100/picons/logos/logos/154765.png" group-title="BULGARIA",BG| AGRO TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154765&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154765&extension=ts
 #EXTINF:-1 tvg-id="154766" tvg-logo="http://51.158.145.100/picons/logos/logos/154766.png" group-title="BULGARIA",BG| ALFA TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154766&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154766&extension=ts
 #EXTINF:-1 tvg-id="154760" tvg-logo="http://51.158.145.100/picons/logos/logos/154760.png" group-title="BULGARIA",BG| AMC [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154760&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154760&extension=ts
 #EXTINF:-1 tvg-id="154767" tvg-logo="http://51.158.145.100/picons/logos/logos/154767.png" group-title="BULGARIA",BG| ANIMAL PLANET [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154767&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154767&extension=ts
 #EXTINF:-1 tvg-id="154768" tvg-logo="http://51.158.145.100/picons/logos/logos/154768.png" group-title="BULGARIA",BG| ANIMAL PLANET HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154768&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154768&extension=ts
 #EXTINF:-1 tvg-id="154761" tvg-logo="http://51.158.145.100/picons/logos/logos/154761.png" group-title="BULGARIA",BG| AUTO MOTO SPORT HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154761&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154761&extension=ts
 #EXTINF:-1 tvg-id="154762" tvg-logo="http://51.158.145.100/picons/logos/logos/154762.png" group-title="BULGARIA",BG| AXN [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154762&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154762&extension=ts
 #EXTINF:-1 tvg-id="154763" tvg-logo="http://51.158.145.100/picons/logos/logos/154763.png" group-title="BULGARIA",BG| AXN BLACK [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154763&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154763&extension=ts
 #EXTINF:-1 tvg-id="154764" tvg-logo="http://51.158.145.100/picons/logos/logos/154764.png" group-title="BULGARIA",BG| AXN WHITE [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154764&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154764&extension=ts
 #EXTINF:-1 tvg-id="154770" tvg-logo="http://51.158.145.100/picons/logos/logos/154770.png" group-title="BULGARIA",BG| BABY TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154770&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154770&extension=ts
 #EXTINF:-1 tvg-id="154794" tvg-logo="http://51.158.145.100/picons/logos/logos/154794.png" group-title="BULGARIA",BG| BALKANIKA MUSIC [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154794&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154794&extension=ts
 #EXTINF:-1 tvg-id="154795" tvg-logo="http://51.158.145.100/picons/logos/logos/154795.png" group-title="BULGARIA",BG| BALKANIKA MUSIC TV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154795&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154795&extension=ts
 #EXTINF:-1 tvg-id="1525615" tvg-logo="http://51.158.145.100/picons/logos/logos/1525615.png" group-title="BULGARIA",BG| BALKAN MUSIC TV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1525615&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1525615&extension=ts
 #EXTINF:-1 tvg-id="154772" tvg-logo="http://51.158.145.100/picons/logos/logos/154772.png" group-title="BULGARIA",BG| BG MUSIC HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154772&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154772&extension=ts
 #EXTINF:-1 tvg-id="154771" tvg-logo="http://51.158.145.100/picons/logos/logos/154771.png" group-title="BULGARIA",BG| BG MUSIC [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154771&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154771&extension=ts
 #EXTINF:-1 tvg-id="154774" tvg-logo="http://51.158.145.100/picons/logos/logos/154774.png" group-title="BULGARIA",BG| BHTV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154774&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154774&extension=ts
 #EXTINF:-1 tvg-id="154776" tvg-logo="http://51.158.145.100/picons/logos/logos/154776.png" group-title="BULGARIA",BG| BLOOMBERG [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154776&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154776&extension=ts
 #EXTINF:-1 tvg-id="154797" tvg-logo="http://51.158.145.100/picons/logos/logos/154797.png" group-title="BULGARIA",BG| BLOOMBERG TV BULGARIA HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154797&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154797&extension=ts
 #EXTINF:-1 tvg-id="154778" tvg-logo="http://51.158.145.100/picons/logos/logos/154778.png" group-title="BULGARIA",BG| BNT 1 [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154778&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154778&extension=ts
 #EXTINF:-1 tvg-id="154779" tvg-logo="http://51.158.145.100/picons/logos/logos/154779.png" group-title="BULGARIA",BG| BNT 1 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154779&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154779&extension=ts
 #EXTINF:-1 tvg-id="154780" tvg-logo="http://51.158.145.100/picons/logos/logos/154780.png" group-title="BULGARIA",BG| BNT 2 [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154780&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154780&extension=ts
 #EXTINF:-1 tvg-id="154781" tvg-logo="http://51.158.145.100/picons/logos/logos/154781.png" group-title="BULGARIA",BG| BNT 2 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154781&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154781&extension=ts
 #EXTINF:-1 tvg-id="154782" tvg-logo="http://51.158.145.100/picons/logos/logos/154782.png" group-title="BULGARIA",BG| BNT 3 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154782&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154782&extension=ts
 #EXTINF:-1 tvg-id="154783" tvg-logo="http://51.158.145.100/picons/logos/logos/154783.png" group-title="BULGARIA",BG| BNT 4 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154783&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154783&extension=ts
 #EXTINF:-1 tvg-id="154784" tvg-logo="http://51.158.145.100/picons/logos/logos/154784.png" group-title="BULGARIA",BG| BNT 4 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154784&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154784&extension=ts
 #EXTINF:-1 tvg-id="154785" tvg-logo="http://51.158.145.100/picons/logos/logos/154785.png" group-title="BULGARIA",BG| BNT WORD [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154785&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154785&extension=ts
 #EXTINF:-1 tvg-id="154798" tvg-logo="http://51.158.145.100/picons/logos/logos/154798.png" group-title="BULGARIA",BG| BULGARIA ON AIR [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154798&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154798&extension=ts
 #EXTINF:-1 tvg-id="154799" tvg-logo="http://51.158.145.100/picons/logos/logos/154799.png" group-title="BULGARIA",BG| CARTOONITO FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154799&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154799&extension=ts
 #EXTINF:-1 tvg-id="154800" tvg-logo="http://51.158.145.100/picons/logos/logos/154800.png" group-title="BULGARIA",BG| BOX HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154800&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154800&extension=ts
 #EXTINF:-1 tvg-id="154786" tvg-logo="http://51.158.145.100/picons/logos/logos/154786.png" group-title="BULGARIA",BG| BOX TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154786&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154786&extension=ts
 #EXTINF:-1 tvg-id="154801" tvg-logo="http://51.158.145.100/picons/logos/logos/154801.png" group-title="BULGARIA",BG| BULGARIA 24 [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154801&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154801&extension=ts
 #EXTINF:-1 tvg-id="154802" tvg-logo="http://51.158.145.100/picons/logos/logos/154802.png" group-title="BULGARIA",BG| BULGARIA ON AIR HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154802&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154802&extension=ts
 #EXTINF:-1 tvg-id="154803" tvg-logo="http://51.158.145.100/picons/logos/logos/154803.png" group-title="BULGARIA",BG| C&I NETWORK [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154803&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154803&extension=ts
 #EXTINF:-1 tvg-id="154804" tvg-logo="http://51.158.145.100/picons/logos/logos/154804.png" group-title="BULGARIA",BG| CARTOON NETWORK FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154804&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154804&extension=ts
 #EXTINF:-1 tvg-id="154805" tvg-logo="http://51.158.145.100/picons/logos/logos/154805.png" group-title="BULGARIA",BG| CBS REAILTY [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154805&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154805&extension=ts
 #EXTINF:-1 tvg-id="1758108" tvg-logo="http://51.158.145.100/picons/logos/logos/1758108.png" group-title="BULGARIA",BG| CINEMANIA FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1758108&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1758108&extension=ts
 #EXTINF:-1 tvg-id="154809" tvg-logo="http://51.158.145.100/picons/logos/logos/154809.png" group-title="BULGARIA",BG| ARENA LIFE [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154809&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154809&extension=ts
 #EXTINF:-1 tvg-id="154810" tvg-logo="http://51.158.145.100/picons/logos/logos/154810.png" group-title="BULGARIA",BG| CINEMAX [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154810&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154810&extension=ts
 #EXTINF:-1 tvg-id="154811" tvg-logo="http://51.158.145.100/picons/logos/logos/154811.png" group-title="BULGARIA",BG| CINEMAX 2 [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154811&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154811&extension=ts
 #EXTINF:-1 tvg-id="154812" tvg-logo="http://51.158.145.100/picons/logos/logos/154812.png" group-title="BULGARIA",BG| CINEMAX 2 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154812&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154812&extension=ts
 #EXTINF:-1 tvg-id="154813" tvg-logo="http://51.158.145.100/picons/logos/logos/154813.png" group-title="BULGARIA",BG| CINEMAX HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154813&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154813&extension=ts
 #EXTINF:-1 tvg-id="1985803" tvg-logo="http://51.158.145.100/picons/logos/logos/1985803.png" group-title="BULGARIA",BG| FISHING & HUNTING FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1985803&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1985803&extension=ts
 #EXTINF:-1 tvg-id="1339772" tvg-logo="http://51.158.145.100/picons/logos/logos/1339772.png" group-title="BULGARIA",BG| FILMBOX HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1339772&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1339772&extension=ts
 #EXTINF:-1 tvg-id="1339773" tvg-logo="http://51.158.145.100/picons/logos/logos/1339773.png" group-title="BULGARIA",BG| FILMBOX STARS HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1339773&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1339773&extension=ts
 #EXTINF:-1 tvg-id="1339771" tvg-logo="http://51.158.145.100/picons/logos/logos/1339771.png" group-title="BULGARIA",BG| FILMBOX EXTRA HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1339771&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1339771&extension=ts
 #EXTINF:-1 tvg-id="154806" tvg-logo="http://51.158.145.100/picons/logos/logos/154806.png" group-title="BULGARIA",BG| CITY TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154806&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154806&extension=ts
 #EXTINF:-1 tvg-id="1491967" tvg-logo="http://51.158.145.100/picons/logos/logos/1491967.png" group-title="BULGARIA",BG| CODE HEALTH TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1491967&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1491967&extension=ts
 #EXTINF:-1 tvg-id="1517948" tvg-logo="http://51.158.145.100/picons/logos/logos/1517948.png" group-title="BULGARIA",BG| 100 AUTOMOTO TV FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1517948&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1517948&extension=ts
+#EXTINF:-1 tvg-id="1994880" tvg-logo="http://51.158.145.100/picons/logos/logos/154867.png" group-title="BULGARIA",BG| HISTORY 2 [SD]
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1994880&extension=ts
 #EXTINF:-1 tvg-id="154814" tvg-logo="http://51.158.145.100/picons/logos/logos/154814.png" group-title="BULGARIA",BG| CODE FASHION TV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154814&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154814&extension=ts
 #EXTINF:-1 tvg-id="154808" tvg-logo="http://51.158.145.100/picons/logos/logos/154808.png" group-title="BULGARIA",BG| ARENA COMEDY [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154808&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154808&extension=ts
 #EXTINF:-1 tvg-id="1532093" tvg-logo="http://51.158.145.100/picons/logos/logos/1532093.png" group-title="BULGARIA",BG| DJAZZ HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1532093&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1532093&extension=ts
 #EXTINF:-1 tvg-id="154825" tvg-logo="http://51.158.145.100/picons/logos/logos/154825.png" group-title="BULGARIA",BG| DAVINCI LEARNING [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154825&extension=ts
-#EXTINF:-1 tvg-id="154817" tvg-logo="http://51.158.145.100/picons/logos/logos/154817.png" group-title="BULGARIA",BG| DIEMA FAMILY [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154817&extension=ts
-#EXTINF:-1 tvg-id="154816" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BULGARIA",BG| 7/8 TV FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154816&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154825&extension=ts
 #EXTINF:-1 tvg-id="154818" tvg-logo="http://51.158.145.100/picons/logos/logos/154818.png" group-title="BULGARIA",BG| DIEMA HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154818&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154818&extension=ts
+#EXTINF:-1 tvg-id="154817" tvg-logo="http://51.158.145.100/picons/logos/logos/154817.png" group-title="BULGARIA",BG| DIEMA FAMILY [SD]
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154817&extension=ts
+#EXTINF:-1 tvg-id="154816" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BULGARIA",BG| 7/8 TV FHD [FHD]
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154816&extension=ts
+#EXTINF:-1 tvg-id="1994424" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BULGARIA",BG| 7/8 TV [SD]
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1994424&extension=ts
 #EXTINF:-1 tvg-id="154821" tvg-logo="http://51.158.145.100/picons/logos/logos/154821.png" group-title="BULGARIA",BG| DIEMA TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154821&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154821&extension=ts
 #EXTINF:-1 tvg-id="154827" tvg-logo="http://51.158.145.100/picons/logos/logos/154827.png" group-title="BULGARIA",BG| DIEMA SPORT FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154827&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154827&extension=ts
 #EXTINF:-1 tvg-id="154819" tvg-logo="http://51.158.145.100/picons/logos/logos/154819.png" group-title="BULGARIA",BG| DIEMA SPORT 1 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154819&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154819&extension=ts
 #EXTINF:-1 tvg-id="154826" tvg-logo="http://51.158.145.100/picons/logos/logos/154826.png" group-title="BULGARIA",BG| DIEMA SPORT 2 [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154826&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154826&extension=ts
 #EXTINF:-1 tvg-id="154820" tvg-logo="http://51.158.145.100/picons/logos/logos/154820.png" group-title="BULGARIA",BG| DIEMA SPORT 2 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154820&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154820&extension=ts
 #EXTINF:-1 tvg-id="1457953" tvg-logo="http://51.158.145.100/picons/logos/logos/1457953.png" group-title="BULGARIA",BG| DIEMA SPORT 3 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1457953&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1457953&extension=ts
 #EXTINF:-1 tvg-id="154916" tvg-logo="http://51.158.145.100/picons/logos/logos/154916.png" group-title="BULGARIA",BG| DIEMA SPORT 3 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154916&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154916&extension=ts
 #EXTINF:-1 tvg-id="154828" tvg-logo="http://51.158.145.100/picons/logos/logos/154828.png" group-title="BULGARIA",BG| DISCOVERY CHANNEL HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154828&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154828&extension=ts
 #EXTINF:-1 tvg-id="154822" tvg-logo="http://51.158.145.100/picons/logos/logos/154822.png" group-title="BULGARIA",BG| DISNEY CHANNEL [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154822&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154822&extension=ts
 #EXTINF:-1 tvg-id="154832" tvg-logo="http://51.158.145.100/picons/logos/logos/154832.png" group-title="BULGARIA",BG| DISNEY JUNIOR [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154832&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154832&extension=ts
 #EXTINF:-1 tvg-id="154833" tvg-logo="http://51.158.145.100/picons/logos/logos/154833.png" group-title="BULGARIA",BG| DOCUBOX HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154833&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154833&extension=ts
 #EXTINF:-1 tvg-id="154824" tvg-logo="http://51.158.145.100/picons/logos/logos/154824.png" group-title="BULGARIA",BG| DSTV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154824&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154824&extension=ts
 #EXTINF:-1 tvg-id="154834" tvg-logo="http://51.158.145.100/picons/logos/logos/154834.png" group-title="BULGARIA",BG| DUCK TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154834&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154834&extension=ts
 #EXTINF:-1 tvg-id="154835" tvg-logo="http://51.158.145.100/picons/logos/logos/154835.png" group-title="BULGARIA",BG| E-KIDS [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154835&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154835&extension=ts
 #EXTINF:-1 tvg-id="154840" tvg-logo="http://51.158.145.100/picons/logos/logos/154840.png" group-title="BULGARIA",BG| EPICDRAMA HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154840&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154840&extension=ts
 #EXTINF:-1 tvg-id="154836" tvg-logo="http://51.158.145.100/picons/logos/logos/154836.png" group-title="BULGARIA",BG| EUROSPORT [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154836&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154836&extension=ts
 #EXTINF:-1 tvg-id="154841" tvg-logo="http://51.158.145.100/picons/logos/logos/154841.png" group-title="BULGARIA",BG| EUROSPORT 2 [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154841&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154841&extension=ts
 #EXTINF:-1 tvg-id="154837" tvg-logo="http://51.158.145.100/picons/logos/logos/154837.png" group-title="BULGARIA",BG| EUROSPORT 2 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154837&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154837&extension=ts
 #EXTINF:-1 tvg-id="154842" tvg-logo="http://51.158.145.100/picons/logos/logos/154842.png" group-title="BULGARIA",BG| EUROSPORT HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154842&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154842&extension=ts
 #EXTINF:-1 tvg-id="154838" tvg-logo="http://51.158.145.100/picons/logos/logos/154838.png" group-title="BULGARIA",BG| EVROKOM [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154838&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154838&extension=ts
 #EXTINF:-1 tvg-id="154839" tvg-logo="http://51.158.145.100/picons/logos/logos/154839.png" group-title="BULGARIA",BG| EVROKOM HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154839&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154839&extension=ts
 #EXTINF:-1 tvg-id="154850" tvg-logo="http://51.158.145.100/picons/logos/logos/154850.png" group-title="BULGARIA",BG| FEN FOLK TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154850&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154850&extension=ts
 #EXTINF:-1 tvg-id="154844" tvg-logo="http://51.158.145.100/picons/logos/logos/154844.png" group-title="BULGARIA",BG| FEN TV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154844&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154844&extension=ts
 #EXTINF:-1 tvg-id="154845" tvg-logo="http://51.158.145.100/picons/logos/logos/154845.png" group-title="BULGARIA",BG| FEN TV SD [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154845&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154845&extension=ts
 #EXTINF:-1 tvg-id="1758311" tvg-logo="http://51.158.145.100/picons/logos/logos/1758311.png" group-title="BULGARIA",BG| FIGHTKLUB FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1758311&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1758311&extension=ts
 #EXTINF:-1 tvg-id="154851" tvg-logo="http://51.158.145.100/picons/logos/logos/154851.png" group-title="BULGARIA",BG| FIGHTBOX HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154851&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154851&extension=ts
 #EXTINF:-1 tvg-id="154847" tvg-logo="http://51.158.145.100/picons/logos/logos/154847.png" group-title="BULGARIA",BG| FOLKLOR TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154847&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154847&extension=ts
 #EXTINF:-1 tvg-id="154855" tvg-logo="http://51.158.145.100/picons/logos/logos/154855.png" group-title="BULGARIA",BG| FOLKLOR TV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154855&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154855&extension=ts
 #EXTINF:-1 tvg-id="154848" tvg-logo="http://51.158.145.100/picons/logos/logos/154848.png" group-title="BULGARIA",BG| FOOD NETWORK [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154848&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154848&extension=ts
 #EXTINF:-1 tvg-id="1985805" tvg-logo="http://51.158.145.100/picons/logos/logos/1985805.png" group-title="BULGARIA",BG| SHOWTIME 1 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1985805&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1985805&extension=ts
 #EXTINF:-1 tvg-id="1985806" tvg-logo="http://51.158.145.100/picons/logos/logos/1985806.png" group-title="BULGARIA",BG| SHOWTIME 2 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1985806&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1985806&extension=ts
 #EXTINF:-1 tvg-id="1985802" tvg-logo="http://51.158.145.100/picons/logos/logos/1985802.png" group-title="BULGARIA",BG| CINESTAR 1 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1985802&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1985802&extension=ts
 #EXTINF:-1 tvg-id="1985801" tvg-logo="http://51.158.145.100/picons/logos/logos/1985801.png" group-title="BULGARIA",BG| CINESTAR ACTION FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1985801&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1985801&extension=ts
 #EXTINF:-1 tvg-id="154849" tvg-logo="http://51.158.145.100/picons/logos/logos/154849.png" group-title="BULGARIA",BG| STAR CHANNEL [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154849&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154849&extension=ts
 #EXTINF:-1 tvg-id="154856" tvg-logo="http://51.158.145.100/picons/logos/logos/154856.png" group-title="BULGARIA",BG| STAR CRIME [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154856&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154856&extension=ts
 #EXTINF:-1 tvg-id="154857" tvg-logo="http://51.158.145.100/picons/logos/logos/154857.png" group-title="BULGARIA",BG| STAR CRIME HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154857&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154857&extension=ts
 #EXTINF:-1 tvg-id="154858" tvg-logo="http://51.158.145.100/picons/logos/logos/154858.png" group-title="BULGARIA",BG| STAR LIFE [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154858&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154858&extension=ts
 #EXTINF:-1 tvg-id="154859" tvg-logo="http://51.158.145.100/picons/logos/logos/154859.png" group-title="BULGARIA",BG| STAR LIFE HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154859&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154859&extension=ts
 #EXTINF:-1 tvg-id="1571550" tvg-logo="http://51.158.145.100/picons/logos/logos/1571550.png" group-title="BULGARIA",BG| HGTV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1571550&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1571550&extension=ts
 #EXTINF:-1 tvg-id="154861" tvg-logo="http://51.158.145.100/picons/logos/logos/154861.png" group-title="BULGARIA",BG| HBO 1 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154861&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154861&extension=ts
 #EXTINF:-1 tvg-id="154862" tvg-logo="http://51.158.145.100/picons/logos/logos/154862.png" group-title="BULGARIA",BG| HBO 2 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154862&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154862&extension=ts
 #EXTINF:-1 tvg-id="154863" tvg-logo="http://51.158.145.100/picons/logos/logos/154863.png" group-title="BULGARIA",BG| HBO 3 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154863&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154863&extension=ts
 #EXTINF:-1 tvg-id="154866" tvg-logo="http://51.158.145.100/picons/logos/logos/154866.png" group-title="BULGARIA",BG| HISTORY CHANNEL [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154866&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154866&extension=ts
 #EXTINF:-1 tvg-id="154867" tvg-logo="http://51.158.145.100/picons/logos/logos/154867.png" group-title="BULGARIA",BG| HISTORY CHANNEL HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154867&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154867&extension=ts
 #EXTINF:-1 tvg-id="154868" tvg-logo="http://51.158.145.100/picons/logos/logos/154868.png" group-title="BULGARIA",BG| HIT MIX MUSIC [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154868&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154868&extension=ts
 #EXTINF:-1 tvg-id="1758315" tvg-logo="http://51.158.145.100/picons/logos/logos/1758315.png" group-title="BULGARIA",BG| HOBBY LOV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1758315&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1758315&extension=ts
 #EXTINF:-1 tvg-id="1508638" tvg-logo="http://51.158.145.100/picons/logos/logos/1508638.png" group-title="BULGARIA",BG| HOPE CHANNEL [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1508638&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1508638&extension=ts
 #EXTINF:-1 tvg-id="1762852" tvg-logo="http://51.158.145.100/picons/logos/logos/SHUMENT.png" group-title="BULGARIA",BG| SHUMEN TV FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1762852&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1762852&extension=ts
 #EXTINF:-1 tvg-id="1841724" tvg-logo="http://51.158.145.100/picons/logos/logos/ICONCERTS.png" group-title="BULGARIA",BG| ICONCERTS [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1841724&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1841724&extension=ts
 #EXTINF:-1 tvg-id="154872" tvg-logo="http://51.158.145.100/picons/logos/logos/154872.png" group-title="BULGARIA",BG| ID XTRA HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154872&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154872&extension=ts
 #EXTINF:-1 tvg-id="154871" tvg-logo="http://51.158.145.100/picons/logos/logos/154871.png" group-title="BULGARIA",BG| ID XTRA [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154871&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154871&extension=ts
 #EXTINF:-1 tvg-id="154874" tvg-logo="http://51.158.145.100/picons/logos/logos/154874.png" group-title="BULGARIA",BG| JIM JAM [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154874&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154874&extension=ts
 #EXTINF:-1 tvg-id="154876" tvg-logo="http://51.158.145.100/picons/logos/logos/154876.png" group-title="BULGARIA",BG| KINO NOVA [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154876&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154876&extension=ts
 #EXTINF:-1 tvg-id="1508641" tvg-logo="http://51.158.145.100/picons/logos/logos/1508641.png" group-title="BULGARIA",BG| LTV BULGARIA [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1508641&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1508641&extension=ts
 #EXTINF:-1 tvg-id="154878" tvg-logo="http://51.158.145.100/picons/logos/logos/154878.png" group-title="BULGARIA",BG| MAGIC TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154878&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154878&extension=ts
 #EXTINF:-1 tvg-id="154879" tvg-logo="http://51.158.145.100/picons/logos/logos/154879.png" group-title="BULGARIA",BG| MAX SPORT 1 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154879&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154879&extension=ts
 #EXTINF:-1 tvg-id="154880" tvg-logo="http://51.158.145.100/picons/logos/logos/154880.png" group-title="BULGARIA",BG| MAX SPORT 2 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154880&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154880&extension=ts
 #EXTINF:-1 tvg-id="154881" tvg-logo="http://51.158.145.100/picons/logos/logos/154881.png" group-title="BULGARIA",BG| MAX SPORT 3 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154881&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154881&extension=ts
 #EXTINF:-1 tvg-id="154882" tvg-logo="http://51.158.145.100/picons/logos/logos/154882.png" group-title="BULGARIA",BG| MAX SPORT 4 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154882&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154882&extension=ts
 #EXTINF:-1 tvg-id="154884" tvg-logo="http://51.158.145.100/picons/logos/logos/154884.png" group-title="BULGARIA",BG| MOVIE STAR [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154884&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154884&extension=ts
 #EXTINF:-1 tvg-id="154883" tvg-logo="http://51.158.145.100/picons/logos/logos/154883.png" group-title="BULGARIA",BG| MOVIE STAR FULL HD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154883&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154883&extension=ts
 #EXTINF:-1 tvg-id="1758319" tvg-logo="http://51.158.145.100/picons/logos/logos/1758319.png" group-title="BULGARIA",BG| LOVE NATURE HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1758319&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1758319&extension=ts
 #EXTINF:-1 tvg-id="1775776" tvg-logo="http://51.158.145.100/picons/logos/logos/1775776.png" group-title="BULGARIA",BG| LOVE NATURE FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1775776&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1775776&extension=ts
 #EXTINF:-1 tvg-id="154892" tvg-logo="http://51.158.145.100/picons/logos/logos/154892.png" group-title="BULGARIA",BG| NAT GEO HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154892&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154892&extension=ts
 #EXTINF:-1 tvg-id="154893" tvg-logo="http://51.158.145.100/picons/logos/logos/154893.png" group-title="BULGARIA",BG| NAT GEO WILD HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154893&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154893&extension=ts
 #EXTINF:-1 tvg-id="154942" tvg-logo="http://51.158.145.100/picons/logos/logos/154942.png" group-title="BULGARIA",BG| WILD TV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154942&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154942&extension=ts
 #EXTINF:-1 tvg-id="154886" tvg-logo="http://51.158.145.100/picons/logos/logos/154886.png" group-title="BULGARIA",BG| NATIONAL GEOGRAPHIC [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154886&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154886&extension=ts
 #EXTINF:-1 tvg-id="1758313" tvg-logo="http://51.158.145.100/picons/logos/logos/1758313.png" group-title="BULGARIA",BG| NICKTOONS [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1758313&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1758313&extension=ts
 #EXTINF:-1 tvg-id="154896" tvg-logo="http://51.158.145.100/picons/logos/logos/154896.png" group-title="BULGARIA",BG| NICKELODEON [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154896&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154896&extension=ts
 #EXTINF:-1 tvg-id="154895" tvg-logo="http://51.158.145.100/picons/logos/logos/154895.png" group-title="BULGARIA",BG| NICK JR [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154895&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154895&extension=ts
 #EXTINF:-1 tvg-id="1758109" tvg-logo="http://51.158.145.100/picons/logos/logos/1758109.png" group-title="BULGARIA",BG| NOSTALGIA HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1758109&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1758109&extension=ts
 #EXTINF:-1 tvg-id="154887" tvg-logo="http://51.158.145.100/picons/logos/logos/154887.png" group-title="BULGARIA",BG| NOVA [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154887&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154887&extension=ts
 #EXTINF:-1 tvg-id="1141345" tvg-logo="http://51.158.145.100/picons/logos/logos/1141345.png" group-title="BULGARIA",BG| NOVA NEWS HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1141345&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1141345&extension=ts
 #EXTINF:-1 tvg-id="154888" tvg-logo="http://51.158.145.100/picons/logos/logos/154888.png" group-title="BULGARIA",BG| NOVA SPORT [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154888&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154888&extension=ts
 #EXTINF:-1 tvg-id="154889" tvg-logo="http://51.158.145.100/picons/logos/logos/154889.png" group-title="BULGARIA",BG| NOVA SPORT HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154889&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154889&extension=ts
 #EXTINF:-1 tvg-id="154890" tvg-logo="http://51.158.145.100/picons/logos/logos/154890.png" group-title="BULGARIA",BG| NOVA TV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154890&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154890&extension=ts
 #EXTINF:-1 tvg-id="154891" tvg-logo="http://51.158.145.100/picons/logos/logos/154891.png" group-title="BULGARIA",BG| NRJ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154891&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154891&extension=ts
 #EXTINF:-1 tvg-id="154898" tvg-logo="http://51.158.145.100/picons/logos/logos/154898.png" group-title="BULGARIA",BG| PERVIY KANAL [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154898&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154898&extension=ts
 #EXTINF:-1 tvg-id="154908" tvg-logo="http://51.158.145.100/picons/logos/logos/154908.png" group-title="BULGARIA",BG| PLANETA [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154908&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154908&extension=ts
 #EXTINF:-1 tvg-id="154899" tvg-logo="http://51.158.145.100/picons/logos/logos/154899.png" group-title="BULGARIA",BG| PLANETA FOLK FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154899&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154899&extension=ts
 #EXTINF:-1 tvg-id="154900" tvg-logo="http://51.158.145.100/picons/logos/logos/154900.png" group-title="BULGARIA",BG| PLANETA FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154900&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154900&extension=ts
 #EXTINF:-1 tvg-id="154901" tvg-logo="http://51.158.145.100/picons/logos/logos/154901.png" group-title="BULGARIA",BG| PLANETA TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154901&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154901&extension=ts
 #EXTINF:-1 tvg-id="154902" tvg-logo="http://51.158.145.100/picons/logos/logos/154902.png" group-title="BULGARIA",BG| PP TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154902&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154902&extension=ts
 #EXTINF:-1 tvg-id="154910" tvg-logo="http://51.158.145.100/picons/logos/logos/154910.png" group-title="BULGARIA",BG| RING HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154910&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154910&extension=ts
 #EXTINF:-1 tvg-id="1508639" tvg-logo="http://51.158.145.100/picons/logos/logos/1508639.png" group-title="BULGARIA",BG| RETRO MUSIC TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1508639&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1508639&extension=ts
 #EXTINF:-1 tvg-id="1508637" tvg-logo="http://51.158.145.100/picons/logos/logos/1508637.png" group-title="BULGARIA",BG| RIMEX TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1508637&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1508637&extension=ts
 #EXTINF:-1 tvg-id="154911" tvg-logo="http://51.158.145.100/picons/logos/logos/154911.png" group-title="BULGARIA",BG| RING TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154911&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154911&extension=ts
 #EXTINF:-1 tvg-id="154913" tvg-logo="http://51.158.145.100/picons/logos/logos/154913.png" group-title="BULGARIA",BG| RODINA TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154913&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154913&extension=ts
 #EXTINF:-1 tvg-id="154912" tvg-logo="http://51.158.145.100/picons/logos/logos/154912.png" group-title="BULGARIA",BG| ROMA TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154912&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154912&extension=ts
 #EXTINF:-1 tvg-id="1758312" tvg-logo="http://51.158.145.100/picons/logos/logos/1758312.png" group-title="BULGARIA",BG| SUPPERTOONS HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1758312&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1758312&extension=ts
 #EXTINF:-1 tvg-id="1508640" tvg-logo="http://51.158.145.100/picons/logos/logos/1508640.png" group-title="BULGARIA",BG| THIS IS BULGARIA [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1508640&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1508640&extension=ts
 #EXTINF:-1 tvg-id="154928" tvg-logo="http://51.158.145.100/picons/logos/logos/154928.png" group-title="BULGARIA",BG| THE VOICE [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154928&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154928&extension=ts
 #EXTINF:-1 tvg-id="1529010" tvg-logo="http://51.158.145.100/picons/logos/logos/1529010.png" group-title="BULGARIA",BG| THE VOICE FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1529010&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1529010&extension=ts
 #EXTINF:-1 tvg-id="1758310" tvg-logo="http://51.158.145.100/picons/logos/logos/1758310.png" group-title="BULGARIA",BG| THE WORLD [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1758310&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1758310&extension=ts
 #EXTINF:-1 tvg-id="154930" tvg-logo="http://51.158.145.100/picons/logos/logos/154930.png" group-title="BULGARIA",BG| TIANKOV FOLK HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154930&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154930&extension=ts
 #EXTINF:-1 tvg-id="154931" tvg-logo="http://51.158.145.100/picons/logos/logos/154931.png" group-title="BULGARIA",BG| TIANKOV ORIENT FOLK [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154931&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154931&extension=ts
 #EXTINF:-1 tvg-id="154918" tvg-logo="http://51.158.145.100/picons/logos/logos/154918.png" group-title="BULGARIA",BG| TLC [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154918&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154918&extension=ts
 #EXTINF:-1 tvg-id="154932" tvg-logo="http://51.158.145.100/picons/logos/logos/154932.png" group-title="BULGARIA",BG| TRACE SPORT STARS [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154932&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154932&extension=ts
 #EXTINF:-1 tvg-id="154933" tvg-logo="http://51.158.145.100/picons/logos/logos/154933.png" group-title="BULGARIA",BG| TRACE SPORT STARS HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154933&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154933&extension=ts
 #EXTINF:-1 tvg-id="154919" tvg-logo="http://51.158.145.100/picons/logos/logos/154919.png" group-title="BULGARIA",BG| TRAVEL CHANNEL [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154919&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154919&extension=ts
 #EXTINF:-1 tvg-id="154934" tvg-logo="http://51.158.145.100/picons/logos/logos/154934.png" group-title="BULGARIA",BG| TRAVEL CHANNEL FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154934&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154934&extension=ts
 #EXTINF:-1 tvg-id="154935" tvg-logo="http://51.158.145.100/picons/logos/logos/154935.png" group-title="BULGARIA",BG| TRAVEL TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154935&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154935&extension=ts
 #EXTINF:-1 tvg-id="154920" tvg-logo="http://51.158.145.100/picons/logos/logos/154920.png" group-title="BULGARIA",BG| TRAVEL TV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154920&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154920&extension=ts
 #EXTINF:-1 tvg-id="154925" tvg-logo="http://51.158.145.100/picons/logos/logos/154925.png" group-title="BULGARIA",BG| TV1 [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154925&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154925&extension=ts
 #EXTINF:-1 tvg-id="154926" tvg-logo="http://51.158.145.100/picons/logos/logos/154926.png" group-title="BULGARIA",BG| TV1 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154926&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154926&extension=ts
 #EXTINF:-1 tvg-id="1985800" tvg-logo="http://51.158.145.100/picons/logos/logos/1985800.png" group-title="BULGARIA",BG| VIVACOM ARENA FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1985800&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1985800&extension=ts
 #EXTINF:-1 tvg-id="154921" tvg-logo="http://51.158.145.100/picons/logos/logos/154921.png" group-title="BULGARIA",BG| VIASAT KINO PREMIERE [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154921&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154921&extension=ts
 #EXTINF:-1 tvg-id="154923" tvg-logo="http://51.158.145.100/picons/logos/logos/154923.png" group-title="BULGARIA",BG| EURONEWS FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154923&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154923&extension=ts
 #EXTINF:-1 tvg-id="1491965" tvg-logo="http://51.158.145.100/picons/logos/logos/1491965.png" group-title="BULGARIA",BG| TVN BULGARIA [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1491965&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1491965&extension=ts
 #EXTINF:-1 tvg-id="1758309" tvg-logo="http://51.158.145.100/picons/logos/logos/1758309.png" group-title="BULGARIA",BG| TVT FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1758309&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1758309&extension=ts
 #EXTINF:-1 tvg-id="1491966" tvg-logo="http://51.158.145.100/picons/logos/logos/1491966.png" group-title="BULGARIA",BG| TV ZAGORA [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1491966&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1491966&extension=ts
 #EXTINF:-1 tvg-id="154938" tvg-logo="http://51.158.145.100/picons/logos/logos/154938.png" group-title="BULGARIA",BG| VIASAT EXPLORER [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154938&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154938&extension=ts
 #EXTINF:-1 tvg-id="154939" tvg-logo="http://51.158.145.100/picons/logos/logos/154939.png" group-title="BULGARIA",BG| VIASAT HISTORY [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154939&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154939&extension=ts
 #EXTINF:-1 tvg-id="154940" tvg-logo="http://51.158.145.100/picons/logos/logos/154940.png" group-title="BULGARIA",BG| VIASAT HISTORY HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154940&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154940&extension=ts
 #EXTINF:-1 tvg-id="154941" tvg-logo="http://51.158.145.100/picons/logos/logos/154941.png" group-title="BULGARIA",BG| VIASAT NATURE [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154941&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154941&extension=ts
 #EXTINF:-1 tvg-id="154937" tvg-logo="http://51.158.145.100/picons/logos/logos/154937.png" group-title="BULGARIA",BG| VTK [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154937&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154937&extension=ts
 #EXTINF:-1 tvg-id="154943" tvg-logo="http://51.158.145.100/picons/logos/logos/154943.png" group-title="BULGARIA",BG| WNESSTV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154943&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154943&extension=ts
 #EXTINF:-1 tvg-id="154944" tvg-logo="http://51.158.145.100/picons/logos/logos/154944.png" group-title="BULGARIA",BG| WNESSTV HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=154944&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=154944&extension=ts
 #EXTINF:-1 tvg-id="83260" tvg-logo="http://51.158.145.100/picons/logos/logos/83260.png" group-title="BULGARIA",BG| MAX SPORT 1 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=83260&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=83260&extension=ts
 #EXTINF:-1 tvg-id="83259" tvg-logo="http://51.158.145.100/picons/logos/logos/83259.png" group-title="BULGARIA",BG| MAX SPORT 2 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=83259&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=83259&extension=ts
 #EXTINF:-1 tvg-id="83258" tvg-logo="http://51.158.145.100/picons/logos/logos/83258.png" group-title="BULGARIA",BG| MAX SPORT 3 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=83258&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=83258&extension=ts
 #EXTINF:-1 tvg-id="83257" tvg-logo="http://51.158.145.100/picons/logos/logos/83257.png" group-title="BULGARIA",BG| MAX SPORT 4 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=83257&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=83257&extension=ts
 #EXTINF:-1 tvg-id="1446558" tvg-logo="http://51.158.145.100/picons/logos/logos/1446558.png" group-title="BULGARIA",BG| V2BEAT TV [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1446558&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1446558&extension=ts
 #EXTINF:-1 tvg-id="1508635" tvg-logo="http://51.158.145.100/picons/logos/logos/1508635.png" group-title="BULGARIA",BG| NOVA NEWS [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1508635&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1508635&extension=ts
 #EXTINF:-1 tvg-id="1510040" tvg-logo="http://51.158.145.100/picons/logos/logos/1510040.png" group-title="BULGARIA",BG| KANAL 3 FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1510040&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1510040&extension=ts
 #EXTINF:-1 tvg-id="1447191" tvg-logo="http://51.158.145.100/picons/logos/logos/1447191.png" group-title="BULGARIA",BG| SPORTAL [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1447191&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1447191&extension=ts
 #EXTINF:-1 tvg-id="1758308" tvg-logo="http://51.158.145.100/picons/logos/logos/1758308.png" group-title="BULGARIA",BG| DIZI TV FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1758308&extension=ts
-#EXTINF:-1 tvg-id="1616442" tvg-logo="http://51.158.145.100/picons/logos/logos/1616442.png" group-title="BULGARIA",BG| MTV LIVE FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1616442&extension=ts
-#EXTINF:-1 tvg-id="1616441" tvg-logo="http://51.158.145.100/picons/logos/logos/1616441.png" group-title="BULGARIA",BG| MTV CLUB [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1616441&extension=ts
-#EXTINF:-1 tvg-id="1616440" tvg-logo="http://51.158.145.100/picons/logos/logos/1616440.png" group-title="BULGARIA",BG| MTV 80s [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1616440&extension=ts
-#EXTINF:-1 tvg-id="1616439" tvg-logo="http://51.158.145.100/picons/logos/logos/1616439.png" group-title="BULGARIA",BG| MTV 90s FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1616439&extension=ts
-#EXTINF:-1 tvg-id="1616438" tvg-logo="http://51.158.145.100/picons/logos/logos/1616438.png" group-title="BULGARIA",BG| MTV 00s [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1616438&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1758308&extension=ts
 #EXTINF:-1 tvg-id="1616437" tvg-logo="http://51.158.145.100/picons/logos/logos/1616437.png" group-title="BULGARIA",BG| MTV HITS [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1616437&extension=ts
-#EXTINF:-1 tvg-id="1616436" tvg-logo="http://51.158.145.100/picons/logos/logos/1616436.png" group-title="BULGARIA",BG| MTV DANCE [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1616436&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1616437&extension=ts
 #EXTINF:-1 tvg-id="1616435" tvg-logo="http://51.158.145.100/picons/logos/logos/1616435.png" group-title="BULGARIA",BG| MTV FHD [FHD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1616435&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1616435&extension=ts
 #EXTINF:-1 tvg-id="1616434" tvg-logo="http://51.158.145.100/picons/logos/logos/1616434.png" group-title="BULGARIA",BG| MTV CLASSIC [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1616434&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1616434&extension=ts
 #EXTINF:-1 tvg-id="1898945" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO '70S [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1898945&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1898945&extension=ts
 #EXTINF:-1 tvg-id="1898944" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO '80S [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1898944&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1898944&extension=ts
 #EXTINF:-1 tvg-id="1898943" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO '90S [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1898943&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1898943&extension=ts
 #EXTINF:-1 tvg-id="1898942" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO 2K [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1898942&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1898942&extension=ts
 #EXTINF:-1 tvg-id="1898941" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO COUNTRY [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1898941&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1898941&extension=ts
 #EXTINF:-1 tvg-id="1898940" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO HIP-HOP [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1898940&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1898940&extension=ts
 #EXTINF:-1 tvg-id="1898939" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO R&B [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1898939&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1898939&extension=ts
 #EXTINF:-1 tvg-id="1902537" tvg-logo="http://51.158.145.100/picons/logos/logos/1902537.png" group-title="BULGARIA",BG| VEVO LATINO [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1902537&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1902537&extension=ts
 #EXTINF:-1 tvg-id="1902536" tvg-logo="http://51.158.145.100/picons/logos/logos/1902536.png" group-title="BULGARIA",BG| VEVO POP [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1902536&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1902536&extension=ts
 #EXTINF:-1 tvg-id="1902535" tvg-logo="http://51.158.145.100/picons/logos/logos/1902535.png" group-title="BULGARIA",BG| VEVO REGGAETON & TRAP [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1902535&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1902535&extension=ts
 #EXTINF:-1 tvg-id="1862376" tvg-logo="http://51.158.145.100/picons/logos/logos/1862376.png" group-title="BULGARIA",BG| 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862376&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862376&extension=ts
 #EXTINF:-1 tvg-id="1862375" tvg-logo="http://51.158.145.100/picons/logos/logos/1862375.png" group-title="BULGARIA",BG| ACTION BOX ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862375&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862375&extension=ts
 #EXTINF:-1 tvg-id="1862374" tvg-logo="http://51.158.145.100/picons/logos/logos/1862374.png" group-title="BULGARIA",BG| AGRO TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862374&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862374&extension=ts
 #EXTINF:-1 tvg-id="1862373" tvg-logo="http://51.158.145.100/picons/logos/logos/1862373.png" group-title="BULGARIA",BG| BALKANIKA TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862373&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862373&extension=ts
 #EXTINF:-1 tvg-id="1862372" tvg-logo="http://51.158.145.100/picons/logos/logos/1862372.png" group-title="BULGARIA",BG| BG + ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862372&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862372&extension=ts
 #EXTINF:-1 tvg-id="1862371" tvg-logo="http://51.158.145.100/picons/logos/logos/1862371.png" group-title="BULGARIA",BG| BLOOMBERG TV BULGARIA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862371&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862371&extension=ts
 #EXTINF:-1 tvg-id="1862370" tvg-logo="http://51.158.145.100/picons/logos/logos/1862370.png" group-title="BULGARIA",BG| BNT 1 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862370&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862370&extension=ts
 #EXTINF:-1 tvg-id="1862369" tvg-logo="http://51.158.145.100/picons/logos/logos/1862369.png" group-title="BULGARIA",BG| BNT 2 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862369&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862369&extension=ts
 #EXTINF:-1 tvg-id="1862368" tvg-logo="http://51.158.145.100/picons/logos/logos/1862368.png" group-title="BULGARIA",BG| BNT 3 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862368&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862368&extension=ts
 #EXTINF:-1 tvg-id="1862367" tvg-logo="http://51.158.145.100/picons/logos/logos/1862367.png" group-title="BULGARIA",BG| BNT 4 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862367&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862367&extension=ts
 #EXTINF:-1 tvg-id="1862366" tvg-logo="http://51.158.145.100/picons/logos/logos/1862366.png" group-title="BULGARIA",BG| BTK TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862366&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862366&extension=ts
 #EXTINF:-1 tvg-id="1862365" tvg-logo="http://51.158.145.100/picons/logos/logos/1862365.png" group-title="BULGARIA",BG| BTV ACTION ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862365&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862365&extension=ts
 #EXTINF:-1 tvg-id="1862364" tvg-logo="http://51.158.145.100/picons/logos/logos/1862364.png" group-title="BULGARIA",BG| BTV CINEMA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862364&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862364&extension=ts
 #EXTINF:-1 tvg-id="1862363" tvg-logo="http://51.158.145.100/picons/logos/logos/1862363.png" group-title="BULGARIA",BG| BTV COMEDY ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862363&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862363&extension=ts
 #EXTINF:-1 tvg-id="1862362" tvg-logo="http://51.158.145.100/picons/logos/logos/1862362.png" group-title="BULGARIA",BG| BTV STORY ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862362&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862362&extension=ts
 #EXTINF:-1 tvg-id="1862361" tvg-logo="http://51.158.145.100/picons/logos/logos/1862361.png" group-title="BULGARIA",BG| BTV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862361&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862361&extension=ts
 #EXTINF:-1 tvg-id="1862360" tvg-logo="http://51.158.145.100/picons/logos/logos/1862360.png" group-title="BULGARIA",BG| BULGARIA ON AIR ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862360&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862360&extension=ts
 #EXTINF:-1 tvg-id="1862359" tvg-logo="http://51.158.145.100/picons/logos/logos/1862359.png" group-title="BULGARIA",BG| CARTOON NETWORK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862359&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862359&extension=ts
 #EXTINF:-1 tvg-id="1862358" tvg-logo="http://51.158.145.100/picons/logos/logos/1862358.png" group-title="BULGARIA",BG| CINEBOX ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862358&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862358&extension=ts
 #EXTINF:-1 tvg-id="1862357" tvg-logo="http://51.158.145.100/picons/logos/logos/1862357.png" group-title="BULGARIA",BG| CITY TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862357&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862357&extension=ts
 #EXTINF:-1 tvg-id="1862356" tvg-logo="http://51.158.145.100/picons/logos/logos/1862356.png" group-title="BULGARIA",BG| CODE FASHION ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862356&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862356&extension=ts
 #EXTINF:-1 tvg-id="1862355" tvg-logo="http://51.158.145.100/picons/logos/logos/1862355.png" group-title="BULGARIA",BG| CODE HEALTH ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862355&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862355&extension=ts
 #EXTINF:-1 tvg-id="1862354" tvg-logo="http://51.158.145.100/picons/logos/logos/1862354.png" group-title="BULGARIA",BG| COMEDYBOX ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862354&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862354&extension=ts
 #EXTINF:-1 tvg-id="1862353" tvg-logo="http://51.158.145.100/picons/logos/logos/1862353.png" group-title="BULGARIA",BG| DIEMA FAMILY ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862353&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862353&extension=ts
 #EXTINF:-1 tvg-id="1862352" tvg-logo="http://51.158.145.100/picons/logos/logos/1862352.png" group-title="BULGARIA",BG| DIEMA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862352&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862352&extension=ts
 #EXTINF:-1 tvg-id="1862351" tvg-logo="http://51.158.145.100/picons/logos/logos/1862351.png" group-title="BULGARIA",BG| DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862351&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862351&extension=ts
 #EXTINF:-1 tvg-id="1862350" tvg-logo="http://51.158.145.100/picons/logos/logos/1862350.png" group-title="BULGARIA",BG| DIEMA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862350&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862350&extension=ts
 #EXTINF:-1 tvg-id="1862349" tvg-logo="http://51.158.145.100/picons/logos/logos/1862349.png" group-title="BULGARIA",BG| DIEMA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862349&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862349&extension=ts
 #EXTINF:-1 tvg-id="1862348" tvg-logo="http://51.158.145.100/picons/logos/logos/1862348.png" group-title="BULGARIA",BG| DOCUBOX ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862348&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862348&extension=ts
 #EXTINF:-1 tvg-id="1862347" tvg-logo="http://51.158.145.100/picons/logos/logos/1862347.png" group-title="BULGARIA",BG| DSTV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862347&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862347&extension=ts
 #EXTINF:-1 tvg-id="1862346" tvg-logo="http://51.158.145.100/picons/logos/logos/1862346.png" group-title="BULGARIA",BG| EKIDS ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862346&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862346&extension=ts
 #EXTINF:-1 tvg-id="1862345" tvg-logo="http://51.158.145.100/picons/logos/logos/1862345.png" group-title="BULGARIA",BG| EURONEWS ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862345&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862345&extension=ts
 #EXTINF:-1 tvg-id="1862344" tvg-logo="http://51.158.145.100/picons/logos/logos/1862344.png" group-title="BULGARIA",BG| EVROKOM ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862344&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862344&extension=ts
 #EXTINF:-1 tvg-id="1862343" tvg-logo="http://51.158.145.100/picons/logos/logos/1862343.png" group-title="BULGARIA",BG| FEN FOLK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862343&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862343&extension=ts
 #EXTINF:-1 tvg-id="1862342" tvg-logo="http://51.158.145.100/picons/logos/logos/1862342.png" group-title="BULGARIA",BG| FEN ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862342&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862342&extension=ts
 #EXTINF:-1 tvg-id="1862341" tvg-logo="http://51.158.145.100/picons/logos/logos/1862341.png" group-title="BULGARIA",BG| FILMBOX ARTHOUSE ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862341&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862341&extension=ts
 #EXTINF:-1 tvg-id="1862340" tvg-logo="http://51.158.145.100/picons/logos/logos/1862340.png" group-title="BULGARIA",BG| FILMBOX EXTRA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862340&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862340&extension=ts
 #EXTINF:-1 tvg-id="1862339" tvg-logo="http://51.158.145.100/picons/logos/logos/1862339.png" group-title="BULGARIA",BG| FILMBOX STARS ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862339&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862339&extension=ts
 #EXTINF:-1 tvg-id="1862338" tvg-logo="http://51.158.145.100/picons/logos/logos/1862338.png" group-title="BULGARIA",BG| FILMBOX ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862338&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862338&extension=ts
 #EXTINF:-1 tvg-id="1862337" tvg-logo="http://51.158.145.100/picons/logos/logos/1862337.png" group-title="BULGARIA",BG| KANAL 3 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862337&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862337&extension=ts
 #EXTINF:-1 tvg-id="1862336" tvg-logo="http://51.158.145.100/picons/logos/logos/1862336.png" group-title="BULGARIA",BG| KINO NOVA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862336&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862336&extension=ts
 #EXTINF:-1 tvg-id="1862335" tvg-logo="http://51.158.145.100/picons/logos/logos/1862335.png" group-title="BULGARIA",BG| MAGIC TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862335&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862335&extension=ts
 #EXTINF:-1 tvg-id="1862334" tvg-logo="http://51.158.145.100/picons/logos/logos/1862334.png" group-title="BULGARIA",BG| MAX SPORT 1 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862334&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862334&extension=ts
 #EXTINF:-1 tvg-id="1862333" tvg-logo="http://51.158.145.100/picons/logos/logos/1862333.png" group-title="BULGARIA",BG| MAX SPORT 2 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862333&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862333&extension=ts
 #EXTINF:-1 tvg-id="1862332" tvg-logo="http://51.158.145.100/picons/logos/logos/1862332.png" group-title="BULGARIA",BG| MAX SPORT 3 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862332&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862332&extension=ts
 #EXTINF:-1 tvg-id="1862331" tvg-logo="http://51.158.145.100/picons/logos/logos/1862331.png" group-title="BULGARIA",BG| MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862331&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862331&extension=ts
 #EXTINF:-1 tvg-id="1862330" tvg-logo="http://51.158.145.100/picons/logos/logos/1862330.png" group-title="BULGARIA",BG| NICKELODEON ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862330&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862330&extension=ts
 #EXTINF:-1 tvg-id="1862329" tvg-logo="http://51.158.145.100/picons/logos/logos/1862329.png" group-title="BULGARIA",BG| NICK JR. ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862329&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862329&extension=ts
 #EXTINF:-1 tvg-id="1862328" tvg-logo="http://51.158.145.100/picons/logos/logos/1862328.png" group-title="BULGARIA",BG| NOVA NEWS ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862328&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862328&extension=ts
 #EXTINF:-1 tvg-id="1862327" tvg-logo="http://51.158.145.100/picons/logos/logos/1862327.png" group-title="BULGARIA",BG| NOVA SPORT ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862327&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862327&extension=ts
 #EXTINF:-1 tvg-id="1862326" tvg-logo="http://51.158.145.100/picons/logos/logos/1862326.png" group-title="BULGARIA",BG| NOVA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862326&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862326&extension=ts
 #EXTINF:-1 tvg-id="1862325" tvg-logo="http://51.158.145.100/picons/logos/logos/1862325.png" group-title="BULGARIA",BG| PLANETA FOLK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862325&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862325&extension=ts
 #EXTINF:-1 tvg-id="1862324" tvg-logo="http://51.158.145.100/picons/logos/logos/1862324.png" group-title="BULGARIA",BG| PLANETA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862324&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862324&extension=ts
 #EXTINF:-1 tvg-id="1862323" tvg-logo="http://51.158.145.100/picons/logos/logos/1862323.png" group-title="BULGARIA",BG| RING ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862323&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862323&extension=ts
 #EXTINF:-1 tvg-id="1862322" tvg-logo="http://51.158.145.100/picons/logos/logos/1862322.png" group-title="BULGARIA",BG| RODINA TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862322&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862322&extension=ts
 #EXTINF:-1 tvg-id="1862321" tvg-logo="http://51.158.145.100/picons/logos/logos/1862321.png" group-title="BULGARIA",BG| THE VOICE ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862321&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862321&extension=ts
 #EXTINF:-1 tvg-id="1862320" tvg-logo="http://51.158.145.100/picons/logos/logos/1862320.png" group-title="BULGARIA",BG| TIANKOV FOLK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862320&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862320&extension=ts
 #EXTINF:-1 tvg-id="1862319" tvg-logo="http://51.158.145.100/picons/logos/logos/1862319.png" group-title="BULGARIA",BG| TIANKOV ORIENT FOLK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862319&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862319&extension=ts
 #EXTINF:-1 tvg-id="1862318" tvg-logo="http://51.158.145.100/picons/logos/logos/1862318.png" group-title="BULGARIA",BG| TRAVEL TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862318&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862318&extension=ts
 #EXTINF:-1 tvg-id="1862317" tvg-logo="http://51.158.145.100/picons/logos/logos/1862317.png" group-title="BULGARIA",BG| TV 1 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862317&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862317&extension=ts
 #EXTINF:-1 tvg-id="1862316" tvg-logo="http://51.158.145.100/picons/logos/logos/1862316.png" group-title="BULGARIA",BG| TV 7/8 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862316&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862316&extension=ts
 #EXTINF:-1 tvg-id="1862315" tvg-logo="http://51.158.145.100/picons/logos/logos/1862315.png" group-title="BULGARIA",BG| VIASAT EXPLORE ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862315&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862315&extension=ts
 #EXTINF:-1 tvg-id="1862314" tvg-logo="http://51.158.145.100/picons/logos/logos/1862314.png" group-title="BULGARIA",BG| VIASAT HISTORY ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862314&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862314&extension=ts
 #EXTINF:-1 tvg-id="1862313" tvg-logo="http://51.158.145.100/picons/logos/logos/1862313.png" group-title="BULGARIA",BG| VIASAT NATURE ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862313&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862313&extension=ts
 #EXTINF:-1 tvg-id="1862312" tvg-logo="http://51.158.145.100/picons/logos/logos/1862312.png" group-title="BULGARIA",BG| VTK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1862312&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1862312&extension=ts
 #EXTINF:-1 tvg-id="1904740" tvg-logo="" group-title="BULGARIA",BG| XTREME OUTDOOR [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904740&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904740&extension=ts
 #EXTINF:-1 tvg-id="1904739" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE ROCK X METAL [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904739&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904739&extension=ts
 #EXTINF:-1 tvg-id="1904738" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE RAP GAME [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904738&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904738&extension=ts
 #EXTINF:-1 tvg-id="1904737" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE R&B FEELS [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904737&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904737&extension=ts
 #EXTINF:-1 tvg-id="1904736" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE R&B CLASSIC JAMS [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904736&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904736&extension=ts
 #EXTINF:-1 tvg-id="1904735" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE NUEVO LATINO [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904735&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904735&extension=ts
 #EXTINF:-1 tvg-id="1904734" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE HITS [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904734&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904734&extension=ts
 #EXTINF:-1 tvg-id="1904733" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE HIP-HOP EVOLUTION [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904733&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904733&extension=ts
 #EXTINF:-1 tvg-id="1904732" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE GOSPEL [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904732&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904732&extension=ts
 #EXTINF:-1 tvg-id="1904731" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE COUNTRY TODAY [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904731&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904731&extension=ts
 #EXTINF:-1 tvg-id="1904730" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE CLASSIC COUNTRY [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904730&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904730&extension=ts
 #EXTINF:-1 tvg-id="1904729" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE CHRISTIAN HITS [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904729&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904729&extension=ts
 #EXTINF:-1 tvg-id="1904728" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE CELEBRATES [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904728&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904728&extension=ts
 #EXTINF:-1 tvg-id="1904727" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE 90S THROWBACK [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904727&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904727&extension=ts
 #EXTINF:-1 tvg-id="1904726" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE 80S FLASHBACK [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904726&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904726&extension=ts
 #EXTINF:-1 tvg-id="1904725" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE 60S & 70S GROOVE [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1904725&extension=ts
-#EXTINF:-1 tvg-id="1917243" tvg-logo="http://51.158.145.100/picons/logos/logos/1917243.png" group-title="BULGARIA",BG| DIEMA SPORT 1 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917243&extension=ts
-#EXTINF:-1 tvg-id="1917242" tvg-logo="http://51.158.145.100/picons/logos/logos/1917242.png" group-title="BULGARIA",BG| DIEMA SPORT 2 [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917242&extension=ts
-#EXTINF:-1 tvg-id="1917241" tvg-logo="http://51.158.145.100/picons/logos/logos/1917241.png" group-title="BULGARIA",BG| DIEMA SPORT 3 [SD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917241&extension=ts
-#EXTINF:-1 tvg-id="1917234" tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="BULGARIA",BG| EUROSPORT2 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917234&extension=ts
-#EXTINF:-1 tvg-id="1917235" tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="BULGARIA",BG| EUROSPORT HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917235&extension=ts
-#EXTINF:-1 tvg-id="1917233" tvg-logo="http://51.158.145.100/picons/logos/logos/1917233.png" group-title="BULGARIA",BG| FIGHT BOX HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917233&extension=ts
-#EXTINF:-1 tvg-id="1917231" tvg-logo="http://51.158.145.100/picons/logos/logos/1917231.png" group-title="BULGARIA",BG| FIGHTKLUB HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917231&extension=ts
-#EXTINF:-1 tvg-id="1917232" tvg-logo="http://51.158.145.100/picons/logos/logos/1917232.png" group-title="BULGARIA",BG| FIGHT NETWORK HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917232&extension=ts
-#EXTINF:-1 tvg-id="1917230" tvg-logo="http://51.158.145.100/picons/logos/logos/1917230.png" group-title="BULGARIA",BG| GAMETOON HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917230&extension=ts
-#EXTINF:-1 tvg-id="1917240" tvg-logo="http://51.158.145.100/picons/logos/logos/1917240.png" group-title="BULGARIA",BG| MAX SPORT 1 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917240&extension=ts
-#EXTINF:-1 tvg-id="1917239" tvg-logo="http://51.158.145.100/picons/logos/logos/1917239.png" group-title="BULGARIA",BG| MAX SPORT 2 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917239&extension=ts
-#EXTINF:-1 tvg-id="1917238" tvg-logo="http://51.158.145.100/picons/logos/logos/1917238.png" group-title="BULGARIA",BG| MAX SPORT 3 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917238&extension=ts
-#EXTINF:-1 tvg-id="1917237" tvg-logo="http://51.158.145.100/picons/logos/logos/1917237.png" group-title="BULGARIA",BG| MAX SPORT 4 HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917237&extension=ts
-#EXTINF:-1 tvg-id="1917236" tvg-logo="http://51.158.145.100/picons/logos/logos/1917236.png" group-title="BULGARIA",BG| NOVA SPORT HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917236&extension=ts
-#EXTINF:-1 tvg-id="1917229" tvg-logo="http://51.158.145.100/picons/logos/logos/1917229.png" group-title="BULGARIA",BG| RING HD [HD]
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:BE:D7:C5&stream=1917229&extension=ts
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:21:2B:6F&stream=1904725&extension=ts
