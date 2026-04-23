@@ -1,587 +1,587 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="100Automoto.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1517948.png" group-title="BULGARIA",BG| 100 AUTOMOTO TV FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1517948&extension=ts
-#EXTINF:-1 tvg-id="24Kitchen.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154757.png" group-title="BULGARIA",BG| 24 KITCHEN [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154757&extension=ts
-#EXTINF:-1 tvg-id="24Kitchen.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154758.png" group-title="BULGARIA",BG| 24 KITCHEN HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154758&extension=ts
-#EXTINF:-1 tvg-id="BG|360TUNEBOX.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1532094.png" group-title="BULGARIA",BG| 360 TUNEBOX FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1532094&extension=ts
-#EXTINF:-1 tvg-id="78TV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BULGARIA",BG| 7/8 TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1994424&extension=ts
-#EXTINF:-1 tvg-id="78TV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BULGARIA",BG| 7/8 TV FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154816&extension=ts
-#EXTINF:-1 tvg-id="AgroTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154765.png" group-title="BULGARIA",BG| AGRO TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154765&extension=ts
-#EXTINF:-1 tvg-id="AlfaTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154766.png" group-title="BULGARIA",BG| ALFA TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154766&extension=ts
-#EXTINF:-1 tvg-id="BG|AMC.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154760.png" group-title="BULGARIA",BG| AMC [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154760&extension=ts
-#EXTINF:-1 tvg-id="AnimalPlanet.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154767.png" group-title="BULGARIA",BG| ANIMAL PLANET [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154767&extension=ts
-#EXTINF:-1 tvg-id="AnimalPlanet.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154768.png" group-title="BULGARIA",BG| ANIMAL PLANET HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154768&extension=ts
-#EXTINF:-1 tvg-id="BG|ARENAACTION.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154759.png" group-title="BULGARIA",BG| ARENA ACTION HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154759&extension=ts
-#EXTINF:-1 tvg-id="ArenaComedy.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154808.png" group-title="BULGARIA",BG| ARENA COMEDY [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154808&extension=ts
-#EXTINF:-1 tvg-id="ArenaLife.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154809.png" group-title="BULGARIA",BG| ARENA LIFE [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154809&extension=ts
-#EXTINF:-1 tvg-id="AutoMotoSport.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154761.png" group-title="BULGARIA",BG| AUTO MOTO SPORT HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154761&extension=ts
-#EXTINF:-1 tvg-id="AXN.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154762.png" group-title="BULGARIA",BG| AXN [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154762&extension=ts
-#EXTINF:-1 tvg-id="AXNBlack.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154763.png" group-title="BULGARIA",BG| AXN BLACK [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154763&extension=ts
-#EXTINF:-1 tvg-id="AXNWhite.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154764.png" group-title="BULGARIA",BG| AXN WHITE [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154764&extension=ts
-#EXTINF:-1 tvg-id="BabyTV.eu" tvg-logo="http://51.158.145.100/picons/logos/logos/154770.png" group-title="BULGARIA",BG| BABY TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154770&extension=ts
-#EXTINF:-1 tvg-id="BalkanMusicTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1525615.png" group-title="BULGARIA",BG| BALKAN MUSIC TV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1525615&extension=ts
-#EXTINF:-1 tvg-id="BalkanikaMusicTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154794.png" group-title="BULGARIA",BG| BALKANIKA MUSIC [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154794&extension=ts
-#EXTINF:-1 tvg-id="BalkanikaMusicTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154795.png" group-title="BULGARIA",BG| BALKANIKA MUSIC TV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154795&extension=ts
-#EXTINF:-1 tvg-id="BGMusicChannel.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154771.png" group-title="BULGARIA",BG| BG MUSIC [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154771&extension=ts
-#EXTINF:-1 tvg-id="BGMusicChannel.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154772.png" group-title="BULGARIA",BG| BG MUSIC HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154772&extension=ts
-#EXTINF:-1 tvg-id="BHTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154774.png" group-title="BULGARIA",BG| BHTV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154774&extension=ts
-#EXTINF:-1 tvg-id="BloombergTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154776.png" group-title="BULGARIA",BG| BLOOMBERG [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154776&extension=ts
-#EXTINF:-1 tvg-id="BloombergTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154797.png" group-title="BULGARIA",BG| BLOOMBERG TV BULGARIA HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154797&extension=ts
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154778.png" group-title="BULGARIA",BG| BNT 1 [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154778&extension=ts
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154779.png" group-title="BULGARIA",BG| BNT 1 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154779&extension=ts
-#EXTINF:-1 tvg-id="BNT2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154780.png" group-title="BULGARIA",BG| BNT 2 [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154780&extension=ts
-#EXTINF:-1 tvg-id="BNT2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154781.png" group-title="BULGARIA",BG| BNT 2 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154781&extension=ts
-#EXTINF:-1 tvg-id="BNT3.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154782.png" group-title="BULGARIA",BG| BNT 3 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154782&extension=ts
-#EXTINF:-1 tvg-id="BNT4.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154783.png" group-title="BULGARIA",BG| BNT 4 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154783&extension=ts
-#EXTINF:-1 tvg-id="BNT4.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154784.png" group-title="BULGARIA",BG| BNT 4 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154784&extension=ts
-#EXTINF:-1 tvg-id="BNTWorld.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154785.png" group-title="BULGARIA",BG| BNT WORD [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154785&extension=ts
-#EXTINF:-1 tvg-id="BG|BOX.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154800.png" group-title="BULGARIA",BG| BOX HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154800&extension=ts
-#EXTINF:-1 tvg-id="BoxTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154786.png" group-title="BULGARIA",BG| BOX TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154786&extension=ts
-#EXTINF:-1 tvg-id="BTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154787.png" group-title="BULGARIA",BG| BTV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154787&extension=ts
-#EXTINF:-1 tvg-id="BTVAction.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154945.png" group-title="BULGARIA",BG| BTV ACTION FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154945&extension=ts
-#EXTINF:-1 tvg-id="BTVAction.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154788.png" group-title="BULGARIA",BG| BTV ACTION HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154788&extension=ts
-#EXTINF:-1 tvg-id="BTVCinema.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154789.png" group-title="BULGARIA",BG| BTV CINEMA [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154789&extension=ts
-#EXTINF:-1 tvg-id="BTVComedy.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154790.png" group-title="BULGARIA",BG| BTV COMEDY [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154790&extension=ts
-#EXTINF:-1 tvg-id="BTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154791.png" group-title="BULGARIA",BG| BTV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154791&extension=ts
-#EXTINF:-1 tvg-id="BTVStory.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154792.png" group-title="BULGARIA",BG| BTV STORY [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154792&extension=ts
-#EXTINF:-1 tvg-id="BTVStory.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1374365.png" group-title="BULGARIA",BG| BTV STORY FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1374365&extension=ts
-#EXTINF:-1 tvg-id="Bulgaria24.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154801.png" group-title="BULGARIA",BG| BULGARIA 24 [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154801&extension=ts
-#EXTINF:-1 tvg-id="BulgariaOnAir.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154798.png" group-title="BULGARIA",BG| BULGARIA ON AIR [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154798&extension=ts
-#EXTINF:-1 tvg-id="BulgariaOnAir.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154802.png" group-title="BULGARIA",BG| BULGARIA ON AIR HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154802&extension=ts
-#EXTINF:-1 tvg-id="CINetwork.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154803.png" group-title="BULGARIA",BG| C&I NETWORK [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154803&extension=ts
-#EXTINF:-1 tvg-id="CartoonNetwork.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154804.png" group-title="BULGARIA",BG| CARTOON NETWORK FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154804&extension=ts
-#EXTINF:-1 tvg-id="Cartoonito.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154799.png" group-title="BULGARIA",BG| CARTOONITO FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154799&extension=ts
-#EXTINF:-1 tvg-id="BG|CBSREAILTY.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154805.png" group-title="BULGARIA",BG| CBS REAILTY [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154805&extension=ts
-#EXTINF:-1 tvg-id="Cinemania.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1758108.png" group-title="BULGARIA",BG| CINEMANIA FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1758108&extension=ts
-#EXTINF:-1 tvg-id="Cinemax.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154810.png" group-title="BULGARIA",BG| CINEMAX [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154810&extension=ts
-#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154811.png" group-title="BULGARIA",BG| CINEMAX 2 [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154811&extension=ts
-#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154812.png" group-title="BULGARIA",BG| CINEMAX 2 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154812&extension=ts
-#EXTINF:-1 tvg-id="Cinemax.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154813.png" group-title="BULGARIA",BG| CINEMAX HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154813&extension=ts
-#EXTINF:-1 tvg-id="BG|CINESTAR1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1985802.png" group-title="BULGARIA",BG| CINESTAR 1 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1985802&extension=ts
-#EXTINF:-1 tvg-id="BG|CINESTARACTION.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1985801.png" group-title="BULGARIA",BG| CINESTAR ACTION FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1985801&extension=ts
-#EXTINF:-1 tvg-id="CityTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154806.png" group-title="BULGARIA",BG| CITY TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154806&extension=ts
-#EXTINF:-1 tvg-id="FashionTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154814.png" group-title="BULGARIA",BG| CODE FASHION TV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154814&extension=ts
-#EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1491967.png" group-title="BULGARIA",BG| CODE HEALTH TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1491967&extension=ts
-#EXTINF:-1 tvg-id="DaVinci.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154825.png" group-title="BULGARIA",BG| DAVINCI LEARNING [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154825&extension=ts
-#EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154817.png" group-title="BULGARIA",BG| DIEMA FAMILY [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154817&extension=ts
-#EXTINF:-1 tvg-id="Diema.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154818.png" group-title="BULGARIA",BG| DIEMA HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154818&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154819.png" group-title="BULGARIA",BG| DIEMA SPORT 1 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154819&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154826.png" group-title="BULGARIA",BG| DIEMA SPORT 2 [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154826&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154820.png" group-title="BULGARIA",BG| DIEMA SPORT 2 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154820&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154916.png" group-title="BULGARIA",BG| DIEMA SPORT 3 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154916&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1457953.png" group-title="BULGARIA",BG| DIEMA SPORT 3 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1457953&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154827.png" group-title="BULGARIA",BG| DIEMA SPORT FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154827&extension=ts
-#EXTINF:-1 tvg-id="Diema.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154821.png" group-title="BULGARIA",BG| DIEMA TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154821&extension=ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154828.png" group-title="BULGARIA",BG| DISCOVERY CHANNEL HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154828&extension=ts
-#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154822.png" group-title="BULGARIA",BG| DISNEY CHANNEL [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154822&extension=ts
-#EXTINF:-1 tvg-id="DisneyJunior.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154832.png" group-title="BULGARIA",BG| DISNEY JUNIOR [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154832&extension=ts
-#EXTINF:-1 tvg-id="BG|DIZITV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1758308.png" group-title="BULGARIA",BG| DIZI TV FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1758308&extension=ts
-#EXTINF:-1 tvg-id="BG|DJAZZ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1532093.png" group-title="BULGARIA",BG| DJAZZ HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1532093&extension=ts
-#EXTINF:-1 tvg-id="DocuBox.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154833.png" group-title="BULGARIA",BG| DOCUBOX HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154833&extension=ts
-#EXTINF:-1 tvg-id="DSTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154824.png" group-title="BULGARIA",BG| DSTV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154824&extension=ts
-#EXTINF:-1 tvg-id="DuckTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154834.png" group-title="BULGARIA",BG| DUCK TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154834&extension=ts
-#EXTINF:-1 tvg-id="Ekids.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154835.png" group-title="BULGARIA",BG| E-KIDS [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154835&extension=ts
-#EXTINF:-1 tvg-id="EpicDrama.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154840.png" group-title="BULGARIA",BG| EPICDRAMA HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154840&extension=ts
-#EXTINF:-1 tvg-id="EuronewsEnglish" tvg-logo="http://51.158.145.100/picons/logos/logos/154923.png" group-title="BULGARIA",BG| EURONEWS FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154923&extension=ts
-#EXTINF:-1 tvg-id="Eurosport1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154836.png" group-title="BULGARIA",BG| EUROSPORT [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154836&extension=ts
-#EXTINF:-1 tvg-id="Eurosport2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154841.png" group-title="BULGARIA",BG| EUROSPORT 2 [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154841&extension=ts
-#EXTINF:-1 tvg-id="Eurosport2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154837.png" group-title="BULGARIA",BG| EUROSPORT 2 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154837&extension=ts
-#EXTINF:-1 tvg-id="Eurosport1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154842.png" group-title="BULGARIA",BG| EUROSPORT HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154842&extension=ts
-#EXTINF:-1 tvg-id="Eurocom.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154838.png" group-title="BULGARIA",BG| EVROKOM [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154838&extension=ts
-#EXTINF:-1 tvg-id="Eurocom.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154839.png" group-title="BULGARIA",BG| EVROKOM HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154839&extension=ts
-#EXTINF:-1 tvg-id="FenFolk.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154850.png" group-title="BULGARIA",BG| FEN FOLK TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154850&extension=ts
-#EXTINF:-1 tvg-id="FenTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154844.png" group-title="BULGARIA",BG| FEN TV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154844&extension=ts
-#EXTINF:-1 tvg-id="FenTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154845.png" group-title="BULGARIA",BG| FEN TV SD [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154845&extension=ts
-#EXTINF:-1 tvg-id="FightBox.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154851.png" group-title="BULGARIA",BG| FIGHTBOX HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154851&extension=ts
-#EXTINF:-1 tvg-id="FightKlub.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1758311.png" group-title="BULGARIA",BG| FIGHTKLUB FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1758311&extension=ts
-#EXTINF:-1 tvg-id="FilmboxExtra.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1339771.png" group-title="BULGARIA",BG| FILMBOX EXTRA HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1339771&extension=ts
-#EXTINF:-1 tvg-id="Filmbox.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1339772.png" group-title="BULGARIA",BG| FILMBOX HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1339772&extension=ts
-#EXTINF:-1 tvg-id="FilmboxStars.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1339773.png" group-title="BULGARIA",BG| FILMBOX STARS HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1339773&extension=ts
-#EXTINF:-1 tvg-id="BG|FISHING&HUNTING.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1985803.png" group-title="BULGARIA",BG| FISHING & HUNTING FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1985803&extension=ts
-#EXTINF:-1 tvg-id="FolklorTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154847.png" group-title="BULGARIA",BG| FOLKLOR TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154847&extension=ts
-#EXTINF:-1 tvg-id="FolklorTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154855.png" group-title="BULGARIA",BG| FOLKLOR TV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154855&extension=ts
-#EXTINF:-1 tvg-id="FoodNetwork.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154848.png" group-title="BULGARIA",BG| FOOD NETWORK [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154848&extension=ts
-#EXTINF:-1 tvg-id="HBO.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154861.png" group-title="BULGARIA",BG| HBO 1 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154861&extension=ts
-#EXTINF:-1 tvg-id="HBO2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154862.png" group-title="BULGARIA",BG| HBO 2 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154862&extension=ts
-#EXTINF:-1 tvg-id="HBO3.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154863.png" group-title="BULGARIA",BG| HBO 3 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154863&extension=ts
-#EXTINF:-1 tvg-id="HGTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1571550.png" group-title="BULGARIA",BG| HGTV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1571550&extension=ts
-#EXTINF:-1 tvg-id="HistoryChannel.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154866.png" group-title="BULGARIA",BG| HISTORY CHANNEL [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154866&extension=ts
-#EXTINF:-1 tvg-id="HistoryChannel.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154867.png" group-title="BULGARIA",BG| HISTORY CHANNEL HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154867&extension=ts
-#EXTINF:-1 tvg-id="HitMixRadio.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154868.png" group-title="BULGARIA",BG| HIT MIX MUSIC [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154868&extension=ts
-#EXTINF:-1 tvg-id="BG|HOBBYLOV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1758315.png" group-title="BULGARIA",BG| HOBBY LOV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1758315&extension=ts
-#EXTINF:-1 tvg-id="HopeChannel.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1508638.png" group-title="BULGARIA",BG| HOPE CHANNEL [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1508638&extension=ts
-#EXTINF:-1 tvg-id="BG|ICONCERTS.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/ICONCERTS.png" group-title="BULGARIA",BG| ICONCERTS [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1841724&extension=ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154871.png" group-title="BULGARIA",BG| ID XTRA [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154871&extension=ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154872.png" group-title="BULGARIA",BG| ID XTRA HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154872&extension=ts
-#EXTINF:-1 tvg-id="JimJam.eu" tvg-logo="http://51.158.145.100/picons/logos/logos/154874.png" group-title="BULGARIA",BG| JIM JAM [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154874&extension=ts
-#EXTINF:-1 tvg-id="BG|KANAL0.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/KANAL0.png" group-title="BULGARIA",BG| KANAL 0 [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=2019950&extension=ts
-#EXTINF:-1 tvg-id="BG|KANAL3.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1510040.png" group-title="BULGARIA",BG| KANAL 3 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1510040&extension=ts
-#EXTINF:-1 tvg-id="KinoNova.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154876.png" group-title="BULGARIA",BG| KINO NOVA [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154876&extension=ts
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="http://51.158.145.100/picons/logos/logos/1775776.png" group-title="BULGARIA",BG| LOVE NATURE FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1775776&extension=ts
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="http://51.158.145.100/picons/logos/logos/1758319.png" group-title="BULGARIA",BG| LOVE NATURE HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1758319&extension=ts
-#EXTINF:-1 tvg-id="LTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1508641.png" group-title="BULGARIA",BG| LTV BULGARIA [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1508641&extension=ts
-#EXTINF:-1 tvg-id="MagicTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154878.png" group-title="BULGARIA",BG| MAGIC TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154878&extension=ts
-#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/83260.png" group-title="BULGARIA",BG| MAX SPORT 1 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=83260&extension=ts
-#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154879.png" group-title="BULGARIA",BG| MAX SPORT 1 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154879&extension=ts
-#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/83259.png" group-title="BULGARIA",BG| MAX SPORT 2 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=83259&extension=ts
-#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154880.png" group-title="BULGARIA",BG| MAX SPORT 2 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154880&extension=ts
-#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/83258.png" group-title="BULGARIA",BG| MAX SPORT 3 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=83258&extension=ts
-#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154881.png" group-title="BULGARIA",BG| MAX SPORT 3 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154881&extension=ts
-#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/83257.png" group-title="BULGARIA",BG| MAX SPORT 4 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=83257&extension=ts
-#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154882.png" group-title="BULGARIA",BG| MAX SPORT 4 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154882&extension=ts
-#EXTINF:-1 tvg-id="MovieStar.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154884.png" group-title="BULGARIA",BG| MOVIE STAR [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154884&extension=ts
-#EXTINF:-1 tvg-id="MovieStar.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154883.png" group-title="BULGARIA",BG| MOVIE STAR FULL HD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154883&extension=ts
-#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-logo="http://51.158.145.100/picons/logos/logos/1616434.png" group-title="BULGARIA",BG| MTV CLASSIC [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1616434&extension=ts
-#EXTINF:-1 tvg-id="MTVGlobal" tvg-logo="http://51.158.145.100/picons/logos/logos/1616435.png" group-title="BULGARIA",BG| MTV FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1616435&extension=ts
-#EXTINF:-1 tvg-id="MTVHits.uk" tvg-logo="http://51.158.145.100/picons/logos/logos/1616437.png" group-title="BULGARIA",BG| MTV HITS [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1616437&extension=ts
-#EXTINF:-1 tvg-id="NatGeoHD.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154892.png" group-title="BULGARIA",BG| NAT GEO HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154892&extension=ts
-#EXTINF:-1 tvg-id="NatGeoWildHD.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154893.png" group-title="BULGARIA",BG| NAT GEO WILD HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154893&extension=ts
-#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154886.png" group-title="BULGARIA",BG| NATIONAL GEOGRAPHIC [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154886&extension=ts
-#EXTINF:-1 tvg-id="NickJr.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154895.png" group-title="BULGARIA",BG| NICK JR [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154895&extension=ts
-#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154896.png" group-title="BULGARIA",BG| NICKELODEON [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154896&extension=ts
-#EXTINF:-1 tvg-id="Nicktoons.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1758313.png" group-title="BULGARIA",BG| NICKTOONS [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1758313&extension=ts
-#EXTINF:-1 tvg-id="Nostalgia.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1758109.png" group-title="BULGARIA",BG| NOSTALGIA HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1758109&extension=ts
-#EXTINF:-1 tvg-id="NovaTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154887.png" group-title="BULGARIA",BG| NOVA [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154887&extension=ts
-#EXTINF:-1 tvg-id="NovaNews.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1508635.png" group-title="BULGARIA",BG| NOVA NEWS [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1508635&extension=ts
-#EXTINF:-1 tvg-id="NovaNews.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1141345.png" group-title="BULGARIA",BG| NOVA NEWS HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1141345&extension=ts
-#EXTINF:-1 tvg-id="NovaSport.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154888.png" group-title="BULGARIA",BG| NOVA SPORT [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154888&extension=ts
-#EXTINF:-1 tvg-id="NovaSport.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154889.png" group-title="BULGARIA",BG| NOVA SPORT HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154889&extension=ts
-#EXTINF:-1 tvg-id="NovaTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154890.png" group-title="BULGARIA",BG| NOVA TV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154890&extension=ts
-#EXTINF:-1 tvg-id="NRJ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154891.png" group-title="BULGARIA",BG| NRJ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154891&extension=ts
-#EXTINF:-1 tvg-id="PerviyKanal.eu" tvg-logo="http://51.158.145.100/picons/logos/logos/154898.png" group-title="BULGARIA",BG| PERVIY KANAL [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154898&extension=ts
-#EXTINF:-1 tvg-id="BG|PICKBOX1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/PICKBOX1.png" group-title="BULGARIA",BG| PICKBOX 1 [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=2019595&extension=ts
-#EXTINF:-1 tvg-id="PlanetaTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154908.png" group-title="BULGARIA",BG| PLANETA [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154908&extension=ts
-#EXTINF:-1 tvg-id="PlanetaTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154900.png" group-title="BULGARIA",BG| PLANETA FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154900&extension=ts
-#EXTINF:-1 tvg-id="PlanetaFolk.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154899.png" group-title="BULGARIA",BG| PLANETA FOLK FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154899&extension=ts
-#EXTINF:-1 tvg-id="PlanetaTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154901.png" group-title="BULGARIA",BG| PLANETA TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154901&extension=ts
-#EXTINF:-1 tvg-id="PPTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154902.png" group-title="BULGARIA",BG| PP TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154902&extension=ts
-#EXTINF:-1 tvg-id="RetroMusicTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1508639.png" group-title="BULGARIA",BG| RETRO MUSIC TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1508639&extension=ts
-#EXTINF:-1 tvg-id="RimexTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1508637.png" group-title="BULGARIA",BG| RIMEX TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1508637&extension=ts
-#EXTINF:-1 tvg-id="Ring.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154910.png" group-title="BULGARIA",BG| RING HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154910&extension=ts
-#EXTINF:-1 tvg-id="Ring.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154911.png" group-title="BULGARIA",BG| RING TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154911&extension=ts
-#EXTINF:-1 tvg-id="BG|RODINATV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154913.png" group-title="BULGARIA",BG| RODINA TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154913&extension=ts
-#EXTINF:-1 tvg-id="RomaTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154912.png" group-title="BULGARIA",BG| ROMA TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154912&extension=ts
-#EXTINF:-1 tvg-id="BG|SHOWTIME1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1985805.png" group-title="BULGARIA",BG| SHOWTIME 1 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1985805&extension=ts
-#EXTINF:-1 tvg-id="BG|SHOWTIME2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1985806.png" group-title="BULGARIA",BG| SHOWTIME 2 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1985806&extension=ts
-#EXTINF:-1 tvg-id="BG|SHUMENTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/SHUMENT.png" group-title="BULGARIA",BG| SHUMEN TV FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1762852&extension=ts
-#EXTINF:-1 tvg-id="BG|SPORTAL.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1447191.png" group-title="BULGARIA",BG| SPORTAL [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1447191&extension=ts
-#EXTINF:-1 tvg-id="StarChannel.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154849.png" group-title="BULGARIA",BG| STAR CHANNEL [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154849&extension=ts
-#EXTINF:-1 tvg-id="StarCrime.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154856.png" group-title="BULGARIA",BG| STAR CRIME [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154856&extension=ts
-#EXTINF:-1 tvg-id="StarCrime.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154857.png" group-title="BULGARIA",BG| STAR CRIME HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154857&extension=ts
-#EXTINF:-1 tvg-id="StarLife.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154858.png" group-title="BULGARIA",BG| STAR LIFE [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154858&extension=ts
-#EXTINF:-1 tvg-id="StarLife.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154859.png" group-title="BULGARIA",BG| STAR LIFE HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154859&extension=ts
-#EXTINF:-1 tvg-id="SuperToons.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1758312.png" group-title="BULGARIA",BG| SUPPERTOONS HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1758312&extension=ts
-#EXTINF:-1 tvg-id="TheVoice.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154928.png" group-title="BULGARIA",BG| THE VOICE [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154928&extension=ts
-#EXTINF:-1 tvg-id="TheVoice.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1529010.png" group-title="BULGARIA",BG| THE VOICE FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1529010&extension=ts
-#EXTINF:-1 tvg-id="TheWorld.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1758310.png" group-title="BULGARIA",BG| THE WORLD [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1758310&extension=ts
-#EXTINF:-1 tvg-id="ThisIsBulgaria.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1508640.png" group-title="BULGARIA",BG| THIS IS BULGARIA [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1508640&extension=ts
-#EXTINF:-1 tvg-id="TiankovFolk.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154930.png" group-title="BULGARIA",BG| TIANKOV FOLK HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154930&extension=ts
-#EXTINF:-1 tvg-id="TiankovOrient.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154931.png" group-title="BULGARIA",BG| TIANKOV ORIENT FOLK [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154931&extension=ts
-#EXTINF:-1 tvg-id="TLC.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154918.png" group-title="BULGARIA",BG| TLC [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154918&extension=ts
-#EXTINF:-1 tvg-id="TraceSportsStars.fr" tvg-logo="http://51.158.145.100/picons/logos/logos/154932.png" group-title="BULGARIA",BG| TRACE SPORT STARS [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154932&extension=ts
-#EXTINF:-1 tvg-id="TraceSportsStars.fr" tvg-logo="http://51.158.145.100/picons/logos/logos/154933.png" group-title="BULGARIA",BG| TRACE SPORT STARS HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154933&extension=ts
-#EXTINF:-1 tvg-id="TravelChannel.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154919.png" group-title="BULGARIA",BG| TRAVEL CHANNEL [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154919&extension=ts
-#EXTINF:-1 tvg-id="TravelChannel.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154934.png" group-title="BULGARIA",BG| TRAVEL CHANNEL FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154934&extension=ts
-#EXTINF:-1 tvg-id="TravelTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154935.png" group-title="BULGARIA",BG| TRAVEL TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154935&extension=ts
-#EXTINF:-1 tvg-id="TravelTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154920.png" group-title="BULGARIA",BG| TRAVEL TV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154920&extension=ts
-#EXTINF:-1 tvg-id="BG|TV999.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1769933.png" group-title="BULGARIA",BG| TV 999 FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1769933&extension=ts
-#EXTINF:-1 tvg-id="TVArt.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1512916.png" group-title="BULGARIA",BG| TV ART FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1512916&extension=ts
-#EXTINF:-1 tvg-id="TVZagora.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1491966.png" group-title="BULGARIA",BG| TV ZAGORA [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1491966&extension=ts
-#EXTINF:-1 tvg-id="TV1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154925.png" group-title="BULGARIA",BG| TV1 [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154925&extension=ts
-#EXTINF:-1 tvg-id="TV1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154926.png" group-title="BULGARIA",BG| TV1 HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154926&extension=ts
-#EXTINF:-1 tvg-id="TVN.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1491965.png" group-title="BULGARIA",BG| TVN BULGARIA [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1491965&extension=ts
-#EXTINF:-1 tvg-id="TVT.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1758309.png" group-title="BULGARIA",BG| TVT FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1758309&extension=ts
-#EXTINF:-1 tvg-id="BG|V2BEATTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1446558.png" group-title="BULGARIA",BG| V2BEAT TV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1446558&extension=ts
-#EXTINF:-1 tvg-id="Vevo" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO '90S [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1898943&extension=ts
-#EXTINF:-1 tvg-id="Vevo" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO '80S [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1898944&extension=ts
-#EXTINF:-1 tvg-id="Vevo" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO '70S [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1898945&extension=ts
-#EXTINF:-1 tvg-id="Vevo" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO 2K [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1898942&extension=ts
-#EXTINF:-1 tvg-id="Vevo" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO COUNTRY [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1898941&extension=ts
-#EXTINF:-1 tvg-id="Vevo" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO HIP-HOP [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1898940&extension=ts
-#EXTINF:-1 tvg-id="Vevo" tvg-logo="http://51.158.145.100/picons/logos/logos/1902537.png" group-title="BULGARIA",BG| VEVO LATINO [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1902537&extension=ts
-#EXTINF:-1 tvg-id="Vevo" tvg-logo="http://51.158.145.100/picons/logos/logos/1902536.png" group-title="BULGARIA",BG| VEVO POP [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1902536&extension=ts
-#EXTINF:-1 tvg-id="Vevo" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA",BG| VEVO R&B [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1898939&extension=ts
-#EXTINF:-1 tvg-id="Vevo" tvg-logo="http://51.158.145.100/picons/logos/logos/1902535.png" group-title="BULGARIA",BG| VEVO REGGAETON & TRAP [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1902535&extension=ts
-#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154938.png" group-title="BULGARIA",BG| VIASAT EXPLORER [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154938&extension=ts
-#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154939.png" group-title="BULGARIA",BG| VIASAT HISTORY [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154939&extension=ts
-#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154940.png" group-title="BULGARIA",BG| VIASAT HISTORY HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154940&extension=ts
-#EXTINF:-1 tvg-id="ViasatFilm.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154921.png" group-title="BULGARIA",BG| VIASAT KINO PREMIERE [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154921&extension=ts
-#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154941.png" group-title="BULGARIA",BG| VIASAT NATURE [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154941&extension=ts
-#EXTINF:-1 tvg-id="BG|VIVACOMARENA.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1985800.png" group-title="BULGARIA",BG| VIVACOM ARENA FHD [FHD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1985800&extension=ts
-#EXTINF:-1 tvg-id="VTK.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154937.png" group-title="BULGARIA",BG| VTK [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154937&extension=ts
-#EXTINF:-1 tvg-id="WildTV.ca" tvg-logo="http://51.158.145.100/picons/logos/logos/154942.png" group-title="BULGARIA",BG| WILD TV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154942&extension=ts
-#EXTINF:-1 tvg-id="WnessTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154943.png" group-title="BULGARIA",BG| WNESSTV [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154943&extension=ts
-#EXTINF:-1 tvg-id="WnessTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/154944.png" group-title="BULGARIA",BG| WNESSTV HD [HD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=154944&extension=ts
-#EXTINF:-1 tvg-id="24Kitchen.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862376.png" group-title="BULGARIA",BG| 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862376&extension=ts
-#EXTINF:-1 tvg-id="BG|ACTIONBOXⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862375.png" group-title="BULGARIA",BG| ACTION BOX ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862375&extension=ts
-#EXTINF:-1 tvg-id="AgroTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862374.png" group-title="BULGARIA",BG| AGRO TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862374&extension=ts
-#EXTINF:-1 tvg-id="BG|BALKANIKATVⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862373.png" group-title="BULGARIA",BG| BALKANIKA TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862373&extension=ts
-#EXTINF:-1 tvg-id="BG|BG+ⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862372.png" group-title="BULGARIA",BG| BG + ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862372&extension=ts
-#EXTINF:-1 tvg-id="BloombergTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862371.png" group-title="BULGARIA",BG| BLOOMBERG TV BULGARIA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862371&extension=ts
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862370.png" group-title="BULGARIA",BG| BNT 1 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862370&extension=ts
-#EXTINF:-1 tvg-id="BNT2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862369.png" group-title="BULGARIA",BG| BNT 2 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862369&extension=ts
-#EXTINF:-1 tvg-id="BNT3.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862368.png" group-title="BULGARIA",BG| BNT 3 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862368&extension=ts
-#EXTINF:-1 tvg-id="BNT4.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862367.png" group-title="BULGARIA",BG| BNT 4 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862367&extension=ts
-#EXTINF:-1 tvg-id="BG|BTKTVⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862366.png" group-title="BULGARIA",BG| BTK TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862366&extension=ts
-#EXTINF:-1 tvg-id="BTVAction.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862365.png" group-title="BULGARIA",BG| BTV ACTION ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862365&extension=ts
-#EXTINF:-1 tvg-id="BTVCinema.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862364.png" group-title="BULGARIA",BG| BTV CINEMA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862364&extension=ts
-#EXTINF:-1 tvg-id="BTVComedy.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862363.png" group-title="BULGARIA",BG| BTV COMEDY ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862363&extension=ts
-#EXTINF:-1 tvg-id="BTVStory.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862362.png" group-title="BULGARIA",BG| BTV STORY ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862362&extension=ts
-#EXTINF:-1 tvg-id="BTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862361.png" group-title="BULGARIA",BG| BTV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862361&extension=ts
-#EXTINF:-1 tvg-id="BulgariaOnAir.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862360.png" group-title="BULGARIA",BG| BULGARIA ON AIR ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862360&extension=ts
-#EXTINF:-1 tvg-id="CartoonNetwork.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862359.png" group-title="BULGARIA",BG| CARTOON NETWORK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862359&extension=ts
-#EXTINF:-1 tvg-id="BG|CINEBOXⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862358.png" group-title="BULGARIA",BG| CINEBOX ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862358&extension=ts
-#EXTINF:-1 tvg-id="CityTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862357.png" group-title="BULGARIA",BG| CITY TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862357&extension=ts
-#EXTINF:-1 tvg-id="FashionTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862356.png" group-title="BULGARIA",BG| CODE FASHION ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862356&extension=ts
-#EXTINF:-1 tvg-id="BG|CODEHEALTHⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862355.png" group-title="BULGARIA",BG| CODE HEALTH ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862355&extension=ts
-#EXTINF:-1 tvg-id="BG|COMEDYBOXⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862354.png" group-title="BULGARIA",BG| COMEDYBOX ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862354&extension=ts
-#EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862353.png" group-title="BULGARIA",BG| DIEMA FAMILY ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862353&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862352.png" group-title="BULGARIA",BG| DIEMA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862352&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862351.png" group-title="BULGARIA",BG| DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862351&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862350.png" group-title="BULGARIA",BG| DIEMA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862350&extension=ts
-#EXTINF:-1 tvg-id="Diema.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862349.png" group-title="BULGARIA",BG| DIEMA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862349&extension=ts
-#EXTINF:-1 tvg-id="DocuBox.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862348.png" group-title="BULGARIA",BG| DOCUBOX ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862348&extension=ts
-#EXTINF:-1 tvg-id="DSTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862347.png" group-title="BULGARIA",BG| DSTV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862347&extension=ts
-#EXTINF:-1 tvg-id="BG|EKIDSⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862346.png" group-title="BULGARIA",BG| EKIDS ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862346&extension=ts
-#EXTINF:-1 tvg-id="EuronewsEnglish" tvg-logo="http://51.158.145.100/picons/logos/logos/1862345.png" group-title="BULGARIA",BG| EURONEWS ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862345&extension=ts
-#EXTINF:-1 tvg-id="Eurocom.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862344.png" group-title="BULGARIA",BG| EVROKOM ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862344&extension=ts
-#EXTINF:-1 tvg-id="FenFolk.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862343.png" group-title="BULGARIA",BG| FEN FOLK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862343&extension=ts
-#EXTINF:-1 tvg-id="BG|FENⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862342.png" group-title="BULGARIA",BG| FEN ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862342&extension=ts
-#EXTINF:-1 tvg-id="Filmbox.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862341.png" group-title="BULGARIA",BG| FILMBOX ARTHOUSE ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862341&extension=ts
-#EXTINF:-1 tvg-id="FilmboxExtra.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862340.png" group-title="BULGARIA",BG| FILMBOX EXTRA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862340&extension=ts
-#EXTINF:-1 tvg-id="FilmboxStars.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862339.png" group-title="BULGARIA",BG| FILMBOX STARS ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862339&extension=ts
-#EXTINF:-1 tvg-id="Filmbox.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862338.png" group-title="BULGARIA",BG| FILMBOX ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862338&extension=ts
-#EXTINF:-1 tvg-id="BG|KANAL3ⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862337.png" group-title="BULGARIA",BG| KANAL 3 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862337&extension=ts
-#EXTINF:-1 tvg-id="KinoNova.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862336.png" group-title="BULGARIA",BG| KINO NOVA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862336&extension=ts
-#EXTINF:-1 tvg-id="MagicTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862335.png" group-title="BULGARIA",BG| MAGIC TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862335&extension=ts
-#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862334.png" group-title="BULGARIA",BG| MAX SPORT 1 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862334&extension=ts
-#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862333.png" group-title="BULGARIA",BG| MAX SPORT 2 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862333&extension=ts
-#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862332.png" group-title="BULGARIA",BG| MAX SPORT 3 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862332&extension=ts
-#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862331.png" group-title="BULGARIA",BG| MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862331&extension=ts
-#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862330.png" group-title="BULGARIA",BG| NICKELODEON ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862330&extension=ts
-#EXTINF:-1 tvg-id="NickJr.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862329.png" group-title="BULGARIA",BG| NICK JR. ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862329&extension=ts
-#EXTINF:-1 tvg-id="NovaNews.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862328.png" group-title="BULGARIA",BG| NOVA NEWS ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862328&extension=ts
-#EXTINF:-1 tvg-id="NovaSport.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862327.png" group-title="BULGARIA",BG| NOVA SPORT ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862327&extension=ts
-#EXTINF:-1 tvg-id="NovaTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862326.png" group-title="BULGARIA",BG| NOVA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862326&extension=ts
-#EXTINF:-1 tvg-id="PlanetaFolk.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862325.png" group-title="BULGARIA",BG| PLANETA FOLK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862325&extension=ts
-#EXTINF:-1 tvg-id="PlanetaTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862324.png" group-title="BULGARIA",BG| PLANETA ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862324&extension=ts
-#EXTINF:-1 tvg-id="Ring.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862323.png" group-title="BULGARIA",BG| RING ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862323&extension=ts
-#EXTINF:-1 tvg-id="BG|RODINATVⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862322.png" group-title="BULGARIA",BG| RODINA TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862322&extension=ts
-#EXTINF:-1 tvg-id="TheVoice.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862321.png" group-title="BULGARIA",BG| THE VOICE ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862321&extension=ts
-#EXTINF:-1 tvg-id="TiankovFolk.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862320.png" group-title="BULGARIA",BG| TIANKOV FOLK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862320&extension=ts
-#EXTINF:-1 tvg-id="TiankovOrient.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862319.png" group-title="BULGARIA",BG| TIANKOV ORIENT FOLK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862319&extension=ts
-#EXTINF:-1 tvg-id="TravelTV.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862318.png" group-title="BULGARIA",BG| TRAVEL TV ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862318&extension=ts
-#EXTINF:-1 tvg-id="BG|TV1ⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862317.png" group-title="BULGARIA",BG| TV 1 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862317&extension=ts
-#EXTINF:-1 tvg-id="BG|TV7/8ⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862316.png" group-title="BULGARIA",BG| TV 7/8 ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862316&extension=ts
-#EXTINF:-1 tvg-id="BG|VIASATEXPLOREⱽᴵᴾᴿᴬᵂ.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862315.png" group-title="BULGARIA",BG| VIASAT EXPLORE ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862315&extension=ts
-#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862314.png" group-title="BULGARIA",BG| VIASAT HISTORY ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862314&extension=ts
-#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862313.png" group-title="BULGARIA",BG| VIASAT NATURE ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862313&extension=ts
-#EXTINF:-1 tvg-id="VTK.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/1862312.png" group-title="BULGARIA",BG| VTK ⱽᴵᴾ ᴿᴬᵂ [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1862312&extension=ts
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="" group-title="BULGARIA",BG|  LOVE NATURE 4K [4K]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904740&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE ROCK X METAL [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904739&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE RAP GAME [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904738&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE R&B FEELS [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904737&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE R&B CLASSIC JAMS [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904736&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE NUEVO LATINO [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904735&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE HITS [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904734&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE HIP-HOP EVOLUTION [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904733&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE GOSPEL [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904732&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE COUNTRY TODAY [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904731&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE CLASSIC COUNTRY [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904730&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE CHRISTIAN HITS [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904729&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE CELEBRATES [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904728&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE 90S THROWBACK [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904727&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE 80S FLASHBACK [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904726&extension=ts
-#EXTINF:-1 tvg-id="Xite" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA",BG| XITE 60S & 70S GROOVE [SD]
-http://madboxtv.com:80/play/live.php?mac=00:1A:79:32:c5:57&stream=1904725&extension=ts
+#EXTINF:-1 tvg-name="BG | SOUL & PEPPER FHD" group-title="STALKER", BG | SOUL & PEPPER FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1985778&extension=ts&play_token=0lS6JHY7th
+#EXTINF:-1 tvg-name="BG| 100 AUTOMOTO TV FHD" group-title="STALKER", BG| 100 AUTOMOTO TV FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1517948&extension=ts&play_token=yWAmCY4PTg
+#EXTINF:-1 tvg-name="BG| 24 KITCHEN" group-title="STALKER", BG| 24 KITCHEN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154757&extension=ts&play_token=TgCn5Ge0ZG
+#EXTINF:-1 tvg-name="BG| 24 KITCHEN HD" group-title="STALKER", BG| 24 KITCHEN HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154758&extension=ts&play_token=kiqF67Vmzu
+#EXTINF:-1 tvg-name="BG| 360 TUNEBOX FHD" group-title="STALKER", BG| 360 TUNEBOX FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1532094&extension=ts&play_token=ZJdljtNRWB
+#EXTINF:-1 tvg-name="BG| 7/8 TV" group-title="STALKER", BG| 7/8 TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1994424&extension=ts&play_token=0IZBR9t0Cq
+#EXTINF:-1 tvg-name="BG| 7/8 TV FHD" group-title="STALKER", BG| 7/8 TV FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154816&extension=ts&play_token=vAkTBT155D
+#EXTINF:-1 tvg-name="BG| AGRO TV" group-title="STALKER", BG| AGRO TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154765&extension=ts&play_token=O8BB7bdCva
+#EXTINF:-1 tvg-name="BG| ALFA TV" group-title="STALKER", BG| ALFA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154766&extension=ts&play_token=009wkrJflD
+#EXTINF:-1 tvg-name="BG| AMC" group-title="STALKER", BG| AMC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154760&extension=ts&play_token=3bQisZZCDj
+#EXTINF:-1 tvg-name="BG| ANIMAL PLANET" group-title="STALKER", BG| ANIMAL PLANET
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154767&extension=ts&play_token=OkqMpQbKGE
+#EXTINF:-1 tvg-name="BG| ANIMAL PLANET HD" group-title="STALKER", BG| ANIMAL PLANET HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154768&extension=ts&play_token=5wTOfpm1FH
+#EXTINF:-1 tvg-name="BG| ARENA ACTION HD" group-title="STALKER", BG| ARENA ACTION HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154759&extension=ts&play_token=BjUdeXMsm8
+#EXTINF:-1 tvg-name="BG| ARENA COMEDY" group-title="STALKER", BG| ARENA COMEDY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154808&extension=ts&play_token=VOKiDvGKxM
+#EXTINF:-1 tvg-name="BG| ARENA LIFE" group-title="STALKER", BG| ARENA LIFE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154809&extension=ts&play_token=mM95ppB9YP
+#EXTINF:-1 tvg-name="BG| AUTO MOTO SPORT HD" group-title="STALKER", BG| AUTO MOTO SPORT HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154761&extension=ts&play_token=H5JHczgZJI
+#EXTINF:-1 tvg-name="BG| AXN" group-title="STALKER", BG| AXN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154762&extension=ts&play_token=0Sle0v0uvg
+#EXTINF:-1 tvg-name="BG| AXN BLACK" group-title="STALKER", BG| AXN BLACK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154763&extension=ts&play_token=xZTq2oyKhK
+#EXTINF:-1 tvg-name="BG| AXN WHITE" group-title="STALKER", BG| AXN WHITE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154764&extension=ts&play_token=pr8OJ4SX1N
+#EXTINF:-1 tvg-name="BG| BABY TV" group-title="STALKER", BG| BABY TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154770&extension=ts&play_token=lKvREdA3vE
+#EXTINF:-1 tvg-name="BG| BALKAN MUSIC TV HD" group-title="STALKER", BG| BALKAN MUSIC TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1525615&extension=ts&play_token=1MTO1AslvR
+#EXTINF:-1 tvg-name="BG| BALKANIKA MUSIC" group-title="STALKER", BG| BALKANIKA MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154794&extension=ts&play_token=jiB2p3amFm
+#EXTINF:-1 tvg-name="BG| BALKANIKA MUSIC TV HD" group-title="STALKER", BG| BALKANIKA MUSIC TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154795&extension=ts&play_token=cKvwsjtsat
+#EXTINF:-1 tvg-name="BG| BG MUSIC" group-title="STALKER", BG| BG MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154771&extension=ts&play_token=x2PM5z2NdA
+#EXTINF:-1 tvg-name="BG| BG MUSIC HD" group-title="STALKER", BG| BG MUSIC HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154772&extension=ts&play_token=3kItJNAYx8
+#EXTINF:-1 tvg-name="BG| BHTV" group-title="STALKER", BG| BHTV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154774&extension=ts&play_token=SSHmxKasJJ
+#EXTINF:-1 tvg-name="BG| BLOOMBERG" group-title="STALKER", BG| BLOOMBERG
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154776&extension=ts&play_token=etSKvoxDO9
+#EXTINF:-1 tvg-name="BG| BLOOMBERG TV BULGARIA HD" group-title="STALKER", BG| BLOOMBERG TV BULGARIA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154797&extension=ts&play_token=isC11Xf9L5
+#EXTINF:-1 tvg-name="BG| BNT 1" group-title="STALKER", BG| BNT 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154778&extension=ts&play_token=H3sncBpBoy
+#EXTINF:-1 tvg-name="BG| BNT 1 FHD" group-title="STALKER", BG| BNT 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154779&extension=ts&play_token=7CbI4AAe3T
+#EXTINF:-1 tvg-name="BG| BNT 2" group-title="STALKER", BG| BNT 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154780&extension=ts&play_token=8jkaCjJI9c
+#EXTINF:-1 tvg-name="BG| BNT 2 FHD" group-title="STALKER", BG| BNT 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154781&extension=ts&play_token=JP2jFgvaAu
+#EXTINF:-1 tvg-name="BG| BNT 3 FHD" group-title="STALKER", BG| BNT 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154782&extension=ts&play_token=quhvLKqXMA
+#EXTINF:-1 tvg-name="BG| BNT 4 FHD" group-title="STALKER", BG| BNT 4 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154783&extension=ts&play_token=TTU1SLFhkM
+#EXTINF:-1 tvg-name="BG| BNT 4 HD" group-title="STALKER", BG| BNT 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154784&extension=ts&play_token=nKOn116QWM
+#EXTINF:-1 tvg-name="BG| BNT WORD" group-title="STALKER", BG| BNT WORD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154785&extension=ts&play_token=OmClCkDJj4
+#EXTINF:-1 tvg-name="BG| BOX HD" group-title="STALKER", BG| BOX HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154800&extension=ts&play_token=qwhihsz8yy
+#EXTINF:-1 tvg-name="BG| BOX TV" group-title="STALKER", BG| BOX TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154786&extension=ts&play_token=Jar51XqrBA
+#EXTINF:-1 tvg-name="BG| BTV" group-title="STALKER", BG| BTV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154787&extension=ts&play_token=8PkM06h7II
+#EXTINF:-1 tvg-name="BG| BTV ACTION FHD" group-title="STALKER", BG| BTV ACTION FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154945&extension=ts&play_token=zgMJkl2L6W
+#EXTINF:-1 tvg-name="BG| BTV ACTION HD" group-title="STALKER", BG| BTV ACTION HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154788&extension=ts&play_token=HStmY2Oq5E
+#EXTINF:-1 tvg-name="BG| BTV CINEMA" group-title="STALKER", BG| BTV CINEMA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154789&extension=ts&play_token=Q3TXdpIig5
+#EXTINF:-1 tvg-name="BG| BTV COMEDY" group-title="STALKER", BG| BTV COMEDY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154790&extension=ts&play_token=R1NmHEmUaq
+#EXTINF:-1 tvg-name="BG| BTV HD" group-title="STALKER", BG| BTV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154791&extension=ts&play_token=IpAgSYSVuU
+#EXTINF:-1 tvg-name="BG| BTV STORY" group-title="STALKER", BG| BTV STORY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154792&extension=ts&play_token=x0LJzrAIoR
+#EXTINF:-1 tvg-name="BG| BTV STORY FHD" group-title="STALKER", BG| BTV STORY FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1374365&extension=ts&play_token=pvmGVUKPWg
+#EXTINF:-1 tvg-name="BG| BULGARIA 24" group-title="STALKER", BG| BULGARIA 24
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154801&extension=ts&play_token=vMXCzgXbSZ
+#EXTINF:-1 tvg-name="BG| BULGARIA ON AIR" group-title="STALKER", BG| BULGARIA ON AIR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154798&extension=ts&play_token=JRtPkJJ7QK
+#EXTINF:-1 tvg-name="BG| BULGARIA ON AIR HD" group-title="STALKER", BG| BULGARIA ON AIR HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154802&extension=ts&play_token=ix0htLm0TG
+#EXTINF:-1 tvg-name="BG| C&I NETWORK" group-title="STALKER", BG| C&I NETWORK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154803&extension=ts&play_token=lv3JRp6t7u
+#EXTINF:-1 tvg-name="BG| CARTOON NETWORK FHD" group-title="STALKER", BG| CARTOON NETWORK FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154804&extension=ts&play_token=AZz3cbLNrV
+#EXTINF:-1 tvg-name="BG| CARTOONITO FHD" group-title="STALKER", BG| CARTOONITO FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154799&extension=ts&play_token=HsVkXMstzs
+#EXTINF:-1 tvg-name="BG| CBS REAILTY" group-title="STALKER", BG| CBS REAILTY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154805&extension=ts&play_token=kCqnln1mN4
+#EXTINF:-1 tvg-name="BG| CINEMANIA FHD" group-title="STALKER", BG| CINEMANIA FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1758108&extension=ts&play_token=FJo06cB8hV
+#EXTINF:-1 tvg-name="BG| CINEMAX" group-title="STALKER", BG| CINEMAX
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154810&extension=ts&play_token=t9R5WnDGaX
+#EXTINF:-1 tvg-name="BG| CINEMAX 2" group-title="STALKER", BG| CINEMAX 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154811&extension=ts&play_token=hQ0w6icwLC
+#EXTINF:-1 tvg-name="BG| CINEMAX 2 HD" group-title="STALKER", BG| CINEMAX 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154812&extension=ts&play_token=dLCZ2OCdGV
+#EXTINF:-1 tvg-name="BG| CINEMAX HD" group-title="STALKER", BG| CINEMAX HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154813&extension=ts&play_token=6Z7JnyFDnQ
+#EXTINF:-1 tvg-name="BG| CINESTAR 1 FHD" group-title="STALKER", BG| CINESTAR 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1985802&extension=ts&play_token=QaPPz3XOl3
+#EXTINF:-1 tvg-name="BG| CINESTAR ACTION FHD" group-title="STALKER", BG| CINESTAR ACTION FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1985801&extension=ts&play_token=HhgQ9ROUqY
+#EXTINF:-1 tvg-name="BG| CITY TV" group-title="STALKER", BG| CITY TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154806&extension=ts&play_token=86MMyxMdKY
+#EXTINF:-1 tvg-name="BG| CODE FASHION TV HD" group-title="STALKER", BG| CODE FASHION TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154814&extension=ts&play_token=JTbWQNIBxh
+#EXTINF:-1 tvg-name="BG| CODE HEALTH TV" group-title="STALKER", BG| CODE HEALTH TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1491967&extension=ts&play_token=YNfRzOg9e2
+#EXTINF:-1 tvg-name="BG| DAVINCI LEARNING" group-title="STALKER", BG| DAVINCI LEARNING
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154825&extension=ts&play_token=eAwuQGysVw
+#EXTINF:-1 tvg-name="BG| DIEMA FAMILY" group-title="STALKER", BG| DIEMA FAMILY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154817&extension=ts&play_token=WBNZVEuVCo
+#EXTINF:-1 tvg-name="BG| DIEMA HD" group-title="STALKER", BG| DIEMA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154818&extension=ts&play_token=i0rAUa7Bsh
+#EXTINF:-1 tvg-name="BG| DIEMA SPORT 1 HD" group-title="STALKER", BG| DIEMA SPORT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154819&extension=ts&play_token=INt1IW4CLc
+#EXTINF:-1 tvg-name="BG| DIEMA SPORT 2" group-title="STALKER", BG| DIEMA SPORT 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154826&extension=ts&play_token=E3WA0PU7uN
+#EXTINF:-1 tvg-name="BG| DIEMA SPORT 2 HD" group-title="STALKER", BG| DIEMA SPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154820&extension=ts&play_token=IlHV7Yac1I
+#EXTINF:-1 tvg-name="BG| DIEMA SPORT 3 FHD" group-title="STALKER", BG| DIEMA SPORT 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154916&extension=ts&play_token=7Y1KKTStZx
+#EXTINF:-1 tvg-name="BG| DIEMA SPORT 3 HD" group-title="STALKER", BG| DIEMA SPORT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1457953&extension=ts&play_token=QbEKjH8K8x
+#EXTINF:-1 tvg-name="BG| DIEMA SPORT FHD" group-title="STALKER", BG| DIEMA SPORT FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154827&extension=ts&play_token=IYQnT4Kopk
+#EXTINF:-1 tvg-name="BG| DIEMA TV" group-title="STALKER", BG| DIEMA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154821&extension=ts&play_token=0BVzWQxeyz
+#EXTINF:-1 tvg-name="BG| DISCOVERY CHANNEL HD" group-title="STALKER", BG| DISCOVERY CHANNEL HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154828&extension=ts&play_token=wh48SN5jrA
+#EXTINF:-1 tvg-name="BG| DISNEY CHANNEL" group-title="STALKER", BG| DISNEY CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154822&extension=ts&play_token=sB1Sda64Bx
+#EXTINF:-1 tvg-name="BG| DISNEY JUNIOR" group-title="STALKER", BG| DISNEY JUNIOR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154832&extension=ts&play_token=KwVC1UKWhX
+#EXTINF:-1 tvg-name="BG| DIZI TV FHD" group-title="STALKER", BG| DIZI TV FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1758308&extension=ts&play_token=5mkEPdTSut
+#EXTINF:-1 tvg-name="BG| DJAZZ HD" group-title="STALKER", BG| DJAZZ HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1532093&extension=ts&play_token=ePFWnFUDl7
+#EXTINF:-1 tvg-name="BG| DOCUBOX HD" group-title="STALKER", BG| DOCUBOX HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154833&extension=ts&play_token=UOarUM4pDD
+#EXTINF:-1 tvg-name="BG| DSTV" group-title="STALKER", BG| DSTV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154824&extension=ts&play_token=IiGvjaSFLR
+#EXTINF:-1 tvg-name="BG| DUCK TV" group-title="STALKER", BG| DUCK TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154834&extension=ts&play_token=UTEaXbZcqw
+#EXTINF:-1 tvg-name="BG| E-KIDS" group-title="STALKER", BG| E-KIDS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154835&extension=ts&play_token=eBDY5LKP4b
+#EXTINF:-1 tvg-name="BG| EPICDRAMA HD" group-title="STALKER", BG| EPICDRAMA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154840&extension=ts&play_token=QoSQuvICLQ
+#EXTINF:-1 tvg-name="BG| EURONEWS FHD" group-title="STALKER", BG| EURONEWS FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154923&extension=ts&play_token=GUXzRUto9B
+#EXTINF:-1 tvg-name="BG| EUROSPORT" group-title="STALKER", BG| EUROSPORT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154836&extension=ts&play_token=p8mpSMD8J3
+#EXTINF:-1 tvg-name="BG| EUROSPORT 2" group-title="STALKER", BG| EUROSPORT 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154841&extension=ts&play_token=pM68109frl
+#EXTINF:-1 tvg-name="BG| EUROSPORT 2 HD" group-title="STALKER", BG| EUROSPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154837&extension=ts&play_token=oqpnbzTalr
+#EXTINF:-1 tvg-name="BG| EUROSPORT HD" group-title="STALKER", BG| EUROSPORT HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154842&extension=ts&play_token=iss8w3iXo5
+#EXTINF:-1 tvg-name="BG| EVROKOM" group-title="STALKER", BG| EVROKOM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154838&extension=ts&play_token=H69TvGvcaq
+#EXTINF:-1 tvg-name="BG| EVROKOM HD" group-title="STALKER", BG| EVROKOM HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154839&extension=ts&play_token=UXqdNFihdi
+#EXTINF:-1 tvg-name="BG| FEN FOLK TV" group-title="STALKER", BG| FEN FOLK TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154850&extension=ts&play_token=VhUD7LNHWX
+#EXTINF:-1 tvg-name="BG| FEN TV HD" group-title="STALKER", BG| FEN TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154844&extension=ts&play_token=iMR2bLKggo
+#EXTINF:-1 tvg-name="BG| FEN TV SD" group-title="STALKER", BG| FEN TV SD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154845&extension=ts&play_token=TnpjZKkPfA
+#EXTINF:-1 tvg-name="BG| FIGHTBOX HD" group-title="STALKER", BG| FIGHTBOX HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154851&extension=ts&play_token=ovA9vHOybB
+#EXTINF:-1 tvg-name="BG| FIGHTKLUB FHD" group-title="STALKER", BG| FIGHTKLUB FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1758311&extension=ts&play_token=qL8iqLn96P
+#EXTINF:-1 tvg-name="BG| FILMBOX EXTRA HD" group-title="STALKER", BG| FILMBOX EXTRA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1339771&extension=ts&play_token=o92scBzLH1
+#EXTINF:-1 tvg-name="BG| FILMBOX HD" group-title="STALKER", BG| FILMBOX HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1339772&extension=ts&play_token=O4h1a0hNnf
+#EXTINF:-1 tvg-name="BG| FILMBOX STARS HD" group-title="STALKER", BG| FILMBOX STARS HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1339773&extension=ts&play_token=wvm8OVHRk0
+#EXTINF:-1 tvg-name="BG| FISHING & HUNTING FHD" group-title="STALKER", BG| FISHING & HUNTING FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1985803&extension=ts&play_token=elNr86rbd1
+#EXTINF:-1 tvg-name="BG| FOLKLOR TV" group-title="STALKER", BG| FOLKLOR TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154847&extension=ts&play_token=DEtVVZLAFr
+#EXTINF:-1 tvg-name="BG| FOLKLOR TV HD" group-title="STALKER", BG| FOLKLOR TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154855&extension=ts&play_token=NEhdOrdbsO
+#EXTINF:-1 tvg-name="BG| FOOD NETWORK" group-title="STALKER", BG| FOOD NETWORK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154848&extension=ts&play_token=otsJi4gshb
+#EXTINF:-1 tvg-name="BG| HBO 1 HD" group-title="STALKER", BG| HBO 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154861&extension=ts&play_token=PuHz9lv0aE
+#EXTINF:-1 tvg-name="BG| HBO 2 HD" group-title="STALKER", BG| HBO 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154862&extension=ts&play_token=9GBAmnCEVe
+#EXTINF:-1 tvg-name="BG| HBO 3 HD" group-title="STALKER", BG| HBO 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154863&extension=ts&play_token=bMVnxHNedw
+#EXTINF:-1 tvg-name="BG| HGTV HD" group-title="STALKER", BG| HGTV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1571550&extension=ts&play_token=qZK01gYN8S
+#EXTINF:-1 tvg-name="BG| HISTORY CHANNEL" group-title="STALKER", BG| HISTORY CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154866&extension=ts&play_token=4k82ZC7tef
+#EXTINF:-1 tvg-name="BG| HISTORY CHANNEL HD" group-title="STALKER", BG| HISTORY CHANNEL HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154867&extension=ts&play_token=SEXlDzkepa
+#EXTINF:-1 tvg-name="BG| HIT MIX MUSIC" group-title="STALKER", BG| HIT MIX MUSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154868&extension=ts&play_token=HO1Vy2uo4c
+#EXTINF:-1 tvg-name="BG| HOBBY LOV" group-title="STALKER", BG| HOBBY LOV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1758315&extension=ts&play_token=a0FqreVgF8
+#EXTINF:-1 tvg-name="BG| HOPE CHANNEL" group-title="STALKER", BG| HOPE CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1508638&extension=ts&play_token=a8VQBE1D2V
+#EXTINF:-1 tvg-name="BG| ICONCERTS" group-title="STALKER", BG| ICONCERTS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1841724&extension=ts&play_token=HuMaqqQ7p3
+#EXTINF:-1 tvg-name="BG| ID XTRA" group-title="STALKER", BG| ID XTRA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154871&extension=ts&play_token=juzgtQT9h7
+#EXTINF:-1 tvg-name="BG| ID XTRA HD" group-title="STALKER", BG| ID XTRA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154872&extension=ts&play_token=4w1K5KRHfD
+#EXTINF:-1 tvg-name="BG| JIM JAM" group-title="STALKER", BG| JIM JAM
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154874&extension=ts&play_token=J4hiIUGk22
+#EXTINF:-1 tvg-name="BG| KANAL 0" group-title="STALKER", BG| KANAL 0
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=2019950&extension=ts&play_token=xaAgWaleyE
+#EXTINF:-1 tvg-name="BG| KANAL 3 FHD" group-title="STALKER", BG| KANAL 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1510040&extension=ts&play_token=49K0ZF0Gaz
+#EXTINF:-1 tvg-name="BG| KINO NOVA" group-title="STALKER", BG| KINO NOVA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154876&extension=ts&play_token=xPsX3IJ1Fz
+#EXTINF:-1 tvg-name="BG| LOVE NATURE FHD" group-title="STALKER", BG| LOVE NATURE FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1775776&extension=ts&play_token=NFwI38nH6q
+#EXTINF:-1 tvg-name="BG| LOVE NATURE HD" group-title="STALKER", BG| LOVE NATURE HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1758319&extension=ts&play_token=ksgYs6eaKl
+#EXTINF:-1 tvg-name="BG| LTV BULGARIA" group-title="STALKER", BG| LTV BULGARIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1508641&extension=ts&play_token=p0mxYNAUA5
+#EXTINF:-1 tvg-name="BG| MAGIC TV" group-title="STALKER", BG| MAGIC TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154878&extension=ts&play_token=3mlzrLuS7z
+#EXTINF:-1 tvg-name="BG| MAX SPORT 1 FHD" group-title="STALKER", BG| MAX SPORT 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=83260&extension=ts&play_token=YTMlpKZNwb
+#EXTINF:-1 tvg-name="BG| MAX SPORT 1 HD" group-title="STALKER", BG| MAX SPORT 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154879&extension=ts&play_token=S6JFiVzL7c
+#EXTINF:-1 tvg-name="BG| MAX SPORT 2 FHD" group-title="STALKER", BG| MAX SPORT 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=83259&extension=ts&play_token=esSsz4HZvj
+#EXTINF:-1 tvg-name="BG| MAX SPORT 2 HD" group-title="STALKER", BG| MAX SPORT 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154880&extension=ts&play_token=TL5H07yDoe
+#EXTINF:-1 tvg-name="BG| MAX SPORT 3 FHD" group-title="STALKER", BG| MAX SPORT 3 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=83258&extension=ts&play_token=eKEvn5Hodg
+#EXTINF:-1 tvg-name="BG| MAX SPORT 3 HD" group-title="STALKER", BG| MAX SPORT 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154881&extension=ts&play_token=qQ0CUDuO8A
+#EXTINF:-1 tvg-name="BG| MAX SPORT 4 FHD" group-title="STALKER", BG| MAX SPORT 4 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=83257&extension=ts&play_token=YfyjQuSbWX
+#EXTINF:-1 tvg-name="BG| MAX SPORT 4 HD" group-title="STALKER", BG| MAX SPORT 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154882&extension=ts&play_token=5XbO5SVqXi
+#EXTINF:-1 tvg-name="BG| MOVIE STAR" group-title="STALKER", BG| MOVIE STAR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154884&extension=ts&play_token=77GbO3BfNG
+#EXTINF:-1 tvg-name="BG| MOVIE STAR FULL HD" group-title="STALKER", BG| MOVIE STAR FULL HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154883&extension=ts&play_token=7ONLPqTKqk
+#EXTINF:-1 tvg-name="BG| MTV CLASSIC" group-title="STALKER", BG| MTV CLASSIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1616434&extension=ts&play_token=O4Ur8sMCri
+#EXTINF:-1 tvg-name="BG| MTV FHD" group-title="STALKER", BG| MTV FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1616435&extension=ts&play_token=m3ULwzjZ3k
+#EXTINF:-1 tvg-name="BG| MTV HITS" group-title="STALKER", BG| MTV HITS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1616437&extension=ts&play_token=BKfghorR47
+#EXTINF:-1 tvg-name="BG| NAT GEO HD" group-title="STALKER", BG| NAT GEO HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154892&extension=ts&play_token=MuuT65v2vZ
+#EXTINF:-1 tvg-name="BG| NAT GEO WILD HD" group-title="STALKER", BG| NAT GEO WILD HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154893&extension=ts&play_token=s2aSYJNxNy
+#EXTINF:-1 tvg-name="BG| NATIONAL GEOGRAPHIC" group-title="STALKER", BG| NATIONAL GEOGRAPHIC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154886&extension=ts&play_token=yAQNKyo5fT
+#EXTINF:-1 tvg-name="BG| NICK JR" group-title="STALKER", BG| NICK JR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154895&extension=ts&play_token=Y9ke57E9la
+#EXTINF:-1 tvg-name="BG| NICKELODEON" group-title="STALKER", BG| NICKELODEON
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154896&extension=ts&play_token=vz5obbuZm8
+#EXTINF:-1 tvg-name="BG| NICKTOONS" group-title="STALKER", BG| NICKTOONS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1758313&extension=ts&play_token=TktVxPjwh3
+#EXTINF:-1 tvg-name="BG| NOSTALGIA HD" group-title="STALKER", BG| NOSTALGIA HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1758109&extension=ts&play_token=ldc4tyQY6X
+#EXTINF:-1 tvg-name="BG| NOVA" group-title="STALKER", BG| NOVA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154887&extension=ts&play_token=y9Aa2MgXSJ
+#EXTINF:-1 tvg-name="BG| NOVA NEWS" group-title="STALKER", BG| NOVA NEWS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1508635&extension=ts&play_token=c3dNXavMtP
+#EXTINF:-1 tvg-name="BG| NOVA NEWS HD" group-title="STALKER", BG| NOVA NEWS HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1141345&extension=ts&play_token=6muZtzLkNg
+#EXTINF:-1 tvg-name="BG| NOVA SPORT" group-title="STALKER", BG| NOVA SPORT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154888&extension=ts&play_token=8pVUN0LVRt
+#EXTINF:-1 tvg-name="BG| NOVA SPORT HD" group-title="STALKER", BG| NOVA SPORT HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154889&extension=ts&play_token=PlRAs9QomU
+#EXTINF:-1 tvg-name="BG| NOVA TV HD" group-title="STALKER", BG| NOVA TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154890&extension=ts&play_token=xxjGXZELXV
+#EXTINF:-1 tvg-name="BG| PERVIY KANAL" group-title="STALKER", BG| PERVIY KANAL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154898&extension=ts&play_token=IMfNpEDj99
+#EXTINF:-1 tvg-name="BG| PICKBOX 1" group-title="STALKER", BG| PICKBOX 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=2019595&extension=ts&play_token=vgvQYG9mAn
+#EXTINF:-1 tvg-name="BG| PLANETA" group-title="STALKER", BG| PLANETA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154908&extension=ts&play_token=9JV2BcruzC
+#EXTINF:-1 tvg-name="BG| PLANETA FHD" group-title="STALKER", BG| PLANETA FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154900&extension=ts&play_token=Sx7noGJhNV
+#EXTINF:-1 tvg-name="BG| PLANETA FOLK FHD" group-title="STALKER", BG| PLANETA FOLK FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154899&extension=ts&play_token=QHpTdNdglV
+#EXTINF:-1 tvg-name="BG| PLANETA TV" group-title="STALKER", BG| PLANETA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154901&extension=ts&play_token=914qPxoMwM
+#EXTINF:-1 tvg-name="BG| PP TV" group-title="STALKER", BG| PP TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154902&extension=ts&play_token=Jzr5DlZEXx
+#EXTINF:-1 tvg-name="BG| RETRO MUSIC TV" group-title="STALKER", BG| RETRO MUSIC TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1508639&extension=ts&play_token=RJGQdZnoHK
+#EXTINF:-1 tvg-name="BG| RIMEX TV" group-title="STALKER", BG| RIMEX TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1508637&extension=ts&play_token=nmebKgagqr
+#EXTINF:-1 tvg-name="BG| RING HD" group-title="STALKER", BG| RING HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154910&extension=ts&play_token=3TXS8qdyKS
+#EXTINF:-1 tvg-name="BG| RING TV" group-title="STALKER", BG| RING TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154911&extension=ts&play_token=ZxRJ6tX4IV
+#EXTINF:-1 tvg-name="BG| RODINA TV" group-title="STALKER", BG| RODINA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154913&extension=ts&play_token=5FOJ0y3y8t
+#EXTINF:-1 tvg-name="BG| ROMA TV" group-title="STALKER", BG| ROMA TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154912&extension=ts&play_token=nzCqTUfMSO
+#EXTINF:-1 tvg-name="BG| SHOWTIME 1 FHD" group-title="STALKER", BG| SHOWTIME 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1985805&extension=ts&play_token=xeIwID2J6X
+#EXTINF:-1 tvg-name="BG| SHOWTIME 2 FHD" group-title="STALKER", BG| SHOWTIME 2 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1985806&extension=ts&play_token=WHo45eghrz
+#EXTINF:-1 tvg-name="BG| SHUMEN TV FHD" group-title="STALKER", BG| SHUMEN TV FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1762852&extension=ts&play_token=puH8YVuF5H
+#EXTINF:-1 tvg-name="BG| SPORTAL" group-title="STALKER", BG| SPORTAL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1447191&extension=ts&play_token=zpSii9NRWO
+#EXTINF:-1 tvg-name="BG| STAR CHANNEL" group-title="STALKER", BG| STAR CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154849&extension=ts&play_token=CXuRdSHlFV
+#EXTINF:-1 tvg-name="BG| STAR CRIME" group-title="STALKER", BG| STAR CRIME
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154856&extension=ts&play_token=Pp9wBRAOS0
+#EXTINF:-1 tvg-name="BG| STAR CRIME HD" group-title="STALKER", BG| STAR CRIME HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154857&extension=ts&play_token=54E0OYBUTU
+#EXTINF:-1 tvg-name="BG| STAR LIFE" group-title="STALKER", BG| STAR LIFE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154858&extension=ts&play_token=bw3ufZCUlt
+#EXTINF:-1 tvg-name="BG| STAR LIFE HD" group-title="STALKER", BG| STAR LIFE HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154859&extension=ts&play_token=y861XlApVB
+#EXTINF:-1 tvg-name="BG| SUPPERTOONS HD" group-title="STALKER", BG| SUPPERTOONS HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1758312&extension=ts&play_token=tOCr4F6IzD
+#EXTINF:-1 tvg-name="BG| THE VOICE" group-title="STALKER", BG| THE VOICE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154928&extension=ts&play_token=e2aMuiA00k
+#EXTINF:-1 tvg-name="BG| THE VOICE FHD" group-title="STALKER", BG| THE VOICE FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1529010&extension=ts&play_token=ttNILp0Wlg
+#EXTINF:-1 tvg-name="BG| BEZBAGAJ FHD" group-title="STALKER", BG| BEZBAGAJ FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1758310&extension=ts&play_token=nRDPPkC18e
+#EXTINF:-1 tvg-name="BG| THIS IS BULGARIA" group-title="STALKER", BG| THIS IS BULGARIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1508640&extension=ts&play_token=k6kZImluby
+#EXTINF:-1 tvg-name="BG| TIANKOV FOLK HD" group-title="STALKER", BG| TIANKOV FOLK HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154930&extension=ts&play_token=i2mmDbEZDq
+#EXTINF:-1 tvg-name="BG| TIANKOV ORIENT FOLK" group-title="STALKER", BG| TIANKOV ORIENT FOLK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154931&extension=ts&play_token=OVQWDwFtGa
+#EXTINF:-1 tvg-name="BG| TLC" group-title="STALKER", BG| TLC
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154918&extension=ts&play_token=OZRhoNQQ88
+#EXTINF:-1 tvg-name="BG| TRACE SPORT STARS" group-title="STALKER", BG| TRACE SPORT STARS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154932&extension=ts&play_token=e0MMbL7SVp
+#EXTINF:-1 tvg-name="BG| TRACE SPORT STARS HD" group-title="STALKER", BG| TRACE SPORT STARS HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154933&extension=ts&play_token=65A91wQPaH
+#EXTINF:-1 tvg-name="BG| TRAVEL CHANNEL" group-title="STALKER", BG| TRAVEL CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154919&extension=ts&play_token=Wcw09Jbuul
+#EXTINF:-1 tvg-name="BG| TRAVEL CHANNEL FHD" group-title="STALKER", BG| TRAVEL CHANNEL FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154934&extension=ts&play_token=1IVC00i7Vf
+#EXTINF:-1 tvg-name="BG| TRAVEL TV" group-title="STALKER", BG| TRAVEL TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154935&extension=ts&play_token=6hAcSvOy5Y
+#EXTINF:-1 tvg-name="BG| TRAVEL TV HD" group-title="STALKER", BG| TRAVEL TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154920&extension=ts&play_token=fYjlCvWDWb
+#EXTINF:-1 tvg-name="BG| TV 999 FHD" group-title="STALKER", BG| TV 999 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1769933&extension=ts&play_token=nun2xEwaCs
+#EXTINF:-1 tvg-name="BG| TV ART FHD" group-title="STALKER", BG| TV ART FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1512916&extension=ts&play_token=LelDjjO0de
+#EXTINF:-1 tvg-name="BG| TV ZAGORA" group-title="STALKER", BG| TV ZAGORA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1491966&extension=ts&play_token=MTZ0kiGKhu
+#EXTINF:-1 tvg-name="BG| TV1" group-title="STALKER", BG| TV1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154925&extension=ts&play_token=ylxYQLdbv0
+#EXTINF:-1 tvg-name="BG| TV1 HD" group-title="STALKER", BG| TV1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154926&extension=ts&play_token=GnIHPvCaNt
+#EXTINF:-1 tvg-name="BG| TVN BULGARIA" group-title="STALKER", BG| TVN BULGARIA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1491965&extension=ts&play_token=RlPlfmOtzJ
+#EXTINF:-1 tvg-name="BG| TVT FHD" group-title="STALKER", BG| TVT FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1758309&extension=ts&play_token=5iToPkUhyq
+#EXTINF:-1 tvg-name="BG| V2BEAT TV" group-title="STALKER", BG| V2BEAT TV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1446558&extension=ts&play_token=VUZThayTMj
+#EXTINF:-1 tvg-name="BG| VEVO '90S" group-title="STALKER", BG| VEVO '90S
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1898943&extension=ts&play_token=jlpIqPUmsA
+#EXTINF:-1 tvg-name="BG| VEVO '80S" group-title="STALKER", BG| VEVO '80S
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1898944&extension=ts&play_token=TkH34GBpmQ
+#EXTINF:-1 tvg-name="BG| VEVO '70S" group-title="STALKER", BG| VEVO '70S
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1898945&extension=ts&play_token=GkQTOKvfey
+#EXTINF:-1 tvg-name="BG| VEVO 2K" group-title="STALKER", BG| VEVO 2K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1898942&extension=ts&play_token=ZCOzXTvvMH
+#EXTINF:-1 tvg-name="BG| VEVO COUNTRY" group-title="STALKER", BG| VEVO COUNTRY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1898941&extension=ts&play_token=aycscFKJEy
+#EXTINF:-1 tvg-name="BG| VEVO HIP-HOP" group-title="STALKER", BG| VEVO HIP-HOP
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1898940&extension=ts&play_token=Z9OyUwtKEN
+#EXTINF:-1 tvg-name="BG| VEVO LATINO" group-title="STALKER", BG| VEVO LATINO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1902537&extension=ts&play_token=ydXXCxyrND
+#EXTINF:-1 tvg-name="BG| VEVO POP" group-title="STALKER", BG| VEVO POP
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1902536&extension=ts&play_token=Nl7wNcNy2W
+#EXTINF:-1 tvg-name="BG| VEVO R&B" group-title="STALKER", BG| VEVO R&B
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1898939&extension=ts&play_token=7LqSLULBQ5
+#EXTINF:-1 tvg-name="BG| VEVO REGGAETON & TRAP" group-title="STALKER", BG| VEVO REGGAETON & TRAP
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1902535&extension=ts&play_token=mUkm236wvM
+#EXTINF:-1 tvg-name="BG| VIASAT EXPLORER" group-title="STALKER", BG| VIASAT EXPLORER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154938&extension=ts&play_token=njCZ3Jyta6
+#EXTINF:-1 tvg-name="BG| VIASAT HISTORY" group-title="STALKER", BG| VIASAT HISTORY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154939&extension=ts&play_token=bM8okIoVuv
+#EXTINF:-1 tvg-name="BG| VIASAT HISTORY HD" group-title="STALKER", BG| VIASAT HISTORY HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154940&extension=ts&play_token=xBCVoq12ix
+#EXTINF:-1 tvg-name="BG| VIASAT KINO PREMIERE" group-title="STALKER", BG| VIASAT KINO PREMIERE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154921&extension=ts&play_token=I06EDMgdFV
+#EXTINF:-1 tvg-name="BG| VIASAT NATURE" group-title="STALKER", BG| VIASAT NATURE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154941&extension=ts&play_token=yjBH5pD10P
+#EXTINF:-1 tvg-name="BG| VIVACOM ARENA FHD" group-title="STALKER", BG| VIVACOM ARENA FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1985800&extension=ts&play_token=KTC8EfcKt4
+#EXTINF:-1 tvg-name="BG| VTK" group-title="STALKER", BG| VTK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154937&extension=ts&play_token=9i6Vd9iW6t
+#EXTINF:-1 tvg-name="BG| WILD TV HD" group-title="STALKER", BG| WILD TV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154942&extension=ts&play_token=7MAoMNYBrE
+#EXTINF:-1 tvg-name="BG| WNESSTV" group-title="STALKER", BG| WNESSTV
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154943&extension=ts&play_token=5cfIBBIGDm
+#EXTINF:-1 tvg-name="BG| WNESSTV HD" group-title="STALKER", BG| WNESSTV HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=154944&extension=ts&play_token=heCpqDiCul
+#EXTINF:-1 tvg-name="BG| 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862376&extension=ts&play_token=ZxGEvZWHhz
+#EXTINF:-1 tvg-name="BG| ACTION BOX ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| ACTION BOX ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862375&extension=ts&play_token=Bkpj5f0JbT
+#EXTINF:-1 tvg-name="BG| AGRO TV ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| AGRO TV ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862374&extension=ts&play_token=3Z0bdvihR5
+#EXTINF:-1 tvg-name="BG| BALKANIKA TV ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BALKANIKA TV ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862373&extension=ts&play_token=ZpuyGqmps8
+#EXTINF:-1 tvg-name="BG| BG + ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BG + ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862372&extension=ts&play_token=EYlhxsak58
+#EXTINF:-1 tvg-name="BG| BLOOMBERG TV BULGARIA ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BLOOMBERG TV BULGARIA ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862371&extension=ts&play_token=8rvQqimtNi
+#EXTINF:-1 tvg-name="BG| BNT 1 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BNT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862370&extension=ts&play_token=AF26YrdPfz
+#EXTINF:-1 tvg-name="BG| BNT 2 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BNT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862369&extension=ts&play_token=PY75MdFfZl
+#EXTINF:-1 tvg-name="BG| BNT 3 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BNT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862368&extension=ts&play_token=qQEqCoRfIp
+#EXTINF:-1 tvg-name="BG| BNT 4 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BNT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862367&extension=ts&play_token=8i7iQriZJu
+#EXTINF:-1 tvg-name="BG| BTK TV ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BTK TV ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862366&extension=ts&play_token=4cWZrSIuAJ
+#EXTINF:-1 tvg-name="BG| BTV ACTION ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BTV ACTION ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862365&extension=ts&play_token=m1X2JSZIqB
+#EXTINF:-1 tvg-name="BG| BTV CINEMA ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BTV CINEMA ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862364&extension=ts&play_token=L6IqabVMGr
+#EXTINF:-1 tvg-name="BG| BTV COMEDY ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BTV COMEDY ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862363&extension=ts&play_token=niYdUeelJ9
+#EXTINF:-1 tvg-name="BG| BTV STORY ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BTV STORY ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862362&extension=ts&play_token=sd6ISdjGE3
+#EXTINF:-1 tvg-name="BG| BTV ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BTV ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862361&extension=ts&play_token=Qs6mZlPkoC
+#EXTINF:-1 tvg-name="BG| BULGARIA ON AIR ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| BULGARIA ON AIR ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862360&extension=ts&play_token=iTiX9TfTzO
+#EXTINF:-1 tvg-name="BG| CARTOON NETWORK ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| CARTOON NETWORK ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862359&extension=ts&play_token=eH56Zbphv4
+#EXTINF:-1 tvg-name="BG| CINEBOX ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| CINEBOX ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862358&extension=ts&play_token=MUsToVZSZI
+#EXTINF:-1 tvg-name="BG| CITY TV ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| CITY TV ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862357&extension=ts&play_token=6eipFNZzF0
+#EXTINF:-1 tvg-name="BG| CODE FASHION ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| CODE FASHION ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862356&extension=ts&play_token=9lOL5vIlGK
+#EXTINF:-1 tvg-name="BG| CODE HEALTH ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| CODE HEALTH ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862355&extension=ts&play_token=p0vDtXmyPQ
+#EXTINF:-1 tvg-name="BG| COMEDYBOX ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| COMEDYBOX ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862354&extension=ts&play_token=QwhEozgsPl
+#EXTINF:-1 tvg-name="BG| DIEMA FAMILY ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| DIEMA FAMILY ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862353&extension=ts&play_token=Sxeo2DnLlU
+#EXTINF:-1 tvg-name="BG| DIEMA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| DIEMA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862352&extension=ts&play_token=wHyT75ciEM
+#EXTINF:-1 tvg-name="BG| DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862351&extension=ts&play_token=Qbd3tRQZ18
+#EXTINF:-1 tvg-name="BG| DIEMA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| DIEMA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862350&extension=ts&play_token=iZewg7u6YN
+#EXTINF:-1 tvg-name="BG| DIEMA ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| DIEMA ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862349&extension=ts&play_token=OmiO0YF87f
+#EXTINF:-1 tvg-name="BG| DOCUBOX ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| DOCUBOX ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862348&extension=ts&play_token=njWUkbxERg
+#EXTINF:-1 tvg-name="BG| DSTV ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| DSTV ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862347&extension=ts&play_token=kuEX7zmnUj
+#EXTINF:-1 tvg-name="BG| EKIDS ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| EKIDS ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862346&extension=ts&play_token=2IFCSKpRoC
+#EXTINF:-1 tvg-name="BG| EURONEWS ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| EURONEWS ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862345&extension=ts&play_token=AoNDsAU37T
+#EXTINF:-1 tvg-name="BG| EVROKOM ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| EVROKOM ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862344&extension=ts&play_token=pQT4yGFdnM
+#EXTINF:-1 tvg-name="BG| FEN FOLK ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| FEN FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862343&extension=ts&play_token=OgjCz8SYne
+#EXTINF:-1 tvg-name="BG| FEN ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| FEN ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862342&extension=ts&play_token=qDf8fKPdbw
+#EXTINF:-1 tvg-name="BG| FILMBOX ARTHOUSE ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| FILMBOX ARTHOUSE ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862341&extension=ts&play_token=ixb31WvU15
+#EXTINF:-1 tvg-name="BG| FILMBOX EXTRA ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| FILMBOX EXTRA ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862340&extension=ts&play_token=aAh0BxUHca
+#EXTINF:-1 tvg-name="BG| FILMBOX STARS ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| FILMBOX STARS ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862339&extension=ts&play_token=9LoH2Zf0vS
+#EXTINF:-1 tvg-name="BG| FILMBOX ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| FILMBOX ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862338&extension=ts&play_token=WV4mWMt416
+#EXTINF:-1 tvg-name="BG| KANAL 3 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| KANAL 3 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862337&extension=ts&play_token=IPXv2JY8uw
+#EXTINF:-1 tvg-name="BG| KINO NOVA ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| KINO NOVA ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862336&extension=ts&play_token=IMP3HzIMQm
+#EXTINF:-1 tvg-name="BG| MAGIC TV ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| MAGIC TV ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862335&extension=ts&play_token=9g4c1NHHOG
+#EXTINF:-1 tvg-name="BG| MAX SPORT 1 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| MAX SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862334&extension=ts&play_token=TSAB3v9fxh
+#EXTINF:-1 tvg-name="BG| MAX SPORT 2 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| MAX SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862333&extension=ts&play_token=EZVGxCw0ed
+#EXTINF:-1 tvg-name="BG| MAX SPORT 3 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| MAX SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862332&extension=ts&play_token=zihb5tny40
+#EXTINF:-1 tvg-name="BG| MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862331&extension=ts&play_token=eeZ34QevgX
+#EXTINF:-1 tvg-name="BG| NICKELODEON ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| NICKELODEON ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862330&extension=ts&play_token=AhZPgfwqko
+#EXTINF:-1 tvg-name="BG| NICK JR. ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| NICK JR. ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862329&extension=ts&play_token=Ne0wIBAIbr
+#EXTINF:-1 tvg-name="BG| NOVA NEWS ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| NOVA NEWS ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862328&extension=ts&play_token=vYdnPi8sFB
+#EXTINF:-1 tvg-name="BG| NOVA SPORT ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| NOVA SPORT ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862327&extension=ts&play_token=pfNCF4S3N9
+#EXTINF:-1 tvg-name="BG| NOVA ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| NOVA ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862326&extension=ts&play_token=opxmbckAcY
+#EXTINF:-1 tvg-name="BG| PLANETA FOLK ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| PLANETA FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862325&extension=ts&play_token=tR9MlULw2U
+#EXTINF:-1 tvg-name="BG| PLANETA ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| PLANETA ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862324&extension=ts&play_token=HhYnvtnF6n
+#EXTINF:-1 tvg-name="BG| RING ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| RING ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862323&extension=ts&play_token=l7wu9is7jv
+#EXTINF:-1 tvg-name="BG| RODINA TV ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| RODINA TV ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862322&extension=ts&play_token=rVzrLq61tt
+#EXTINF:-1 tvg-name="BG| THE VOICE ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| THE VOICE ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862321&extension=ts&play_token=T5bqDFM72T
+#EXTINF:-1 tvg-name="BG| TIANKOV FOLK ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| TIANKOV FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862320&extension=ts&play_token=h3JkvMvnuW
+#EXTINF:-1 tvg-name="BG| TIANKOV ORIENT FOLK ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| TIANKOV ORIENT FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862319&extension=ts&play_token=ChqvFdnZQX
+#EXTINF:-1 tvg-name="BG| TRAVEL TV ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| TRAVEL TV ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862318&extension=ts&play_token=II0q8sxoVL
+#EXTINF:-1 tvg-name="BG| TV 1 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| TV 1 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862317&extension=ts&play_token=oegCYYEsGQ
+#EXTINF:-1 tvg-name="BG| TV 7/8 ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| TV 7/8 ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862316&extension=ts&play_token=4SqNVhCwwy
+#EXTINF:-1 tvg-name="BG| VIASAT EXPLORE ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| VIASAT EXPLORE ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862315&extension=ts&play_token=ARviVosvMw
+#EXTINF:-1 tvg-name="BG| VIASAT HISTORY ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| VIASAT HISTORY ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862314&extension=ts&play_token=35Ak87QZBd
+#EXTINF:-1 tvg-name="BG| VIASAT NATURE ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| VIASAT NATURE ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862313&extension=ts&play_token=tTflzXGIoR
+#EXTINF:-1 tvg-name="BG| VTK ⱽᴵᴾ ᴿᴬᵂ" group-title="STALKER", BG| VTK ⱽᴵᴾ ᴿᴬᵂ
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1862312&extension=ts&play_token=54lOE7DBwi
+#EXTINF:-1 tvg-name="BG|  LOVE NATURE 4K" group-title="STALKER", BG|  LOVE NATURE 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904740&extension=ts&play_token=BI0NJEAyPD
+#EXTINF:-1 tvg-name="BG| XITE ROCK X METAL" group-title="STALKER", BG| XITE ROCK X METAL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904739&extension=ts&play_token=V7JAgnlYCK
+#EXTINF:-1 tvg-name="BG| XITE RAP GAME" group-title="STALKER", BG| XITE RAP GAME
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904738&extension=ts&play_token=whdkldTQbp
+#EXTINF:-1 tvg-name="BG| XITE R&B FEELS" group-title="STALKER", BG| XITE R&B FEELS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904737&extension=ts&play_token=2rCdNT6e8X
+#EXTINF:-1 tvg-name="BG| XITE R&B CLASSIC JAMS" group-title="STALKER", BG| XITE R&B CLASSIC JAMS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904736&extension=ts&play_token=Al3s9UxYlv
+#EXTINF:-1 tvg-name="BG| XITE NUEVO LATINO" group-title="STALKER", BG| XITE NUEVO LATINO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904735&extension=ts&play_token=1m80yLSX25
+#EXTINF:-1 tvg-name="BG| XITE HITS" group-title="STALKER", BG| XITE HITS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904734&extension=ts&play_token=qryxlSJFTx
+#EXTINF:-1 tvg-name="BG| XITE HIP-HOP EVOLUTION" group-title="STALKER", BG| XITE HIP-HOP EVOLUTION
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904733&extension=ts&play_token=gZmrhN2BUn
+#EXTINF:-1 tvg-name="BG| XITE GOSPEL" group-title="STALKER", BG| XITE GOSPEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904732&extension=ts&play_token=5bYkTjIga5
+#EXTINF:-1 tvg-name="BG| XITE COUNTRY TODAY" group-title="STALKER", BG| XITE COUNTRY TODAY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904731&extension=ts&play_token=CqEQxf92cQ
+#EXTINF:-1 tvg-name="BG| XITE CLASSIC COUNTRY" group-title="STALKER", BG| XITE CLASSIC COUNTRY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904730&extension=ts&play_token=vS0cI436Bf
+#EXTINF:-1 tvg-name="BG| XITE CHRISTIAN HITS" group-title="STALKER", BG| XITE CHRISTIAN HITS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904729&extension=ts&play_token=s0RkHW8FJX
+#EXTINF:-1 tvg-name="BG| XITE CELEBRATES" group-title="STALKER", BG| XITE CELEBRATES
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904728&extension=ts&play_token=qgER3wwEky
+#EXTINF:-1 tvg-name="BG| XITE 90S THROWBACK" group-title="STALKER", BG| XITE 90S THROWBACK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904727&extension=ts&play_token=3qahZLPdem
+#EXTINF:-1 tvg-name="BG| XITE 80S FLASHBACK" group-title="STALKER", BG| XITE 80S FLASHBACK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904726&extension=ts&play_token=lm8ASb7v0R
+#EXTINF:-1 tvg-name="BG| XITE 60S & 70S GROOVE" group-title="STALKER", BG| XITE 60S & 70S GROOVE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:33:33&stream=1904725&extension=ts&play_token=txzlnfyAJg
