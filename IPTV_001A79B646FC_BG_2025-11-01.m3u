@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917240.png" group-title="BULGARIA", BG| MAX SPORT 1 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917240&extension=ts&play_token=yqHwZgVPix
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917239.png" group-title="BULGARIA", BG| MAX SPORT 2 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917239&extension=ts&play_token=RJXKUXNXx4
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917238.png" group-title="BULGARIA", BG| MAX SPORT 3 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917238&extension=ts&play_token=e6cjYnZh7e
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917237.png" group-title="BULGARIA", BG| MAX SPORT 4 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917237&extension=ts&play_token=lXY45TARFH
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917236.png" group-title="BULGARIA", BG| NOVA SPORT HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917236&extension=ts&play_token=ulXhAhXsbR
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917229.png" group-title="BULGARIA", BG| RING HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917229&extension=ts&play_token=1SGF1wgTYZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/H2.png" group-title="BULGARIA", BG| H2 FHD [FHD]
 http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=2063763&extension=ts&play_token=KgwMOtGhWt
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1985778.png" group-title="BULGARIA", BG | SOUL & PEPPER FHD [FHD]
