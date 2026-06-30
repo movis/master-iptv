@@ -1,590 +1,593 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/H2.png" group-title="BULGARIA", BG| H2 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=2063763&extension=ts&play_token=KgwMOtGhWt
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1985778.png" group-title="BULGARIA", BG | SOUL & PEPPER FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1985778&extension=ts&play_token=vAPlq02xdJ
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1517948.png" group-title="BULGARIA", BG| 100 AUTOMOTO TV FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1517948&extension=ts&play_token=C5gtQUCvCB
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154757.png" group-title="BULGARIA", BG| 24 KITCHEN
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154757&extension=ts&play_token=UVVrabHADN
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154758.png" group-title="BULGARIA", BG| 24 KITCHEN HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154758&extension=ts&play_token=05uaSPcAZs
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1532094.png" group-title="BULGARIA", BG| 360 TUNEBOX FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1532094&extension=ts&play_token=Lu7hCDlrsJ
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BULGARIA", BG| 7/8 TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1994424&extension=ts&play_token=k6oWRobCSn
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BULGARIA", BG| 7/8 TV FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154816&extension=ts&play_token=68PHneJlie
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154765.png" group-title="BULGARIA", BG| AGRO TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154765&extension=ts&play_token=cP8f0FkOER
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154766.png" group-title="BULGARIA", BG| ALFA TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154766&extension=ts&play_token=phNdoruf6a
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154760.png" group-title="BULGARIA", BG| AMC
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154760&extension=ts&play_token=6SGj8kErHq
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154767.png" group-title="BULGARIA", BG| ANIMAL PLANET
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154767&extension=ts&play_token=j8bRsqmnUi
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154768.png" group-title="BULGARIA", BG| ANIMAL PLANET HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154768&extension=ts&play_token=yZuUElqiPy
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/ARENAACTION.png" group-title="BULGARIA", BG| ARENA ACTION HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154759&extension=ts&play_token=M2c2BC8M90
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/ARENACOMEDY.png" group-title="BULGARIA", BG| ARENA COMEDY
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154808&extension=ts&play_token=HedmkP0A1c
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/ARENALIFE.png" group-title="BULGARIA", BG| ARENA LIFE
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154809&extension=ts&play_token=MrXvcYPxlP
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154761.png" group-title="BULGARIA", BG| AUTO MOTO SPORT HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154761&extension=ts&play_token=5NiGvOWai6
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154762.png" group-title="BULGARIA", BG| AXN
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154762&extension=ts&play_token=4ke0ABfnvY
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154763.png" group-title="BULGARIA", BG| AXN BLACK
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154763&extension=ts&play_token=AL9s6p4RUx
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154764.png" group-title="BULGARIA", BG| AXN WHITE
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154764&extension=ts&play_token=528xSLKQiP
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154770.png" group-title="BULGARIA", BG| BABY TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154770&extension=ts&play_token=81D9U4WSYy
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1525615.png" group-title="BULGARIA", BG| BALKAN MUSIC TV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1525615&extension=ts&play_token=ibTGdpHnE6
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154794.png" group-title="BULGARIA", BG| BALKANIKA MUSIC
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154794&extension=ts&play_token=vWfPLCZCSl
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154795.png" group-title="BULGARIA", BG| BALKANIKA MUSIC TV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154795&extension=ts&play_token=SDdqccPSGH
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154771.png" group-title="BULGARIA", BG| BG MUSIC
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154771&extension=ts&play_token=nfMvR8XnZm
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154772.png" group-title="BULGARIA", BG| BG MUSIC HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154772&extension=ts&play_token=cbANikteLQ
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154774.png" group-title="BULGARIA", BG| BHTV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154774&extension=ts&play_token=2Mw6pwvcuY
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154776.png" group-title="BULGARIA", BG| BLOOMBERG
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154776&extension=ts&play_token=UOVPpbnRKc
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154797.png" group-title="BULGARIA", BG| BLOOMBERG TV BULGARIA HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154797&extension=ts&play_token=y0de2Od5GV
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154778.png" group-title="BULGARIA", BG| BNT 1
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154778&extension=ts&play_token=442XaGRXbY
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154779.png" group-title="BULGARIA", BG| BNT 1 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154779&extension=ts&play_token=wE5MUbM76b
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154780.png" group-title="BULGARIA", BG| BNT 2
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154780&extension=ts&play_token=eF4wPRCe5l
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154781.png" group-title="BULGARIA", BG| BNT 2 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154781&extension=ts&play_token=k016391B6P
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=2077051&extension=ts&play_token=OHJwGOKp9r
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154782.png" group-title="BULGARIA", BG| BNT 3 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154782&extension=ts&play_token=9KgzPEDT5f
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=2077050&extension=ts&play_token=caeqdl0sEO
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/H2.png" group-title="BULGARIA", BG| H2 FHD [FHD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=2063763&extension=ts&play_token=1Gfbiy86JI
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1985778.png" group-title="BULGARIA", BG | SOUL & PEPPER FHD [FHD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1985778&extension=ts&play_token=vzA2O3mgSr
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1517948.png" group-title="BULGARIA", BG| 100 AUTOMOTO TV FHD [FHD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1517948&extension=ts&play_token=j8NS5fgW99
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154757.png" group-title="BULGARIA", BG| 24 KITCHEN
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154757&extension=ts&play_token=6OHEnmKX2y
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154758.png" group-title="BULGARIA", BG| 24 KITCHEN HD [HD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154758&extension=ts&play_token=CNgVx6gEDf
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1532094.png" group-title="BULGARIA", BG| 360 TUNEBOX FHD [FHD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1532094&extension=ts&play_token=d0M7dStpEy
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BULGARIA", BG| 7/8 TV
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1994424&extension=ts&play_token=hV8teOai6d
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154816.png" group-title="BULGARIA", BG| 7/8 TV FHD [FHD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154816&extension=ts&play_token=7LnXz8uCMi
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154765.png" group-title="BULGARIA", BG| AGRO TV
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154765&extension=ts&play_token=cVcwGk3Bx5
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154766.png" group-title="BULGARIA", BG| ALFA TV
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154766&extension=ts&play_token=DmGfozsqTQ
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154760.png" group-title="BULGARIA", BG| AMC
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154760&extension=ts&play_token=Gwtn2Oo8jy
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154767.png" group-title="BULGARIA", BG| ANIMAL PLANET
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154767&extension=ts&play_token=cdbVAOzgse
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154768.png" group-title="BULGARIA", BG| ANIMAL PLANET HD [HD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154768&extension=ts&play_token=p2ZBuC6E8A
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/ARENAACTION.png" group-title="BULGARIA", BG| ARENA ACTION HD [HD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154759&extension=ts&play_token=mpWvdTX4VS
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/ARENACOMEDY.png" group-title="BULGARIA", BG| ARENA COMEDY
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154808&extension=ts&play_token=XmqlssWWam
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/ARENALIFE.png" group-title="BULGARIA", BG| ARENA LIFE
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154809&extension=ts&play_token=929XyY0MbM
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154761.png" group-title="BULGARIA", BG| AUTO MOTO SPORT HD [HD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154761&extension=ts&play_token=U7hW0dM8WM
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154762.png" group-title="BULGARIA", BG| AXN
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154762&extension=ts&play_token=N2tez0ZatH
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154763.png" group-title="BULGARIA", BG| AXN BLACK
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154763&extension=ts&play_token=3pxCRD8H1L
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154764.png" group-title="BULGARIA", BG| AXN WHITE
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154764&extension=ts&play_token=SZTee0Povk
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154770.png" group-title="BULGARIA", BG| BABY TV
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154770&extension=ts&play_token=RRuK2UbyFX
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1525615.png" group-title="BULGARIA", BG| BALKAN MUSIC TV HD [HD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1525615&extension=ts&play_token=yh2n599WVy
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154794.png" group-title="BULGARIA", BG| BALKANIKA MUSIC
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154794&extension=ts&play_token=Y1uvkM4Ubz
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154795.png" group-title="BULGARIA", BG| BALKANIKA MUSIC TV HD [HD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154795&extension=ts&play_token=d5uQbieheD
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154771.png" group-title="BULGARIA", BG| BG MUSIC
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154771&extension=ts&play_token=jvOji2doiS
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154772.png" group-title="BULGARIA", BG| BG MUSIC HD [HD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154772&extension=ts&play_token=IltauH7kK1
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154774.png" group-title="BULGARIA", BG| BHTV
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154774&extension=ts&play_token=n8xUSn7UkZ
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154776.png" group-title="BULGARIA", BG| BLOOMBERG
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154776&extension=ts&play_token=isjlr2LD5M
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154797.png" group-title="BULGARIA", BG| BLOOMBERG TV BULGARIA HD [HD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154797&extension=ts&play_token=8udk03tsYA
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154778.png" group-title="BULGARIA", BG| BNT 1
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154778&extension=ts&play_token=UZ6C4nn85H
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154779.png" group-title="BULGARIA", BG| BNT 1 FHD [FHD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154779&extension=ts&play_token=RwAk63ZXq8
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154780.png" group-title="BULGARIA", BG| BNT 2
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154780&extension=ts&play_token=KJ5in6hkKM
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154781.png" group-title="BULGARIA", BG| BNT 2 FHD [FHD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154781&extension=ts&play_token=euqY0B2Ila
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154782.png" group-title="BULGARIA", BG| BNT 3 FHD [FHD]
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154782&extension=ts&play_token=Kr5sG44k7E
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154783.png" group-title="BULGARIA", BG| BNT 4 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154783&extension=ts&play_token=Ra1VqReLsg
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154783&extension=ts&play_token=BZ0PW3kw11
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154784.png" group-title="BULGARIA", BG| BNT 4 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154784&extension=ts&play_token=jXH8UkH1CZ
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154784&extension=ts&play_token=xyMlciXyd4
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154785.png" group-title="BULGARIA", BG| BNT WORD
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154785&extension=ts&play_token=yHncqzjQaV
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154785&extension=ts&play_token=cfF447DI9X
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154800.png" group-title="BULGARIA", BG| BOX HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154800&extension=ts&play_token=aO9OTOsnnx
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154800&extension=ts&play_token=M4fOitFMLB
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154786.png" group-title="BULGARIA", BG| BOX TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154786&extension=ts&play_token=RJdTnriOoP
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154786&extension=ts&play_token=iolA8eSSlm
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154787.png" group-title="BULGARIA", BG| BTV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154787&extension=ts&play_token=vVrWGacWW9
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154787&extension=ts&play_token=R23mDbB5ys
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154945.png" group-title="BULGARIA", BG| BTV ACTION FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154945&extension=ts&play_token=DEoFI5nBaM
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154945&extension=ts&play_token=zC9hhip3ga
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154788.png" group-title="BULGARIA", BG| BTV ACTION HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154788&extension=ts&play_token=zYjAkIrFyj
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154788&extension=ts&play_token=WHKWK7ZR6s
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154789.png" group-title="BULGARIA", BG| BTV CINEMA
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154789&extension=ts&play_token=7Lg0K279U3
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154789&extension=ts&play_token=LzDw92VATy
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154790.png" group-title="BULGARIA", BG| BTV COMEDY
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154790&extension=ts&play_token=XCNRro5Uye
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154790&extension=ts&play_token=RppgO6Qn9h
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154791.png" group-title="BULGARIA", BG| BTV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154791&extension=ts&play_token=7fibmDtptC
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154791&extension=ts&play_token=D2WUcyaX3a
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154792.png" group-title="BULGARIA", BG| BTV STORY
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154792&extension=ts&play_token=eNoYwzfrpr
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154792&extension=ts&play_token=7SwzC3XC3H
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1374365.png" group-title="BULGARIA", BG| BTV STORY FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1374365&extension=ts&play_token=Tz1OVVwwL4
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1374365&extension=ts&play_token=iyMkzxs2Qk
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154801.png" group-title="BULGARIA", BG| BULGARIA 24
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154801&extension=ts&play_token=ZZyQwxJ8YM
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154801&extension=ts&play_token=GQf9DIEuML
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154798.png" group-title="BULGARIA", BG| BULGARIA ON AIR
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154798&extension=ts&play_token=jvQc14rVJe
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154798&extension=ts&play_token=0xMxkWW11i
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154802.png" group-title="BULGARIA", BG| BULGARIA ON AIR HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154802&extension=ts&play_token=Qj7hOQ4fLR
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154802&extension=ts&play_token=a6vNsEgL8K
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154803.png" group-title="BULGARIA", BG| C&I NETWORK
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154803&extension=ts&play_token=H0PezukAuO
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154803&extension=ts&play_token=b8lJf7c6Fs
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154804.png" group-title="BULGARIA", BG| CARTOON NETWORK FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154804&extension=ts&play_token=BpCeTa3XLG
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154804&extension=ts&play_token=iLfheP1ZOg
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154799.png" group-title="BULGARIA", BG| CARTOONITO FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154799&extension=ts&play_token=dwATR6oQgn
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154799&extension=ts&play_token=CL4qbT701Q
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154805.png" group-title="BULGARIA", BG| CBS REAILTY
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154805&extension=ts&play_token=BElWWgB0l2
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154805&extension=ts&play_token=2HVzcfMkYW
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1758108.png" group-title="BULGARIA", BG| CINEMANIA FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1758108&extension=ts&play_token=iYQ8nFV8oE
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1758108&extension=ts&play_token=2cANANrFQf
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154810.png" group-title="BULGARIA", BG| CINEMAX
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154810&extension=ts&play_token=k3vYBYDQCY
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154810&extension=ts&play_token=FHoFaWVGUQ
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154811.png" group-title="BULGARIA", BG| CINEMAX 2
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154811&extension=ts&play_token=0Id5Sjhcan
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154811&extension=ts&play_token=xSxFR5yjMC
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154812.png" group-title="BULGARIA", BG| CINEMAX 2 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154812&extension=ts&play_token=GxpWKKDMjp
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154812&extension=ts&play_token=7G5jFZJGsG
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154813.png" group-title="BULGARIA", BG| CINEMAX HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154813&extension=ts&play_token=XrHj0YTq4D
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154813&extension=ts&play_token=ZUMJO6N1UU
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1985802.png" group-title="BULGARIA", BG| CINESTAR 1 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1985802&extension=ts&play_token=g342gp8hU5
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1985802&extension=ts&play_token=6tf1rddjSW
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1985801.png" group-title="BULGARIA", BG| CINESTAR ACTION FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1985801&extension=ts&play_token=ldk5IMb15I
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1985801&extension=ts&play_token=eSyh3t27bo
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154806.png" group-title="BULGARIA", BG| CITY TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154806&extension=ts&play_token=GlDW9AHWIN
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154806&extension=ts&play_token=rzteyTLpwY
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154814.png" group-title="BULGARIA", BG| CODE FASHION TV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154814&extension=ts&play_token=0IMW6cYzHp
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154814&extension=ts&play_token=ssh28WQSHK
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1491967.png" group-title="BULGARIA", BG| CODE HEALTH TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1491967&extension=ts&play_token=iZQ37Y5b2Q
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1491967&extension=ts&play_token=TWJMfzdtdE
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154825.png" group-title="BULGARIA", BG| DAVINCI LEARNING
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154825&extension=ts&play_token=57RkACoRVX
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154825&extension=ts&play_token=M3pcPy6i3J
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154817.png" group-title="BULGARIA", BG| DIEMA FAMILY
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154817&extension=ts&play_token=rYqjocH0FU
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154817&extension=ts&play_token=tETCmlhSva
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154818.png" group-title="BULGARIA", BG| DIEMA HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154818&extension=ts&play_token=kQ6R3XEyHi
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154818&extension=ts&play_token=6yyx46B05l
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154819.png" group-title="BULGARIA", BG| DIEMA SPORT 1 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154819&extension=ts&play_token=GIOPTZzgol
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154819&extension=ts&play_token=xaeLSKxSpM
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154826.png" group-title="BULGARIA", BG| DIEMA SPORT 2
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154826&extension=ts&play_token=UtN7Qtyhtx
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154826&extension=ts&play_token=kLfLX8TR8B
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154820.png" group-title="BULGARIA", BG| DIEMA SPORT 2 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154820&extension=ts&play_token=zGp1BMXNlp
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154820&extension=ts&play_token=0ISXi8rHyS
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154916.png" group-title="BULGARIA", BG| DIEMA SPORT 3 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154916&extension=ts&play_token=V9Pog8vui8
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154916&extension=ts&play_token=VDcSg8Wriv
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1457953.png" group-title="BULGARIA", BG| DIEMA SPORT 3 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1457953&extension=ts&play_token=sFwrxZR7vY
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1457953&extension=ts&play_token=wzaPOkBojZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154827.png" group-title="BULGARIA", BG| DIEMA SPORT FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154827&extension=ts&play_token=jC2jyVncJS
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154827&extension=ts&play_token=mplebqDgfD
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154821.png" group-title="BULGARIA", BG| DIEMA TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154821&extension=ts&play_token=SfbMfbjjAr
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154821&extension=ts&play_token=b6t5fuAUWF
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154828.png" group-title="BULGARIA", BG| DISCOVERY CHANNEL HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154828&extension=ts&play_token=vZjBX22xex
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154828&extension=ts&play_token=rLx4tHltTK
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154822.png" group-title="BULGARIA", BG| DISNEY CHANNEL
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154822&extension=ts&play_token=F8aNSqdMAd
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154822&extension=ts&play_token=ratqY8d7Jt
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154832.png" group-title="BULGARIA", BG| DISNEY JUNIOR
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154832&extension=ts&play_token=o9RPcnLqpj
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154832&extension=ts&play_token=M6jehqbkv1
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1758308.png" group-title="BULGARIA", BG| DIZI TV FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1758308&extension=ts&play_token=wTVXj5KSy9
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1758308&extension=ts&play_token=1rSDrfZdOj
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1532093.png" group-title="BULGARIA", BG| DJAZZ HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1532093&extension=ts&play_token=26hbBFAtxm
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1532093&extension=ts&play_token=rMRT1UvWAU
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154833.png" group-title="BULGARIA", BG| DOCUBOX HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154833&extension=ts&play_token=f4VdEpvMvE
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154833&extension=ts&play_token=HS8u5SfsQx
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154824.png" group-title="BULGARIA", BG| DSTV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154824&extension=ts&play_token=NobSqoHTMM
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154824&extension=ts&play_token=RQbzFNtB1w
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154834.png" group-title="BULGARIA", BG| DUCK TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154834&extension=ts&play_token=i8NGIpuaB8
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154834&extension=ts&play_token=6iMtCKiri4
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154835.png" group-title="BULGARIA", BG| E-KIDS
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154835&extension=ts&play_token=NP8nJvyu7A
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154835&extension=ts&play_token=tINiXT9Vr3
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154840.png" group-title="BULGARIA", BG| EPICDRAMA HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154840&extension=ts&play_token=PlT36Eeel2
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154840&extension=ts&play_token=AJCHOgCR6c
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154923.png" group-title="BULGARIA", BG| EURONEWS FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154923&extension=ts&play_token=RVdrai5BZj
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154923&extension=ts&play_token=gfcDNDwsN7
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154836.png" group-title="BULGARIA", BG| EUROSPORT
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154836&extension=ts&play_token=L2nHt4PHVk
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154836&extension=ts&play_token=02yVjFZ3K7
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154841.png" group-title="BULGARIA", BG| EUROSPORT 2
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154841&extension=ts&play_token=vhRomQNBon
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154841&extension=ts&play_token=DnYUPlukg1
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154837.png" group-title="BULGARIA", BG| EUROSPORT 2 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154837&extension=ts&play_token=sX0h49ijG8
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154837&extension=ts&play_token=MxDIxaKUgf
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154842.png" group-title="BULGARIA", BG| EUROSPORT HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154842&extension=ts&play_token=pf7bc4YCIp
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154842&extension=ts&play_token=JOCwQgawDu
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154838.png" group-title="BULGARIA", BG| EVROKOM
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154838&extension=ts&play_token=0z7tJMNcCW
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154838&extension=ts&play_token=qM0ME7l26P
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154839.png" group-title="BULGARIA", BG| EVROKOM HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154839&extension=ts&play_token=9GF8lw7BIn
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154839&extension=ts&play_token=XF4LCzAsv1
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154850.png" group-title="BULGARIA", BG| FEN FOLK TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154850&extension=ts&play_token=ZpeB09JI90
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154850&extension=ts&play_token=DI8mHDMZE1
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154844.png" group-title="BULGARIA", BG| FEN TV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154844&extension=ts&play_token=vZIRQcE4nE
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154844&extension=ts&play_token=wCeEI9Wce2
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154845.png" group-title="BULGARIA", BG| FEN TV SD
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154845&extension=ts&play_token=yhkwlnnuGX
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154845&extension=ts&play_token=6GfcJPutWQ
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154851.png" group-title="BULGARIA", BG| FIGHTBOX HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154851&extension=ts&play_token=NTpvwbalBH
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154851&extension=ts&play_token=5S94pEasWX
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1758311.png" group-title="BULGARIA", BG| FIGHTKLUB FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1758311&extension=ts&play_token=7jVEUTnVcA
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1758311&extension=ts&play_token=hMxDAfMYX3
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1339771.png" group-title="BULGARIA", BG| FILMBOX EXTRA HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1339771&extension=ts&play_token=ujWhwymftZ
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1339771&extension=ts&play_token=qxUL6ITswt
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1339772.png" group-title="BULGARIA", BG| FILMBOX HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1339772&extension=ts&play_token=5i0bFVclFO
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1339772&extension=ts&play_token=KR4vOHnG2F
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1339773.png" group-title="BULGARIA", BG| FILMBOX STARS HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1339773&extension=ts&play_token=CZv5xFnZrl
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1339773&extension=ts&play_token=sDo6yZ57Xo
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1985803.png" group-title="BULGARIA", BG| FISHING & HUNTING FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1985803&extension=ts&play_token=M9B4qg0WG4
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1985803&extension=ts&play_token=TWIkuRRhQR
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154847.png" group-title="BULGARIA", BG| FOLKLOR TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154847&extension=ts&play_token=JdAS783DD9
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154847&extension=ts&play_token=6bIfq4qCVf
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154855.png" group-title="BULGARIA", BG| FOLKLOR TV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154855&extension=ts&play_token=zahWI6mUHr
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154855&extension=ts&play_token=fI7I8Q050b
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154848.png" group-title="BULGARIA", BG| FOOD NETWORK
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154848&extension=ts&play_token=Y4B0HaN3qk
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154848&extension=ts&play_token=Ur3zxTrLnX
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154861.png" group-title="BULGARIA", BG| HBO 1 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154861&extension=ts&play_token=KBOD0ogcqo
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154861&extension=ts&play_token=GsE9EjQscg
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154862.png" group-title="BULGARIA", BG| HBO 2 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154862&extension=ts&play_token=aYPVlL5XOt
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154862&extension=ts&play_token=AjYCyOb5cO
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154863.png" group-title="BULGARIA", BG| HBO 3 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154863&extension=ts&play_token=P8tQoK3F3r
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154863&extension=ts&play_token=POxTCc0dPl
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1571550.png" group-title="BULGARIA", BG| HGTV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1571550&extension=ts&play_token=hqfp7iA7ei
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1571550&extension=ts&play_token=Zw0XT4vQ25
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154866.png" group-title="BULGARIA", BG| HISTORY CHANNEL
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154866&extension=ts&play_token=9Eis7BPwOn
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154866&extension=ts&play_token=iPcKe0ism8
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154867.png" group-title="BULGARIA", BG| HISTORY CHANNEL HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154867&extension=ts&play_token=aFoq1vGf4f
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154867&extension=ts&play_token=oWUGj9NOwV
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154868.png" group-title="BULGARIA", BG| HIT MIX MUSIC
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154868&extension=ts&play_token=D02lg94AHD
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154868&extension=ts&play_token=iu4UdvBP16
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1758315.png" group-title="BULGARIA", BG| HOBBY LOV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1758315&extension=ts&play_token=fkKCQbFJsU
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1758315&extension=ts&play_token=6CQ4PNmIef
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1508638.png" group-title="BULGARIA", BG| HOPE CHANNEL
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1508638&extension=ts&play_token=VpuOBbpvek
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1508638&extension=ts&play_token=qWef3LqGC9
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/PLANETA.png" group-title="BULGARIA", BG| PLANETA 4K [4K]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1841724&extension=ts&play_token=ad9Zom26s8
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1841724&extension=ts&play_token=82yKG49fni
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154871.png" group-title="BULGARIA", BG| ID XTRA
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154871&extension=ts&play_token=OHB9yPRu90
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154871&extension=ts&play_token=2bA5h99JGI
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154872.png" group-title="BULGARIA", BG| ID XTRA HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154872&extension=ts&play_token=HEcxIPrLw8
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154872&extension=ts&play_token=RUqKP8fl4H
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154874.png" group-title="BULGARIA", BG| JIM JAM
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154874&extension=ts&play_token=wFolH5yos2
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154874&extension=ts&play_token=B1SFM5uHeq
 #EXTINF:-1 tvg-id="LOVRIBOLOVCLUB.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/bglovribolovclub.png" group-title="BULGARIA", BG| LOV & RIBOLOV CLUB
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=2019950&extension=ts&play_token=xFjAonPSdJ
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=2019950&extension=ts&play_token=VZ9l6W77zp
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1510040.png" group-title="BULGARIA", BG| KANAL 3 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1510040&extension=ts&play_token=AIZ5qYOShN
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1510040&extension=ts&play_token=uRbCeKQ4p6
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154876.png" group-title="BULGARIA", BG| KINO NOVA
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154876&extension=ts&play_token=MNsHNjrphf
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154876&extension=ts&play_token=DqEvHrmfus
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1775776.png" group-title="BULGARIA", BG| LOVE NATURE FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1775776&extension=ts&play_token=nkHROgt3Dy
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1775776&extension=ts&play_token=dJavb2eMkx
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1758319.png" group-title="BULGARIA", BG| LOVE NATURE HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1758319&extension=ts&play_token=W8CsnwPwb4
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1758319&extension=ts&play_token=nnB7mA2G5H
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1508641.png" group-title="BULGARIA", BG| LTV BULGARIA
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1508641&extension=ts&play_token=TveWRTJZTt
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1508641&extension=ts&play_token=OwAxnicPNl
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154878.png" group-title="BULGARIA", BG| MAGIC TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154878&extension=ts&play_token=lUJUlbPyVo
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154878&extension=ts&play_token=8trIvc0MhU
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/83260.png" group-title="BULGARIA", BG| MAX SPORT 1 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=83260&extension=ts&play_token=xbcc07GeDD
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=83260&extension=ts&play_token=rPBmsWy0aq
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154879.png" group-title="BULGARIA", BG| MAX SPORT 1 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154879&extension=ts&play_token=bNC13jUxbS
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154879&extension=ts&play_token=IbWipymbLX
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/83259.png" group-title="BULGARIA", BG| MAX SPORT 2 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=83259&extension=ts&play_token=vmUOGlvttM
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=83259&extension=ts&play_token=ng5kNgaqwi
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154880.png" group-title="BULGARIA", BG| MAX SPORT 2 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154880&extension=ts&play_token=TU7QMNqPNo
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154880&extension=ts&play_token=bipveZ5n2e
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/83258.png" group-title="BULGARIA", BG| MAX SPORT 3 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=83258&extension=ts&play_token=Vp9XJyv0cq
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=83258&extension=ts&play_token=8NjoI3GepO
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154881.png" group-title="BULGARIA", BG| MAX SPORT 3 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154881&extension=ts&play_token=eTuE8OLxDl
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154881&extension=ts&play_token=LRbpeNHpX9
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/83257.png" group-title="BULGARIA", BG| MAX SPORT 4 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=83257&extension=ts&play_token=8rWSxVJw1Z
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=83257&extension=ts&play_token=LTw2oOjGpD
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154882.png" group-title="BULGARIA", BG| MAX SPORT 4 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154882&extension=ts&play_token=btmMsRJGVg
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154882&extension=ts&play_token=NS0tHphVU7
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154884.png" group-title="BULGARIA", BG| MOVIE STAR
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154884&extension=ts&play_token=8IVg5k8jOh
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154884&extension=ts&play_token=CgPC2RCi8N
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154883.png" group-title="BULGARIA", BG| MOVIE STAR FULL HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154883&extension=ts&play_token=MlQV12d8C6
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154883&extension=ts&play_token=F49fUJzt46
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1616434.png" group-title="BULGARIA", BG| MTV CLASSIC
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1616434&extension=ts&play_token=bAO4qiQNiZ
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1616434&extension=ts&play_token=v2mL5UtW8v
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1616435.png" group-title="BULGARIA", BG| MTV FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1616435&extension=ts&play_token=sjIZ5QevLj
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1616435&extension=ts&play_token=4uOshOQ44D
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1616437.png" group-title="BULGARIA", BG| MTV HITS
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1616437&extension=ts&play_token=mHa0X9hiby
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1616437&extension=ts&play_token=8BzgJ5NhD6
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154892.png" group-title="BULGARIA", BG| NAT GEO HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154892&extension=ts&play_token=MOv6OymVBh
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154892&extension=ts&play_token=iDZofOSUOv
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154893.png" group-title="BULGARIA", BG| NAT GEO WILD HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154893&extension=ts&play_token=tA8fj4oQKx
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154893&extension=ts&play_token=Kea59mM7qy
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154886.png" group-title="BULGARIA", BG| NATIONAL GEOGRAPHIC
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154886&extension=ts&play_token=60wkTFGn12
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154886&extension=ts&play_token=cDxdwQeOOF
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154895.png" group-title="BULGARIA", BG| NICK JR
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154895&extension=ts&play_token=a5OuJcf2Fk
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154895&extension=ts&play_token=js6IwFp4UX
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154896.png" group-title="BULGARIA", BG| NICKELODEON
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154896&extension=ts&play_token=Lx91wFkDOl
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154896&extension=ts&play_token=ZCMboMG28L
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1758313.png" group-title="BULGARIA", BG| NICKTOONS
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1758313&extension=ts&play_token=YycZDG5dru
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1758313&extension=ts&play_token=IIEy7AHx18
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1758109.png" group-title="BULGARIA", BG| NOSTALGIA HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1758109&extension=ts&play_token=hzp4OA3FvM
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1758109&extension=ts&play_token=R0BDD4OHMF
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154887.png" group-title="BULGARIA", BG| NOVA
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154887&extension=ts&play_token=080eUcCNEv
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154887&extension=ts&play_token=1xHfkFBPQU
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1508635.png" group-title="BULGARIA", BG| NOVA NEWS
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1508635&extension=ts&play_token=kidaOatRfB
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1508635&extension=ts&play_token=V1mX9N9Pvn
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1141345.png" group-title="BULGARIA", BG| NOVA NEWS HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1141345&extension=ts&play_token=Ry7J9TUdvb
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1141345&extension=ts&play_token=9Atl55lDIk
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154888.png" group-title="BULGARIA", BG| NOVA SPORT
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154888&extension=ts&play_token=itb51VCACQ
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154888&extension=ts&play_token=vdo3C0wF6Q
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154889.png" group-title="BULGARIA", BG| NOVA SPORT HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154889&extension=ts&play_token=bfQMKB8Qb8
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154889&extension=ts&play_token=294Fxm59fh
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154890.png" group-title="BULGARIA", BG| NOVA TV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154890&extension=ts&play_token=yiV0MgM31a
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154890&extension=ts&play_token=NDaNLNqJvK
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154898.png" group-title="BULGARIA", BG| PERVIY KANAL
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154898&extension=ts&play_token=ISJg8dZikk
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154898&extension=ts&play_token=VpBcxmLDet
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/PICKBOX1.png" group-title="BULGARIA", BG| PICKBOX 1
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=2019595&extension=ts&play_token=GtPTiO4XVa
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=2019595&extension=ts&play_token=kRewrea5j2
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154908.png" group-title="BULGARIA", BG| PLANETA
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154908&extension=ts&play_token=iOXVivwuQW
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154908&extension=ts&play_token=ACLydzgY2q
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154900.png" group-title="BULGARIA", BG| PLANETA FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154900&extension=ts&play_token=yOJJkCIGfu
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154900&extension=ts&play_token=a4ZnvzlDXu
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154899.png" group-title="BULGARIA", BG| PLANETA FOLK FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154899&extension=ts&play_token=LQVINy2ork
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154899&extension=ts&play_token=vISNEBTKHz
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154901.png" group-title="BULGARIA", BG| PLANETA TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154901&extension=ts&play_token=IgP91T8iNn
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154901&extension=ts&play_token=DQDOiU7g7y
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154902.png" group-title="BULGARIA", BG| PP TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154902&extension=ts&play_token=lJzFmlZ57Y
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154902&extension=ts&play_token=1Wiv82ms4O
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1508639.png" group-title="BULGARIA", BG| RETRO MUSIC TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1508639&extension=ts&play_token=lfp2dG5SOD
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1508639&extension=ts&play_token=0GzpdQ7alp
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1508637.png" group-title="BULGARIA", BG| RIMEX TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1508637&extension=ts&play_token=grOwtedIcR
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1508637&extension=ts&play_token=wE63gkC0sI
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154910.png" group-title="BULGARIA", BG| RING HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154910&extension=ts&play_token=5M39icjTyt
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154910&extension=ts&play_token=UG08c9mw1W
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154911.png" group-title="BULGARIA", BG| RING TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154911&extension=ts&play_token=l4VM5xBaAn
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154911&extension=ts&play_token=7ND7rhCtXw
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154913.png" group-title="BULGARIA", BG| RODINA TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154913&extension=ts&play_token=IiEzM9x7np
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154913&extension=ts&play_token=jWJFEx2JFy
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154912.png" group-title="BULGARIA", BG| ROMA TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154912&extension=ts&play_token=Ut5sd66tZo
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154912&extension=ts&play_token=GxFj5ZB85x
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1985805.png" group-title="BULGARIA", BG| SHOWTIME 1 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1985805&extension=ts&play_token=t92gEfuukY
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1985805&extension=ts&play_token=yfev0C98AC
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1985806.png" group-title="BULGARIA", BG| SHOWTIME 2 FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1985806&extension=ts&play_token=LTKbcGHZEv
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1985806&extension=ts&play_token=9AwGVXON3p
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/SHUMENT.png" group-title="BULGARIA", BG| SHUMEN TV FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1762852&extension=ts&play_token=yGZlOPqHCX
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1762852&extension=ts&play_token=riWykVNycN
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1447191.png" group-title="BULGARIA", BG| SPORTAL
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1447191&extension=ts&play_token=iFSP2SJ14J
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1447191&extension=ts&play_token=s1wO7ChAUs
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154849.png" group-title="BULGARIA", BG| STAR CHANNEL
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154849&extension=ts&play_token=HfsAidx2oA
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154849&extension=ts&play_token=FoWV45CD4q
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154856.png" group-title="BULGARIA", BG| STAR CRIME
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154856&extension=ts&play_token=TNCy0JbKZT
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154856&extension=ts&play_token=V7CEYBlBF5
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154857.png" group-title="BULGARIA", BG| STAR CRIME HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154857&extension=ts&play_token=AZC7Uw737N
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154857&extension=ts&play_token=YSePkHlFpR
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154858.png" group-title="BULGARIA", BG| STAR LIFE
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154858&extension=ts&play_token=crbpe6qip5
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154858&extension=ts&play_token=msyCVUCIiG
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154859.png" group-title="BULGARIA", BG| STAR LIFE HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154859&extension=ts&play_token=mE3zCNiIo8
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154859&extension=ts&play_token=Q5J7Dx7iG6
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1758312.png" group-title="BULGARIA", BG| SUPPERTOONS HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1758312&extension=ts&play_token=wPFR9l9KXY
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1758312&extension=ts&play_token=9HkpDnP3in
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154928.png" group-title="BULGARIA", BG| THE VOICE
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154928&extension=ts&play_token=vl4szRupon
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154928&extension=ts&play_token=3ZETMwtrdo
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1529010.png" group-title="BULGARIA", BG| THE VOICE FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1529010&extension=ts&play_token=ec8jIIXr7y
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1529010&extension=ts&play_token=TkAsMX61i0
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/KANAL0.png" group-title="BULGARIA", BG| KANAL 0
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1758310&extension=ts&play_token=X9AE52Q02j
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1758310&extension=ts&play_token=n3Zd5GuRlF
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1508640.png" group-title="BULGARIA", BG| THIS IS BULGARIA
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1508640&extension=ts&play_token=YWJdQbMutW
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1508640&extension=ts&play_token=SNIxwGVjTQ
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154930.png" group-title="BULGARIA", BG| TIANKOV FOLK HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154930&extension=ts&play_token=Xjn7F8TfpV
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154930&extension=ts&play_token=9hegAxnEt8
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154931.png" group-title="BULGARIA", BG| TIANKOV ORIENT FOLK
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154931&extension=ts&play_token=n7QJnjFPf3
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154931&extension=ts&play_token=P7UPeU8A0z
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154918.png" group-title="BULGARIA", BG| TLC
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154918&extension=ts&play_token=oIcM24pFsk
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154918&extension=ts&play_token=hkC8olFyl4
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154932.png" group-title="BULGARIA", BG| TRACE SPORT STARS
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154932&extension=ts&play_token=pYTl3Rtzjq
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154932&extension=ts&play_token=o98rC42UYM
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154933.png" group-title="BULGARIA", BG| TRACE SPORT STARS HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154933&extension=ts&play_token=GH7RoAoDGU
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154933&extension=ts&play_token=f3Cbiasu9a
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154919.png" group-title="BULGARIA", BG| TRAVEL CHANNEL
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154919&extension=ts&play_token=IGMsJAgjbK
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154919&extension=ts&play_token=LkSEFVCmri
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154934.png" group-title="BULGARIA", BG| TRAVEL CHANNEL FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154934&extension=ts&play_token=BodYvqFYn7
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154934&extension=ts&play_token=cHB7Cfbm98
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154935.png" group-title="BULGARIA", BG| TRAVEL TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154935&extension=ts&play_token=ABvgU4lWoO
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154935&extension=ts&play_token=OQd4NjrLaq
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154920.png" group-title="BULGARIA", BG| TRAVEL TV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154920&extension=ts&play_token=PgJTz0rP7Q
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154920&extension=ts&play_token=EYS6KCwyJp
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/BULGARIA/FIXFOXI.png" group-title="BULGARIA", BG| FIX & FOXI
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1769933&extension=ts&play_token=WAFyhF7OXW
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1769933&extension=ts&play_token=AKNbZXTsMe
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1512916.png" group-title="BULGARIA", BG| TV ART FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1512916&extension=ts&play_token=cp32WGWqRe
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1512916&extension=ts&play_token=voIxQ3Ibt9
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1491966.png" group-title="BULGARIA", BG| TV ZAGORA
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1491966&extension=ts&play_token=MijMtz3W00
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1491966&extension=ts&play_token=u3bzt1ntu5
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154925.png" group-title="BULGARIA", BG| TV1
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154925&extension=ts&play_token=WgtINu8Qum
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154925&extension=ts&play_token=VwjjILjJ2K
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154926.png" group-title="BULGARIA", BG| TV1 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154926&extension=ts&play_token=DrA2cVooOl
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154926&extension=ts&play_token=GOq3ZKZQPG
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1491965.png" group-title="BULGARIA", BG| TVN BULGARIA
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1491965&extension=ts&play_token=tVnmN9Bsq5
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1491965&extension=ts&play_token=XdTFofdLXY
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1758309.png" group-title="BULGARIA", BG| TVT FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1758309&extension=ts&play_token=Hg4xCNS54J
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1758309&extension=ts&play_token=0lTXihArC1
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1446558.png" group-title="BULGARIA", BG| V2BEAT TV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1446558&extension=ts&play_token=dpxVRzPr1Z
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1446558&extension=ts&play_token=ms1K0UJPkp
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA", BG| VEVO '90S
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1898943&extension=ts&play_token=uOgwCGTbPQ
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1898943&extension=ts&play_token=tr4URXCwvX
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA", BG| VEVO '80S
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1898944&extension=ts&play_token=Bz1lOjOu5s
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1898944&extension=ts&play_token=2YoiKaDItT
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA", BG| VEVO '70S
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1898945&extension=ts&play_token=v6OZp9MEr6
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1898945&extension=ts&play_token=l3zfMlAVgO
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA", BG| VEVO 2K
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1898942&extension=ts&play_token=jD3bbooROH
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1898942&extension=ts&play_token=FKiPeCsNmk
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA", BG| VEVO COUNTRY
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1898941&extension=ts&play_token=9p59okUHpW
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1898941&extension=ts&play_token=zZdTSPEZc9
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA", BG| VEVO HIP-HOP
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1898940&extension=ts&play_token=YODSQar1vo
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1898940&extension=ts&play_token=42dThwkgnT
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1902537.png" group-title="BULGARIA", BG| VEVO LATINO
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1902537&extension=ts&play_token=v8AC1NgrZe
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1902537&extension=ts&play_token=nRjHHFymuA
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1902536.png" group-title="BULGARIA", BG| VEVO POP
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1902536&extension=ts&play_token=ENyNDdZCNV
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1902536&extension=ts&play_token=7V0ZxNtrlf
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/vevo.png" group-title="BULGARIA", BG| VEVO R&B
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1898939&extension=ts&play_token=EFoWonmtxb
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1898939&extension=ts&play_token=4ENe6OsBYi
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1902535.png" group-title="BULGARIA", BG| VEVO REGGAETON & TRAP
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1902535&extension=ts&play_token=zzPf6VhbNf
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1902535&extension=ts&play_token=Niv4ZEiSas
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154938.png" group-title="BULGARIA", BG| VIASAT EXPLORER
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154938&extension=ts&play_token=YLB5aI7Yb2
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154938&extension=ts&play_token=JupJ4pw29h
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154939.png" group-title="BULGARIA", BG| VIASAT HISTORY
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154939&extension=ts&play_token=XSGNoVaP50
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154939&extension=ts&play_token=AeUJqmsiJG
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154940.png" group-title="BULGARIA", BG| VIASAT HISTORY HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154940&extension=ts&play_token=mP9pVONeUd
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154940&extension=ts&play_token=Czc2liOdqM
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154921.png" group-title="BULGARIA", BG| VIASAT KINO PREMIERE
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154921&extension=ts&play_token=gXdWojDwkT
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154921&extension=ts&play_token=rek7gfirh2
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154941.png" group-title="BULGARIA", BG| VIASAT NATURE
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154941&extension=ts&play_token=AG52HCXVEF
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154941&extension=ts&play_token=ikurMOxj7P
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1985800.png" group-title="BULGARIA", BG| VIVACOM ARENA FHD [FHD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1985800&extension=ts&play_token=4m9yTx4nig
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1985800&extension=ts&play_token=K1puX8oFqK
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154937.png" group-title="BULGARIA", BG| VTK
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154937&extension=ts&play_token=424nyAbF8N
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154937&extension=ts&play_token=fOETMMokYU
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154942.png" group-title="BULGARIA", BG| WILD TV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154942&extension=ts&play_token=dsEhIR50bV
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154942&extension=ts&play_token=6RVHOFkgZv
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154943.png" group-title="BULGARIA", BG| WNESSTV
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154943&extension=ts&play_token=6dogpbWqDm
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154943&extension=ts&play_token=wrkW2gvr6k
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/154944.png" group-title="BULGARIA", BG| WNESSTV HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=154944&extension=ts&play_token=t1hRmafscO
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=154944&extension=ts&play_token=nafPOwoxth
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862376.png" group-title="BULGARIA", BG| 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862376&extension=ts&play_token=Az0dqbEngX
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862376&extension=ts&play_token=Uk34IIMNAy
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862375.png" group-title="BULGARIA", BG| ACTION BOX ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862375&extension=ts&play_token=XdyO7UGXhr
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862375&extension=ts&play_token=pJfXGYEX5e
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862374.png" group-title="BULGARIA", BG| AGRO TV ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862374&extension=ts&play_token=1whsfysfWX
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862374&extension=ts&play_token=QS87e809lI
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862373.png" group-title="BULGARIA", BG| BALKANIKA TV ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862373&extension=ts&play_token=D4lyt4AjgG
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862373&extension=ts&play_token=UfcBCXW3Iq
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862372.png" group-title="BULGARIA", BG| BG + ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862372&extension=ts&play_token=gj1i2MxmNv
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862372&extension=ts&play_token=lCeM6EFqox
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862371.png" group-title="BULGARIA", BG| BLOOMBERG TV BULGARIA ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862371&extension=ts&play_token=gZwtxibNXT
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862371&extension=ts&play_token=ZVqTKhWBRJ
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862370.png" group-title="BULGARIA", BG| BNT 1 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862370&extension=ts&play_token=LwdhLVfGWh
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862370&extension=ts&play_token=kgaAwTui26
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862369.png" group-title="BULGARIA", BG| BNT 2 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862369&extension=ts&play_token=FRWcQiTrHW
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862369&extension=ts&play_token=mJMeERJQQV
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862368.png" group-title="BULGARIA", BG| BNT 3 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862368&extension=ts&play_token=PAkkC2v1aT
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862368&extension=ts&play_token=UxMWrSUYEu
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862367.png" group-title="BULGARIA", BG| BNT 4 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862367&extension=ts&play_token=ZMbyOwJB3X
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862367&extension=ts&play_token=227TLdhgBX
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862366.png" group-title="BULGARIA", BG| BTK TV ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862366&extension=ts&play_token=X5Vq4gKlqS
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862366&extension=ts&play_token=BlnSbY6JcH
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862365.png" group-title="BULGARIA", BG| BTV ACTION ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862365&extension=ts&play_token=bIeSGCuTR7
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862365&extension=ts&play_token=Kywac74LYF
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862364.png" group-title="BULGARIA", BG| BTV CINEMA ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862364&extension=ts&play_token=dREFpFRnHl
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862364&extension=ts&play_token=YGkY4EG0lO
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862363.png" group-title="BULGARIA", BG| BTV COMEDY ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862363&extension=ts&play_token=1yS4NE73bO
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862363&extension=ts&play_token=1F90AAXcUL
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862362.png" group-title="BULGARIA", BG| BTV STORY ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862362&extension=ts&play_token=cIIz65Z2Nu
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862362&extension=ts&play_token=MzcrhMFKU9
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862361.png" group-title="BULGARIA", BG| BTV ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862361&extension=ts&play_token=MHzE5SRLWn
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862361&extension=ts&play_token=8ox4Zdjpcw
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862360.png" group-title="BULGARIA", BG| BULGARIA ON AIR ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862360&extension=ts&play_token=vi2TwEC7Fv
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862360&extension=ts&play_token=SnD8yRQPaL
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862359.png" group-title="BULGARIA", BG| CARTOON NETWORK ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862359&extension=ts&play_token=yPSpDtxgx6
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862359&extension=ts&play_token=Xd0Ept7Lf8
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862358.png" group-title="BULGARIA", BG| CINEBOX ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862358&extension=ts&play_token=ITFSAeKsJr
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862358&extension=ts&play_token=LOKAUStpE7
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862357.png" group-title="BULGARIA", BG| CITY TV ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862357&extension=ts&play_token=jNrk7M3T7m
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862357&extension=ts&play_token=9tlJY2fGUh
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862356.png" group-title="BULGARIA", BG| CODE FASHION ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862356&extension=ts&play_token=dFCXYys5te
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862356&extension=ts&play_token=dfkGoIzHwg
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862355.png" group-title="BULGARIA", BG| CODE HEALTH ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862355&extension=ts&play_token=3Y0ZNFRLdF
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862355&extension=ts&play_token=ZtLDzNpb4T
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862354.png" group-title="BULGARIA", BG| COMEDYBOX ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862354&extension=ts&play_token=vFS4W1aCWT
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862354&extension=ts&play_token=le8B1WrlFF
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862353.png" group-title="BULGARIA", BG| DIEMA FAMILY ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862353&extension=ts&play_token=6oSB1pS5pK
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862353&extension=ts&play_token=TZVuNiS61c
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862352.png" group-title="BULGARIA", BG| DIEMA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862352&extension=ts&play_token=zfIxu4Ay9j
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862352&extension=ts&play_token=p3PcaqB8i0
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862351.png" group-title="BULGARIA", BG| DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862351&extension=ts&play_token=PyFcSptIoh
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862351&extension=ts&play_token=exjw3Yqrvj
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862350.png" group-title="BULGARIA", BG| DIEMA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862350&extension=ts&play_token=577Ywt53Yx
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862350&extension=ts&play_token=2Z5OOnDbDT
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862349.png" group-title="BULGARIA", BG| DIEMA ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862349&extension=ts&play_token=IJIJxdQ0ol
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862349&extension=ts&play_token=0qHN7TMkxE
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862348.png" group-title="BULGARIA", BG| DOCUBOX ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862348&extension=ts&play_token=HqtTau3oK0
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862348&extension=ts&play_token=qqV7wnbiAd
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862347.png" group-title="BULGARIA", BG| DSTV ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862347&extension=ts&play_token=W9q9MfwWkR
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862347&extension=ts&play_token=75Z2P02SsG
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862346.png" group-title="BULGARIA", BG| EKIDS ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862346&extension=ts&play_token=rroVSb8VL8
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862346&extension=ts&play_token=g88eMjCC0y
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862345.png" group-title="BULGARIA", BG| EURONEWS ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862345&extension=ts&play_token=xTZH95DRXS
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862345&extension=ts&play_token=Hcpie5JRqo
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862344.png" group-title="BULGARIA", BG| EVROKOM ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862344&extension=ts&play_token=1jYkz4j5oS
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862344&extension=ts&play_token=0DrCuvEd5c
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862343.png" group-title="BULGARIA", BG| FEN FOLK ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862343&extension=ts&play_token=2Rt5PsIFXA
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862343&extension=ts&play_token=h7DGIdTMRb
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862342.png" group-title="BULGARIA", BG| FEN ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862342&extension=ts&play_token=MExhGtIPwH
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862342&extension=ts&play_token=xdxbT3PNJU
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862341.png" group-title="BULGARIA", BG| FILMBOX ARTHOUSE ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862341&extension=ts&play_token=F4KJy3WMVw
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862341&extension=ts&play_token=TZCBaC0Oxa
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862340.png" group-title="BULGARIA", BG| FILMBOX EXTRA ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862340&extension=ts&play_token=DYOwpNoLsR
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862340&extension=ts&play_token=8ZbwkmDIgI
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862339.png" group-title="BULGARIA", BG| FILMBOX STARS ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862339&extension=ts&play_token=3YlJbRPB4U
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862339&extension=ts&play_token=5YsSy0ASEv
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862338.png" group-title="BULGARIA", BG| FILMBOX ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862338&extension=ts&play_token=cyrKVwOUWe
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862338&extension=ts&play_token=JrBzQkAYUK
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862337.png" group-title="BULGARIA", BG| KANAL 3 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862337&extension=ts&play_token=4fCrFDgqoT
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862337&extension=ts&play_token=v0PW02Hj9u
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862336.png" group-title="BULGARIA", BG| KINO NOVA ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862336&extension=ts&play_token=H696xMnyBs
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862336&extension=ts&play_token=wE8l8GMGFJ
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862335.png" group-title="BULGARIA", BG| MAGIC TV ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862335&extension=ts&play_token=nqeChQvSdD
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862335&extension=ts&play_token=rHwXfbmmTg
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862334.png" group-title="BULGARIA", BG| MAX SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862334&extension=ts&play_token=chmJMHYGQ2
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862334&extension=ts&play_token=nBTYYV2PJS
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862333.png" group-title="BULGARIA", BG| MAX SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862333&extension=ts&play_token=meeJR5eWgL
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862333&extension=ts&play_token=UhS4tQeAMK
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862332.png" group-title="BULGARIA", BG| MAX SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862332&extension=ts&play_token=7MtDcopQGR
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862332&extension=ts&play_token=sMLJMZQImM
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862331.png" group-title="BULGARIA", BG| MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862331&extension=ts&play_token=VHuSlUGx2W
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862331&extension=ts&play_token=HWKp0qLl99
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862330.png" group-title="BULGARIA", BG| NICKELODEON ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862330&extension=ts&play_token=zkn1AgTI4c
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862330&extension=ts&play_token=Tvu90jh9W4
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862329.png" group-title="BULGARIA", BG| NICK JR. ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862329&extension=ts&play_token=0um2FL59ta
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862329&extension=ts&play_token=FREFBdVrNs
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862328.png" group-title="BULGARIA", BG| NOVA NEWS ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862328&extension=ts&play_token=G21odpVFM6
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862328&extension=ts&play_token=Ff3uAjhLPe
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862327.png" group-title="BULGARIA", BG| NOVA SPORT ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862327&extension=ts&play_token=ehVSsmz3qN
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862327&extension=ts&play_token=2r4W93QX3p
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862326.png" group-title="BULGARIA", BG| NOVA ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862326&extension=ts&play_token=4S96x7frg2
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862326&extension=ts&play_token=7YQm15fp7j
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862325.png" group-title="BULGARIA", BG| PLANETA FOLK ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862325&extension=ts&play_token=rDhVqaRIGP
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862325&extension=ts&play_token=kHVwpIiNUE
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862324.png" group-title="BULGARIA", BG| PLANETA ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862324&extension=ts&play_token=ZQsEQIF2MF
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862324&extension=ts&play_token=bg88GdkNkC
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862323.png" group-title="BULGARIA", BG| RING ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862323&extension=ts&play_token=v82w2rJqTV
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862323&extension=ts&play_token=aZocUdH87S
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862322.png" group-title="BULGARIA", BG| RODINA TV ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862322&extension=ts&play_token=3qotgKHyNn
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862322&extension=ts&play_token=Zz6eNMgry5
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862321.png" group-title="BULGARIA", BG| THE VOICE ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862321&extension=ts&play_token=uF2aWwg0Eq
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862321&extension=ts&play_token=0nSiaD9BNH
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862320.png" group-title="BULGARIA", BG| TIANKOV FOLK ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862320&extension=ts&play_token=ptaQjOEhTk
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862320&extension=ts&play_token=9kf222B9FJ
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862319.png" group-title="BULGARIA", BG| TIANKOV ORIENT FOLK ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862319&extension=ts&play_token=jAqd2WKPlP
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862319&extension=ts&play_token=pZtkWxjSoG
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862318.png" group-title="BULGARIA", BG| TRAVEL TV ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862318&extension=ts&play_token=lidXwpUk1S
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862318&extension=ts&play_token=nR8LimRqu2
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862317.png" group-title="BULGARIA", BG| TV 1 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862317&extension=ts&play_token=tEzC9JAF6h
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862317&extension=ts&play_token=6XS18tJZvj
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862316.png" group-title="BULGARIA", BG| TV 7/8 ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862316&extension=ts&play_token=sKRXIgKZ8w
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862316&extension=ts&play_token=yJmnM0ZQcf
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862315.png" group-title="BULGARIA", BG| VIASAT EXPLORE ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862315&extension=ts&play_token=y3isLF0Otx
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862315&extension=ts&play_token=A2EnAITsgv
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862314.png" group-title="BULGARIA", BG| VIASAT HISTORY ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862314&extension=ts&play_token=R32kuwaSWY
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862314&extension=ts&play_token=LaLVmXK0Vo
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862313.png" group-title="BULGARIA", BG| VIASAT NATURE ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862313&extension=ts&play_token=YfCT4U4p6K
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862313&extension=ts&play_token=PH3BZtabNk
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1862312.png" group-title="BULGARIA", BG| VTK ⱽᴵᴾ ᴿᴬᵂ
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1862312&extension=ts&play_token=E6rk1QoTcC
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1862312&extension=ts&play_token=V0yqpEPsz9
 #EXTINF:-1 tvg-id="LOVENATURE4K.bg" tvg-logo="http://51.158.145.100/picons/logos/logos/bglovenature4k.png" group-title="BULGARIA", BG|  LOVE NATURE 4K [4K]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904740&extension=ts&play_token=RhTi6KaYjr
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904740&extension=ts&play_token=SklwGlyzFV
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE ROCK X METAL
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904739&extension=ts&play_token=sSi83d7BKz
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904739&extension=ts&play_token=M17qTmIXZd
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE RAP GAME
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904738&extension=ts&play_token=3N1ArEqUBA
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904738&extension=ts&play_token=QLCaoP042E
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE R&B FEELS
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904737&extension=ts&play_token=FAzZUpml1E
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904737&extension=ts&play_token=LEZrLQGBbo
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE R&B CLASSIC JAMS
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904736&extension=ts&play_token=ndVc05ARNy
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904736&extension=ts&play_token=Bo7tPto5TG
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE NUEVO LATINO
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904735&extension=ts&play_token=deLsiwEeWp
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904735&extension=ts&play_token=J1AMGsJmzx
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE HITS
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904734&extension=ts&play_token=6afHxaGwOL
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904734&extension=ts&play_token=Bm3oP9xieh
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE HIP-HOP EVOLUTION
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904733&extension=ts&play_token=rgEoSA4QUD
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904733&extension=ts&play_token=xqo7UlCVIg
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE GOSPEL
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904732&extension=ts&play_token=MNF0iQ88hk
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904732&extension=ts&play_token=rkRNHE61nO
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE COUNTRY TODAY
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904731&extension=ts&play_token=375tDMG7a5
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904731&extension=ts&play_token=v2VcIf20Um
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE CLASSIC COUNTRY
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904730&extension=ts&play_token=dMEVCMcbnf
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904730&extension=ts&play_token=8wrUr0g5ev
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE CHRISTIAN HITS
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904729&extension=ts&play_token=WDqoVLe9Us
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904729&extension=ts&play_token=ztys19yByF
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE CELEBRATES
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904728&extension=ts&play_token=tqvYqCTD6k
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904728&extension=ts&play_token=5RnUzRr1r9
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE 90S THROWBACK
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904727&extension=ts&play_token=vUtu6Uh7s3
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904727&extension=ts&play_token=LH0wZ6Y3lL
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE 80S FLASHBACK
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904726&extension=ts&play_token=XyoVosXqsG
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904726&extension=ts&play_token=VYCxLgBB9H
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USA/1895144.png" group-title="BULGARIA", BG| XITE 60S & 70S GROOVE
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1904725&extension=ts&play_token=7H5EAsul6q
-
+http://line.glantv.com:80/play/live.php?mac=00:1A:79:AA:4C:AF&stream=1904725&extension=ts&play_token=yeJYQ1fcpQ
