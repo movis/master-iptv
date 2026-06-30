@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917243.png" group-title="BULGARIA", BG| DIEMA SPORT 1 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917243&extension=ts&play_token=618VOi51yu
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917242.png" group-title="BULGARIA", BG| DIEMA SPORT 2
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917242&extension=ts&play_token=4oFj9gyoz9
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917241.png" group-title="BULGARIA", BG| DIEMA SPORT 3
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917241&extension=ts&play_token=Y3x3lAlrbn
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="BULGARIA", BG| EUROSPORT2 HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917234&extension=ts&play_token=WDJ2Xd7XTz
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="BULGARIA", BG| EUROSPORT HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917235&extension=ts&play_token=qQSZGKhqVE
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917233.png" group-title="BULGARIA", BG| FIGHT BOX HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917233&extension=ts&play_token=546dzNHqGK
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917231.png" group-title="BULGARIA", BG| FIGHTKLUB HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917231&extension=ts&play_token=Qma6vrgcFe
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917232.png" group-title="BULGARIA", BG| FIGHT NETWORK HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917232&extension=ts&play_token=8w0XwA30rz
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917230.png" group-title="BULGARIA", BG| GAMETOON HD [HD]
-http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917230&extension=ts&play_token=YAipw4zgyQ
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917240.png" group-title="BULGARIA", BG| MAX SPORT 1 HD [HD]
 http://line.tmklite.xyz:80/play/live.php?mac=00:1A:79:2F:34:01&stream=1917240&extension=ts&play_token=yqHwZgVPix
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/logos/1917239.png" group-title="BULGARIA", BG| MAX SPORT 2 HD [HD]
